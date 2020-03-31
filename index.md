@@ -1,10 +1,10 @@
 ---
 title: Welcome
 subtitle: To NCI’s Peer-to-Peer Remote Learning Community for Data Science
-use-site-title: true
+use-site-title: false
 bigimg: "/img/antibodies.jpg"
 ---
 
 This is where to start placing content using [Markdown](https://markdowntutorial.com) language.
 
-See [README.md](README) for more information.
+See [README.md](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/README.md) for more information.
