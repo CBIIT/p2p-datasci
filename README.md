@@ -1,8 +1,5 @@
 # p2p-datasci
 
-## Andrew to-do
-* Need to add usernames for admins (can sign up for one [here](https://github.com/join))
-
 ## Notes
 * TLDR:
   * Clone the repository to somewhere on your computer (or Biowulf): `git clone https://github.com/CBIIT/p2p-datasci.git`

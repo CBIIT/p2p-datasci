@@ -1,6 +1,6 @@
 ---
 title: Welcome
-subtitle: To NCI’s Peer-to-Peer Remote Learning Community for Data Science
+subtitle: to NCI’s Peer-to-Peer Remote Learning Community for Data Science
 use-site-title: false
 bigimg: "/img/antibodies.jpg"
 ---
