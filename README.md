@@ -7,3 +7,4 @@
 * Instructions from [here](https://github.com/daattali/beautiful-jekyll)
 * [URL](https://cbiit.github.com/p2p-datasci)
 * [Markdown tutorial](https://markdowntutorial.com)
+* Be sure to "git checkout gh-pages" in order to modify the site
