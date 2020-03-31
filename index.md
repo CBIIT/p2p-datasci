@@ -7,4 +7,4 @@ use-site-title: true
 
 This is where to start placing content using [Markdown](https://markdowntutorial.com) language.
 
-See [README.md](README.md) for more information.
+See [README.md](README) for more information.

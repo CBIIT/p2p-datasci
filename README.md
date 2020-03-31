@@ -8,4 +8,4 @@
 * [URL](https://cbiit.github.com/p2p-datasci)
 * [Markdown tutorial](https://markdowntutorial.com)
 * Be sure to "git checkout gh-pages" in order to modify the site
-* Files to really modify are [index.md](index.md) and [_config.yml](_config.yml).
+* Files to really modify are index.md and _config.yml.
