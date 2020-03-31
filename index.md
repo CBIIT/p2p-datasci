@@ -1,7 +1,6 @@
 ---
-layout: page
-title: p2p-datasci
-subtitle: CBIIT test test test
+title: Welcome
+subtitle: To NCI’s Peer-to-Peer Remote Learning Community for Data Science
 use-site-title: true
 bigimg: "/img/antibodies.jpg"
 ---
