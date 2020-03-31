@@ -16,8 +16,8 @@
 * Be sure to use the `gh-pages` branch (`git checkout gh-pages`) in order to modify the site
 * Use the `master` branch (`git checkout master`) to version-control files related to the program
 * Most configuration settings are located in [`_config.yml`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_config.yml)
-* The homepage is [https://cbiit.github.com/p2p-datasci](https://cbiit.github.com/p2p-sdsi) and corresponds to the file [`index.md`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/index.md)
-* Other files/pages are https://cbiit.github.com/p2p-sdsi/PAGENAME and correspond to the files `PAGENAME.md`
+* The homepage is [https://cbiit.github.com/p2p-datasci](https://cbiit.github.com/p2p-datasci) and corresponds to the file [`index.md`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/index.md)
+* Other files/pages are https://cbiit.github.com/p2p-datasci/PAGENAME and correspond to the files `PAGENAME.md`
 * Instructions to set up the site the first time (after creating the repository as usual):
   * `git branch gh-pages`
   * `git checkout gh-pages`
