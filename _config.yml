@@ -20,11 +20,11 @@ title: NCI Peer-to-Peer Remote Learning Exchange for Data Science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Getting Started: "getingstarted"
   Resources:
-    - Resources for Building Your Data Science Toolkit: "resources"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Data Science Learning Resources: "resources"
+    - CCR BTEP: "https://btep.ccr.cancer.gov/online/"
+  Collaboration Tools: "collabtools"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
