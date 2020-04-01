@@ -1,14 +1,14 @@
-Resources for Building Your Data Science Skillset
-=================================================
+## Resources for Building Your Data Science Skillset
 
-Beginners
----------
+Toward Data Science - tutorials and overviews
+[https://towardsdatascience.com/](https://towardsdatascience.com/)
 
 How to use NIH's Biowulf Compute Cluster - a self-paced course
-https://hpc.nih.gov/training/intro_biowulf/
+[https://hpc.nih.gov/training/intro_biowulf/](https://hpc.nih.gov/training/intro_biowulf/)
 
 Introduction to Programming (with Python) - a webinar from NIAID
-https://bioinformatics.niaid.nih.gov/resources#70.3.2
+[https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
-Intermediate and Advanced
--------------------------
+## Resources for Intermediate or Advanced Learners
+
+coming soon...
