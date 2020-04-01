@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Announcing
-subtitle: NCI Peer-to-Peer Remote Learning Exchange for Data Science!
+subtitle: The NCI Peer-to-Peer Remote Learning Exchange for Data Science!
 use-site-title: false
 bigimg: "/img/antibodies.jpg"
 ---
