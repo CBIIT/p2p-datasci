@@ -25,7 +25,6 @@ navbar-links:
     - Data Science Learning Resources: "resources"
     - CCR BTEP: "https://btep.ccr.cancer.gov/online/"
   Collaboration Tools: "collabtools"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
