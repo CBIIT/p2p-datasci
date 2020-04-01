@@ -1,9 +1,6 @@
 ---
-layout: post
-title: |
-  Announcing the
-  NCI Peer-to-Peer Remote Learning Exchange
-  for Data Science!
+layout: page
+title: Announcing the NCI Peer-to-Peer Remote Learning Exchange for Data Science!
 subtitle: A remote learning “matchmaking” service
 use-site-title: false
 bigimg: "/img/antibodies.jpg"
