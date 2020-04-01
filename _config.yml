@@ -22,7 +22,7 @@ title: NCI Peer-to-Peer Remote Learning Exchange for Data Science
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Resources for Building Your Data Science Toolkit: "cbiit.github.com/p2p-datasci/resources"
+    - Resources for Building Your Data Science Toolkit: "resources"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
