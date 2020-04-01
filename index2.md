@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Announcing the NCI Peer-to-Peer Remote Learning Exchange for Data Science!
 subtitle: A remote learning “matchmaking” service
 use-site-title: false
