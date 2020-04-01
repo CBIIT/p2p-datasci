@@ -1,13 +1,16 @@
 ---
-title: Welcome
-subtitle: to NCI’s Peer-to-Peer Remote Learning Exchange for Data Science
+layout: post
+title: >
+  Announcing the
+  NCI Peer-to-Peer Remote Learning Exchange for Data Science!
+subtitle: A remote learning “matchmaking” service
 use-site-title: false
 bigimg: "/img/antibodies.jpg"
 ---
 
-Announcing the
-NCI Peer-to-Peer Remote Learning Exchange for Data Science!
-A remote learning “matchmaking” service
+
+
+
  
  
 Are you interested in learning about data science or helping your NCI peers learn? 
