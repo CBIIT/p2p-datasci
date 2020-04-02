@@ -21,7 +21,7 @@ title: NCI Peer-to-Peer Remote Learning Exchange for Data Science
 # List of links in the navigation bar
 navbar-links:
   Getting Started: "gettingstarted"
-  Resources:
+  Learning Resources:
     - Data Science Learning Resources: "resources"
     - CCR BTEP: "https://btep.ccr.cancer.gov/online/"
   Collaboration Tools: "collabtools"
