@@ -21,4 +21,4 @@ bigimg: "/img/antibodies.jpg"
 
 * See the Learning Resources page **[add url]** for more information on current online courses, webinars, and tutorials you can participate in remotely!
 
-*Questions? Contact [NCI CBIIT Data Science Training](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
+*Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
