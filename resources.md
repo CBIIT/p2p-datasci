@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Resources
-bigimg: "/img/antibodies.jpg"
+bigimg: "/img/kedar.jpg"
 ---
 
 ## Resources for Building Your Data Science Skillset

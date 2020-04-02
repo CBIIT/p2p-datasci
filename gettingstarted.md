@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-bigimg: "/img/antibodies.jpg"
+bigimg: "/img/tem.jpg"
 ---
 
 ### What is the NCI Peer-to-Peer Remote Learning Exchange for Data Science?
