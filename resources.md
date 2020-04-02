@@ -9,7 +9,7 @@ How to use NIH's Biowulf Compute Cluster - a self-paced course
 Introduction to Programming (with Python) - a webinar from NIAID
 [https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
-NIH Listservs:
+### NIH Listservs:
 
 You must register for an account at [https://list.nih.gov](list.nih.gov) before subscribing to these.
 
