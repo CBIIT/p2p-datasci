@@ -6,7 +6,7 @@ bigimg: "/img/antibodies.jpg"
 
 ## Resources for Building Your Data Science Skillset
 
-This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](NCICBIITDataScienceTraining@mail.nih.gov).**
+This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov).**
 
 ### Scientific Computing
 
