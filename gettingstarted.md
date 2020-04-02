@@ -1,21 +1,24 @@
-## Getting Started Building Your Data Science Toolkit
+---
+layout: page
+title: Getting Started
+use-site-title: false
+bigimg: "/img/antibodies.jpg"
+---
 
-Congratulations on choosing to build your data science toolkit!  There are many people in NCI just like you, and the Peer-to-Peer Remote Learning Exchange for Data Science will help you learn with and from each other.
+## What is the NCI Peer-to-Peer Remote Learning Exchange for Data Science?
 
-This Learning Exchange works by matching people with similiar interests into pairs or study groups.  Your learning will primarily be on your own, but your peers and some guides will be there to answer questions, provide suggestions, and help keep you motivated.  Please make an effort to help out others as well!
+* A new resource during telework that connects NCI staff who want to learn how to use data science (learners) with others at NCI (learning guides) who want to share their knowledge and experience in data science at NCI
 
-To get started, just let us know what topics you are interested in and whether you want to learn, help others, or both.
+* Provides collaboration tools and learning resources that are easily accessed remotely
 
-Topics might include:
-* introduction to programming, with Python, R, Perl, Bash or other languages.
-* how to use Biowulf, NIH's high-powered compute cluster
-* managing and collaborating with other coders using Git or Github 
-* ...
+## How Does it Work? How Can I Join?
 
-Once you have registered by letting us know your interests, we will find others with matching interests.  You may then interact with them by email, Webex, or using other remote collaboration tools of your choice.
+* Complete the registration form **[add URL]** to tell us the topics you want to focus on, how to contact you, and what collaboration technology you are familiar with or willing to learn: WebEx, Microsoft Teams, email listservs, or other technology.
 
-Use this form to register: [registration form](../register)
+* After you register, we will help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
-If you decide at any time that you want to change your listed interests, just fill out the form again or email us.
+## Take Advantage of Learning Resources across NCI During Telework!
 
-Then, to get started learning, reach out to your peers or take a look at our [list of suggested learning resources](../resources).
+* See the Learning Resources page **[add url]** for more information on current online courses, webinars, and tutorials you can participate in remotely!
+
+*Questions? Contact [NCI CBIIT Data Science Training](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
