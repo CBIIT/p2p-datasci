@@ -14,4 +14,5 @@ bigimg: "/img/antibodies.jpg"
 
 * We will compile a list and help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
+---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*

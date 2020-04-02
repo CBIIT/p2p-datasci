@@ -1,6 +1,13 @@
+---
+layout: page
+title: Resources
+use-site-title: false
+bigimg: "/img/antibodies.jpg"
+---
+
 ## Resources for Building Your Data Science Skillset
 
-This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any resources you send us:** NCICBIITDataScienceTraining@mail.nih.gov
+This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any resources you send us:** [NCICBIITDataScienceTraining@mail.nih.gov](NCICBIITDataScienceTraining@mail.nih.gov)
 
 ### Scientific Computing
 
@@ -12,7 +19,7 @@ How to use NIH's Biowulf Compute Cluster - a self-paced course
 Introduction to Programming (with Python) - a webinar from NIAID
 [https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
-### Study Groups and Special Interest Groups:
+### Study Groups and Special Interest Groups
 
 Cloud 4 Bio - Weekly hackathon on Cloud Services and Web Applications for Cancer Research
 [https://cloud4bio.github.io/](https://cloud4bio.github.io/)
@@ -22,7 +29,7 @@ Cloud 4 Bio - Weekly hackathon on Cloud Services and Web Applications for Cancer
 Toward Data Science - tutorials and overviews
 [https://towardsdatascience.com/](https://towardsdatascience.com/)
 
-### NIH Listservs:
+### NIH Listservs
 
 You must register for an account at [https://list.nih.gov](list.nih.gov) before subscribing to these.
 
@@ -35,4 +42,7 @@ You must register for an account at [https://list.nih.gov](list.nih.gov) before 
 
 ## Resources for Intermediate or Advanced Learners
 
-coming soon...
+*Coming soon...*
+
+---
+*Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
