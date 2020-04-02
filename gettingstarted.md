@@ -18,4 +18,4 @@ Use this form to register: xx--URL coming soon --xx
 
 If you decide at any time that you want to change your listed interests, just fill out the form again or email us.
 
-Then, to get started learning, reach out to your peers or take a look at our [list of suggested learning resources](resources).
+Then, to get started learning, reach out to your peers or take a look at our [list of suggested learning resources](../resources).
