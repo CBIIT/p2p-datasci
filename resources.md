@@ -10,19 +10,19 @@ This list of resources is designed to give you material to study from, or groups
 
 ### Scientific Computing
 
-How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
+* How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
 
 ### Programming Languages
 
-Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
+* Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
 ### Study Groups and Special Interest Groups
 
-Cloud 4 Bio - [Weekly hackathon on Cloud Services and Web Applications for Cancer Research](https://cloud4bio.github.io)
+* Cloud 4 Bio - [Weekly hackathon on Cloud Services and Web Applications for Cancer Research](https://cloud4bio.github.io)
 
 ### General Tutorials and Overviews
 
-Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
+* Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
 
 ### NIH Listservs
 
