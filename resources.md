@@ -14,7 +14,7 @@ Introduction to Programming (with Python) - a webinar from NIAID
 ### Study Groups and Special Interest Groups:
 
 Cloud 4 Bio - Weekly hackathon on Cloud Services and Web Applications for Cancer Research
-[https://cloud4bio.github.io/][https://cloud4bio.github.io/)
+[https://cloud4bio.github.io/](https://cloud4bio.github.io/)
 
 ### NIH Listservs:
 
