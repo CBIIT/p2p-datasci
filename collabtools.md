@@ -1,4 +1,9 @@
-## Remote Collaboration Tools
+---
+layout: page
+title: Remote Collaboration Tools
+use-site-title: false
+bigimg: "/img/antibodies.jpg"
+---
 
 ### Webex
 
@@ -20,7 +25,7 @@ You may use MS Teams with your desktop client or through [https://teams.microsof
 
 To request a new team for collaborating in a small group, submit an IT Help Desk ticket with [this link](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5).
 
-### Other popular tools for collaboration among data scientists include:
+### Other popular tools for collaboration among data scientists include
 
 Gitter: [https://gitter.im/](https://gitter.im/)
 
@@ -31,3 +36,6 @@ Box
 ...and you may have other tools that you prefer.
 
 NOTE: Just be sure to treat exchange of data as you would with any other collaboation. Do not share protected data.
+
+---
+*Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
