@@ -16,15 +16,15 @@ Listservs that have already been created for the Data Science Learning Exchange 
 
 ### Microsoft Teams
 
-You may use MS Teams with your desktop client or through https://teams.microsoft.com
+You may use MS Teams with your desktop client or through [https://teams.microsoft.com](https://teams.microsoft.com)
 
 To request a new team for collaborating in a small group, submit an IT Help Desk ticket with [this link](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5).
 
 ### Other popular tools for collaboration among data scientists include:
 
-Gitter
+Gitter: [https://gitter.im/](https://gitter.im/)
 
-Slack
+Slack: [https://slack.com/](https://slack.com/)
 
 Box
 
