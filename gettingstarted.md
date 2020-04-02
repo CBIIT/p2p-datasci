@@ -14,7 +14,7 @@ Topics might include:
 
 Once you have registered by letting us know your interests, we will find others with matching interests.  You may then interact with them by email, Webex, or using other remote collaboration tools of your choice.
 
-Use this form to register: xx--URL coming soon --xx
+Use this form to register: [registration form](../register)
 
 If you decide at any time that you want to change your listed interests, just fill out the form again or email us.
 
