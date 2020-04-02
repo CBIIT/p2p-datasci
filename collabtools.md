@@ -31,7 +31,7 @@ Other popular tools for collaboration among data scientists include:
 * [Gitter](https://gitter.im/)
 * [Slack](https://slack.com/)
 * [Box](https://www.box.com)
-* ...and you may have other tools that you prefer... [let us know](mailto:NCICBIITDataScienceTraining@mail.nih.gov) about them!
+* ...and you may have other tools that you prefer: [let us know](mailto:NCICBIITDataScienceTraining@mail.nih.gov) about them!
 
 **NOTE:** Be sure to treat exchange of data as you would with any other collaboation. Do not share protected data.
 
