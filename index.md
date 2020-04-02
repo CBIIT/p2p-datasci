@@ -2,7 +2,7 @@
 layout: page
 title: Announcing
 subtitle: The NCI Peer-to-Peer Remote Learning Exchange for Data Science!
-bigimg: "/img/antibodies.jpg"
+bigimg: "/img/collaboration.jpg"
 ---
 
 ### Are you interested in learning about data science or helping your NCI peers learn?
