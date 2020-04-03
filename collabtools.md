@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Remote Collaboration Tools
+title: Collaboration Tools
 bigimg: "/img/collaboration.jpg"
 ---
 
