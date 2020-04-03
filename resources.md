@@ -19,7 +19,7 @@ This list of resources is designed to give you material to study from, or groups
 ### Study Groups and Special Interest Groups
 
 * Cloud 4 Bio, led by DCEG's Jonas de Almeida - [Weekly hackathon on Cloud Services and Web Applications for Cancer Research](https://cloud4bio.github.io)
-* NIH Data Science Slack group - [https://join.slack.com/t/nihdatascience/signup](https://join.slack.com/t/nihdatascience/signup)
+* NIH Data Science [Slack group](https://join.slack.com/t/nihdatascience/signup)
 
 ### General Tutorials and Overviews
 
