@@ -17,7 +17,7 @@ bigimg: "/img/tem.jpg"
 
 * After you register, we will help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
-### Take Advantage of Learning Resources Across NCI While You Telework!
+### Take Advantage of Learning Resources Across NCI While Working from Home!
 
 * See the [Learning Resources page](../resources) for more information on current online courses, webinars, and tutorials you can participate in remotely.
 
