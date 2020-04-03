@@ -8,7 +8,7 @@ bigimg: "/img/tem.jpg"
 
 * This is a new resource for teleworkers. It connects NCI staff who want to learn how to use data science (learners) with other learners at NCI --- and with those who want to share their experience in using data science at NCI.
 
-* The Peer-to-Peer Remote Learning Exchange for Data Science also provides collaboration tools and learning resources that are easily accessed remotely.
+* It also provides collaboration tools and learning resources that are easily accessed remotely.
 
 ### How Does It Work? How Can I Join?
 
