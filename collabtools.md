@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Remote Collaboration Tools
-bigimg: "/img/data_center.jpg"
+bigimg: "/img/antibodies.jpg"
 ---
 
 ### Webex
