@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Exchange
+title: Announcing 
 subtitle: The NCI Peer-to-Peer Remote Learning Exchange for Data Science
 bigimg: "/img/antibodies.jpg"
 ---
