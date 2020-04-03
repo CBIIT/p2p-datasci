@@ -13,7 +13,6 @@ bigimg: "/img/tem.jpg"
 ### How Does It Work? How Can I Join?
 
 * Complete the registration form below to tell us the topics you want to focus on, how to contact you, and what collaboration technologies you are familiar with or willing to learn.
-
 ..* Registration form: [http://bit.ly/NCI_datascience_peer2peer](http://bit.ly/NCI_datascience_peer2peer)*
 
 * After you register, we will help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
