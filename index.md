@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Announcing NCI's Peer-to-Peer Remote Learning Exchange for Data Science
+title: NCI's Peer-to-Peer Remote Learning Exchange for Data Science
 subtitle: The NCI Peer-to-Peer Remote Learning Exchange for Data Science
 bigimg: "/img/collaboration.jpg"
 ---
