@@ -13,6 +13,6 @@ bigimg: "/img/antibodies.jpg"
 
 * We will compile a list and help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
-Connect with others across NCI to help you learn data science skills or share your experience in data science at NCI to help others!
+### Connect with others across NCI to help you learn data science skills or share your experience in data science to help others!
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
