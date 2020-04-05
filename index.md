@@ -13,7 +13,7 @@ bigimg: "/img/antibodies.jpg"
 
 * We will compile a list and help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
-### Connect with others across NCI to learn data science skills that can help you in your work – or share your experience to help others!
+### Connect with others across NCI to learn data science skills that can help you in your work – or share your experience to help others!  OR
 
 ### Learn hands-on data science skills during telework and connect with others across NCI!
 ---
