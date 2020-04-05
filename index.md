@@ -15,6 +15,6 @@ bigimg: "/img/antibodies.jpg"
 
 ### Connect with others across NCI to learn data science skills that can help you in your work – or share your experience to help others!
 
-### Learn data science knowledge and skills during telework!
+### Learn data science hands-on skills during telework!
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
