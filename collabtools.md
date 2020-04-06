@@ -30,8 +30,6 @@ bigimg: "/img/collaboration.jpg"
 
 Share files and data online using chat, voice and video.  See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?threadId=19:5c0d65c54a874a3fbefc2c2a75d82694@thread.skype&ctx=channel) about how to get started.
 
-You may use MS Teams with your desktop client or [online](https://teams.microsoft.com).
-
 [Request](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5) a new team for collaborating in a small group.
 
 ### Other Tools
