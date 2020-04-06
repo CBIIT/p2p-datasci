@@ -12,21 +12,24 @@ This list of resources is designed to give you material to study from, or groups
 
 * How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
 
-### Programming Languages
+### Scripting and Programming Languages
 
-* Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
+* Introduction to Programming (with Python) - a webinar from NIAID [https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 * Introduction to R (coming soon)
+* The UNIX (and Linux) Shell for Novices - [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
 
 ### Study Groups and Special Interest Groups
 
-* Cloud 4 Bio, led by DCEG's Jonas de Almeida - [Weekly hackathon on Cloud Services and Web Applications for Cancer Research](https://cloud4bio.github.io)
+* Cloud 4 Bio, led by DCEG's Jonas de Almeida - Weekly hackathon on Cloud Services and Web Applications for Cancer Research [https://cloud4bio.github.io](https://cloud4bio.github.io)
 * NIH Data Science [Slack group](https://join.slack.com/t/nihdatascience/signup)
 
 ### General Tutorials and Overviews
 
-* Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
-* Biostars - [Bioinformatics Explained](https://www.biostars.org/)
-* Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
+* Toward Data Science - tutorials and overviews [https://towardsdatascience.com](https://towardsdatascience.com)
+* Biostars - "Bioinformatics Explained" [https://www.biostars.org/](https://www.biostars.org/)
+* Dataquest.io - interactive tutorials [https://www.dataquest.io/](https://www.dataquest.io/)
+
+Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for Biostars and Dataquest available for CCR staff.  If you are interested in these, but are not in CCR, please contact us and we will arrange licenses for you: [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov)
 
 ### NIH Listservs
 
