@@ -8,14 +8,22 @@ bigimg: "/img/kedar.jpg"
 
 This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Current resources include:
 
-### Scientific Computing
+### HPC and Batch Computing
 
 * How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
 
 ### Scripting and Programming Languages
 
+#### Python
+
 * Introduction to Programming (with Python) - a webinar from NIAID [https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
-* Introduction to R (coming soon)
+
+#### R
+
+* Introduction to R (coming soon) - []()
+
+#### Bash / Shell Scripting / UNIX/Linux Command Line
+
 * The UNIX (and Linux) Shell for Novices - [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
 
 ### Study Groups and Special Interest Groups
@@ -45,6 +53,10 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 ## Resources for Intermediate or Advanced Learners
 
 *Coming soon...*
+
+### Machine Learning
+
+
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
