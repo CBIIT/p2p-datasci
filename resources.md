@@ -24,6 +24,8 @@ This list of resources is designed to give you material to study from, or groups
 ### General Tutorials and Overviews
 
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
+* Biostars - [Bioinformatics Explained](https://www.biostars.org/)
+* Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
 
 ### NIH Listservs
 
