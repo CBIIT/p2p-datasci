@@ -37,7 +37,7 @@ This list of resources is designed to give you material to study from, or groups
 * Biostars - "Bioinformatics Explained" [https://www.biostars.org/](https://www.biostars.org/)
 * Dataquest.io - interactive tutorials [https://www.dataquest.io/](https://www.dataquest.io/)
 
-Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for Biostars and Dataquest available for CCR staff.  If you are interested in these, but are not in CCR, please contact us and we will arrange licenses for you: [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov)
+Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for [Biostars](https://www.biostars.org/) and [Dataquest.io](https://www.dataquest.io/) available for CCR staff.  If you are interested in these, but are not in CCR, please contact us and we will arrange licenses for you: [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov)
 
 ### NIH Listservs
 
