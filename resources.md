@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Resources for Building Your Data Science Skillset
 
-This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov).** (email link) Current resources include:
+This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Current resources include:
 
 ### Scientific Computing
 
@@ -15,6 +15,7 @@ This list of resources is designed to give you material to study from, or groups
 ### Programming Languages
 
 * Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
+* Introduction to R (coming soon)
 
 ### Study Groups and Special Interest Groups
 
