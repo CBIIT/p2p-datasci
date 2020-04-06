@@ -6,23 +6,33 @@ bigimg: "/img/collaboration.jpg"
 
 ### Webex
 
-You may join Webex sessions created by others by simply clicking on a link for their room.
+* Join Webex sessions created by others by simply clicking on a link
+* Request a [Host Account](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=1d83eb95dbd1c3002f4e75131f9619f3) so you can host meeting.
+* Create your own Webex [personal room](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013840).
 
-If you want to create your own Webex room, request one by [submitting an IT Help Desk ticket to CBIIT](https://service.cancer.gov).
+### Jabber
+
+* Use [Jabber](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013219)
 
 ### Email Listservs and Distribution Lists
 
-Listservs allow you to participate in group discussions over email.  To use these, you must first [sign up for an NIH Listserv account](https://list.nih.gov).
+**Listservs** allow you to participate in group discussions over email.
 
-If you would like to create a list for a new study group, [submit an IT Help Desk ticket to CBIIT](https://service.cancer.gov).
+* [Sign up](https://list.nih.gov) for an NIH Listserv account.
+* Find existing listservs relevant to Data Science on the [Resources](../resources) page.
+* [Create](https://service.cancer.gov) a list for a new study group.
 
-Listservs that have already been created for the Data Science Learning Exchange can be found on the [Resources](../resources) page.
+**Distribution Lists** (DLs) are like Listservs, but simpler; good for small groups.
+
+* [Create](https://service.cancer.gov) a Distribution List.
 
 ### Microsoft Teams
 
+Share files and data online using chat, voice and video.  See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?threadId=19:5c0d65c54a874a3fbefc2c2a75d82694@thread.skype&ctx=channel) about how to get started.
+
 You may use MS Teams with your desktop client or [online](https://teams.microsoft.com).
 
-To request a new team for collaborating in a small group, [submit an IT Help Desk ticket](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5).
+[Request](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5) a new team for collaborating in a small group.
 
 ### Other Tools
 
