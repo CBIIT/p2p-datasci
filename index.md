@@ -5,16 +5,15 @@ subtitle: The NCI Peer-to-Peer Remote Learning Exchange for Data Science
 bigimg: "/img/antibodies.jpg"
 ---
 
-### Do you want to learn data science skills or help your NCI peers learn?
+### Do you want to learn data science skills while helping your NCI peers learn?
 
-**[Register here](http://bit.ly/NCI_datascience_peer2peer)** for the Peer-to-Peer Remote Learning Exchange.
+**[Register here](http://bit.ly/NCI_datascience_peer2peer)** for the Peer-to-Peer Remote Learning Exchange for Data Science.
 
 * Choose the topics you want to focus on, how to contact you, and what collaboration technology you are familiar with or willing to learn, such as Webex, Microsoft Teams, email listservs, or other technology.
 
 * We will compile a list and help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
-### Connect with others across NCI to learn data science skills that can help you in your work – or share your experience to help others! OR
+### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
 
-### Learn hands-on data science skills during telework and connect with others across NCI!
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
