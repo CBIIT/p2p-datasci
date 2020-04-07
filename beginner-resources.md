@@ -31,6 +31,10 @@ This list of resources is designed to help you learn data science fundamentals -
 
 * [The UNIX (and Linux) Shell for Novices](http://swcarpentry.github.io/shell-novice/)
 
+### Git/GitHub
+
+* [Introduction to Git and GitHub](https://guides.github.com/introduction/git-handbook)
+
 ### Data Visualization
 
 * Coming soon...
