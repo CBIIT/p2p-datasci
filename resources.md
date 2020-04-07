@@ -41,7 +41,7 @@ This list of resources is designed to give you material to study from, or groups
 ### General Tutorials and Overviews
 
 * Toward Data Science - tutorials and overviews [https://towardsdatascience.com](https://towardsdatascience.com)
-** [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
+ * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
 * Biostars - "Bioinformatics Explained" [https://www.biostars.org/](https://www.biostars.org/)
 * Dataquest.io - interactive tutorials [https://www.dataquest.io/](https://www.dataquest.io/)
 
