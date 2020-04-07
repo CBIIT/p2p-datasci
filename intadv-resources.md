@@ -15,6 +15,10 @@ This list of resources is designed for learners who already have some command of
 
 * Github tutorial on machine learning [https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)
 
+### Bioinformatics
+
+* [Biostars](https://www.biostars.org/) - "Bioinformatics Explained" (CCR staff: see [BTEP](https://btep.ccr.cancer.gov/) if you need licenses)
+
 *More resources coming soon...*
 
 ---
