@@ -28,7 +28,7 @@ Whether you are just beginning or have been learning for a while, **you are in a
 
 ### Take Advantage of Learning Resources Across NCI While Working from Home!
 
-* See the [Learning Resources page](../resources) for more information on current online courses, webinars, and tutorials you can participate in remotely.
+See the [Learning Resources page](../resources) for more information on current online courses, webinars, and tutorials you can participate in remotely.
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*

@@ -23,7 +23,7 @@ navbar-links:
   Getting Started: "gettingstarted"
   Learning Resources:
     - Beginner - Data Sci Learning Resources: "beginner-resources"
-    - Inetermediate/Advanced - Data Sci Learning Resources: "intadv-resources"
+    - Intermediate/Advanced - Data Sci Learning Resources: "intadv-resources"
     - CCR Bioinformatics Training & Education Program: "https://btep.ccr.cancer.gov/"
   Collaboration Tools: "collabtools"
 

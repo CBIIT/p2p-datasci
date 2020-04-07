@@ -6,8 +6,8 @@ bigimg: "/img/collaboration.jpg"
 
 ### Webex
 
-* Join Webex sessions created by others by simply clicking on a link
-* Request a [Host Account](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=1d83eb95dbd1c3002f4e75131f9619f3) so you can host meeting.
+* Join Webex sessions created by others by simply clicking on a link.
+* Request a [Host Account](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=1d83eb95dbd1c3002f4e75131f9619f3) so you can host meetings.
 * Create your own Webex [personal room](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013840).
 
 ### Jabber
@@ -38,7 +38,7 @@ Other popular tools for collaboration among data scientists include:
 * [Gitter](https://gitter.im/)
 * [Slack](https://slack.com/)
 * [Box](https://www.box.com)
-* ...and you may have other tools that you prefer: [let us know](mailto:NCICBIITDataScienceTraining@mail.nih.gov) about them!
+* ...and you may have other tools that you prefer: [let us know](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) about them!
 
 **NOTE:** Be sure to treat exchange of data as you would with any other collaboation. Do not share protected data.
 
