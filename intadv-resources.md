@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Resources for Building Your Data Science Skillset
 
-This list of resources is designed for learners who already have some command of the fundamentals of data science.  The [beginner resources section](../beginner-resources.md) may also have resources of interest, including both study materials and groups to study with.
+This list of resources is designed for learners who already have some command of the fundamentals of data science.  The [beginner resources section](../beginner-resources) may also have resources of interest, including both study materials and groups to study with.
 
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Current resources include:
 
