@@ -50,6 +50,10 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 * [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l)
 * [AI](https://list.nih.gov/cgi-bin/wa.exe?A0=AI)
 
+
+CBIIT Cancer Data Science Seminar Series (https://datascience.cancer.gov/news-events/events/data-science-seminar)
+   Archive of past events (https://datascience.cancer.gov/news-events/events/archive)
+
 ## Resources for Intermediate or Advanced Learners
 
 *Coming soon...*
