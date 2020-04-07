@@ -52,7 +52,7 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 
 
 CBIIT Cancer Data Science Seminar Series [https://datascience.cancer.gov/news-events/events/data-science-seminar](https://datascience.cancer.gov/news-events/events/data-science-seminar)
-[archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
+* [archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
 
 ## Resources for Intermediate or Advanced Learners
 
