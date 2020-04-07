@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Resources for Intermediate and Advanced Learners
+title: Intermediate and Advanced Resources 
 bigimg: "/img/kedar.jpg"
 ---
 

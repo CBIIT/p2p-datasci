@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Resources for Getting Started Building Your Data Science Skillset
 
-This list of resources is designed to learn data science fundamentals -- programming languages, common tooling, and general concepts.  Here you give you material to study from as well as groups to study with.
+This list of resources is designed to help you learn data science fundamentals -- programming languages, common tooling, and general concepts.  Here you give you material to study from as well as groups to study with.
 
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Current resources include:
 
