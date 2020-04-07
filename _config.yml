@@ -22,7 +22,8 @@ title: NCI Peer-to-Peer Remote Learning Exchange for Data Science
 navbar-links:
   Getting Started: "gettingstarted"
   Learning Resources:
-    - Data Science Learning Resources: "resources"
+    - Beginner - Data Sci Learning Resources: "beginner-resources"
+    - Inetermediate/Advanced - Data Sci Learning Resources: "intadv-resources"
     - CCR Bioinformatics Training & Education Program: "https://btep.ccr.cancer.gov/"
     - NIAID Scientific Programming Tutorials: "https://bioinformatics.niaid.nih.gov/resources#70"
   Collaboration Tools: "collabtools"
