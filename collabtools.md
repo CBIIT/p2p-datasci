@@ -16,13 +16,12 @@ bigimg: "/img/collaboration.jpg"
 
 ### Email Listservs and Distribution Lists
 
-**Listservs** allow you to participate in group discussions over email.
+**Listservs** allow you to participate in group discussions over email.  A listserv can be configured to maintain a searchable archive of past emails.  Note that once created, anyone in NIH (not just NCI) can request to join.
 
 * [Sign up](https://list.nih.gov) for an NIH Listserv account.
-* Find existing listservs relevant to Data Science on the [Resources](../resources) page.
-* [Create](https://service.cancer.gov) a list for a new study group.
+* [Create](https://service.cancer.gov) a listserv for a new study group.
 
-**Distribution Lists** (DLs) are like Listservs, but simpler; good for small groups.
+**Distribution Lists** (DLs) are like Listservs, but simpler; good for small groups.  The NCI IT Service Desk can add new members on request.
 
 * [Create](https://service.cancer.gov) a Distribution List.
 
