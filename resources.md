@@ -14,17 +14,24 @@ This list of resources is designed to give you material to study from, or groups
 
 ### Scripting and Programming Languages
 
+* Software Carpentry lessons [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
+
 #### Python
 
+* Intro to Python from Github [https://github.com/python](https://github.com/python)
 * Introduction to Programming (with Python) - a webinar from NIAID [https://bioinformatics.niaid.nih.gov/resources#70.3.2](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
-#### R
+#### R / RStudio
 
-* Introduction to R (coming soon) - []()
+* Introduction to R (RStudio) - [https://education.rstudio.com/learn/](https://education.rstudio.com/learn/)
 
 #### Bash / Shell Scripting / UNIX/Linux Command Line
 
 * The UNIX (and Linux) Shell for Novices - [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
+
+### Data Visualization
+
+* coming soon...
 
 ### Study Groups and Special Interest Groups
 
@@ -34,6 +41,7 @@ This list of resources is designed to give you material to study from, or groups
 ### General Tutorials and Overviews
 
 * Toward Data Science - tutorials and overviews [https://towardsdatascience.com](https://towardsdatascience.com)
+** [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
 * Biostars - "Bioinformatics Explained" [https://www.biostars.org/](https://www.biostars.org/)
 * Dataquest.io - interactive tutorials [https://www.dataquest.io/](https://www.dataquest.io/)
 
@@ -60,7 +68,7 @@ CBIIT Cancer Data Science Seminar Series [https://datascience.cancer.gov/news-ev
 
 ### Machine Learning
 
-
+* Github tutorial on machine learning [https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
