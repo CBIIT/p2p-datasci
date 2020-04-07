@@ -18,10 +18,6 @@ This list of resources is designed for learners who already have some command of
 
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 
-### Git
-
-* [Introduction to Git and GitHub](https://guides.github.com/introduction/git-handbook)
-
 *More resources coming soon...*
 
 ---
