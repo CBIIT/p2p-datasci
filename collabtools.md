@@ -12,7 +12,7 @@ bigimg: "/img/collaboration.jpg"
 
 ### Jabber
 
-* Use [Jabber](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013219)
+* Use [Jabber](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013219), NCI's instant messaging and collaboration tool.
 
 ### Email Listservs and Distribution Lists
 
