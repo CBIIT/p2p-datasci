@@ -10,6 +10,8 @@ bigimg: "/img/tem.jpg"
 
 * It also provides collaboration tools and learning resources that are easily accessed remotely.
 
+* The learning guides are volunteers in these activities. Through different means of communications, they will provide insights and resources for learners. We plan to have several guides per data science category. The guides are  expected to not spend significant time on these activities, and be available to answer questions from learners.
+
 ### How Does It Work? How Can I Join?
 
 * Complete the [registration form](http://bit.ly/NCI_datascience_peer2peer) to tell us the topics you want to focus on, how to contact you, and what collaboration technology you are familiar with or willing to learn.
