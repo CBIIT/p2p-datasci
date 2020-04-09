@@ -19,7 +19,7 @@ This list of resources is designed for learners who already have some command of
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 * Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
 
-*More resources coming soon...*
+**
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
