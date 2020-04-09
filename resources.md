@@ -31,7 +31,7 @@ This list of resources is designed to give you material to study from, or groups
 
 ### Data Visualization
 
-
+https://matplotlib.org/tutorials/index.html
 
 ### Study Groups and Special Interest Groups
 
