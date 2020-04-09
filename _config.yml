@@ -24,7 +24,7 @@ navbar-links:
   Learning Resources:
     - Beginner: "beginner-resources"
     - Intermediate/Advanced: "intadv-resources"
-    - CCR Bioinformatics Training & Education Program: "https://btep.ccr.cancer.gov/"
+    - CCR Bioinformatics Training & Education Program (BTEP): "https://btep.ccr.cancer.gov/"
   Collaboration Tools: "collabtools"
 
 # Image to show in the navigation bar - image must be a square (width = height)
