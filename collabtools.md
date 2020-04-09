@@ -8,7 +8,7 @@ bigimg: "/img/collaboration.jpg"
 
 [Microsoft Teams](https://teams.microsoft.com) is the main collaboration hub for the NCI Data Science Learning Exchange.
 
-In Teams, you will find a "channels" for each study group to chat and to share information and resources.
+Here you will find a "channel" for each study group to chat and to share information and resources.
 
 See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?threadId=19:5c0d65c54a874a3fbefc2c2a75d82694@thread.skype&ctx=channel) about how to get started.
 
