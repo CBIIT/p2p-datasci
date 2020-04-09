@@ -16,7 +16,7 @@ This list of resources is designed to help you learn data science fundamentals -
 
 ### Scripting and Programming Languages
 
-* [Software Carpentry lessons](https://software-carpentry.org/lessons/)
+**[Software Carpentry lessons](https://software-carpentry.org/lessons/)** - tutorials on shell, Python, R, Git, etc.
 
 #### Python
 
