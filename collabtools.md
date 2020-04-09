@@ -6,7 +6,7 @@ bigimg: "/img/collaboration.jpg"
 
 ### Microsoft Teams
 
-[Microsoft Teams](https://teams.microsoft.com)) is as the main collaboration portal for the NCI Data Science Learning Exchange.
+[Microsoft Teams](https://teams.microsoft.com) is as the main collaboration hub for the NCI Data Science Learning Exchange.
 
 In Teams, we have "channel" established for each major study group to share files and data online using chat, voice and video.
 
