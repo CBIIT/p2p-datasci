@@ -38,8 +38,7 @@ This list of resources is designed to help you learn data science fundamentals -
 
 ### Data Visualization
 
-* [Matplotlib in-depth user guides: beginner, intermediate, and advanced sections, plus sections covering specific topics.]
-(https://matplotlib.org/tutorials/index.html)
+* [Matplotlib in-depth user guides: beginner, intermediate, and advanced sections, plus sections covering specific topics.](https://matplotlib.org/tutorials/index.html)
 
 ### Study Groups and Special Interest Groups
 
