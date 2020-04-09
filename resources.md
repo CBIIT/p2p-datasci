@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Resources for Building Your Data Science Skillset
 
-This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Current resources include:
+This list of resources is designed to give you material to study from, or groups to study with.  **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Current resources include:
 
 ### HPC and Batch Computing
 
