@@ -31,6 +31,7 @@ This list of resources is designed to give you material to study from, or groups
 
 ### Data Visualization
 
+Matplotlib in-depth user guides: beginner, intermediate, and advanced sections, plus specific topics.
 https://matplotlib.org/tutorials/index.html
 
 ### Study Groups and Special Interest Groups
