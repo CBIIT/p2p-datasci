@@ -10,10 +10,6 @@ This list of resources is designed to help you learn data science fundamentals -
 
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Please help your peers learn by contacting us to suggest useful learning resources!
 
-### HPC and Batch Computing
-
-* How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
-
 ### Scripting and Programming Languages
 
 **[Software Carpentry lessons](https://software-carpentry.org/lessons/)** - tutorials on shell, Python, R, Git, etc.
@@ -46,7 +42,11 @@ This list of resources is designed to help you learn data science fundamentals -
 * NIH Data Science [Slack group](https://join.slack.com/t/nihdatascience/signup)
 * Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
 
-### General Tutorials and Overviews
+#### HPC and Batch Computing
+
+* How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
+
+## General Tutorials and Overviews
 
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
