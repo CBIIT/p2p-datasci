@@ -13,7 +13,7 @@ This list of resources is designed for learners who already have some command of
 ### Machine Learning
 
 * [GitHub tutorial on machine learning](https://github.com/topics/machine-learning)
-   Machine Learning Mastery - Step-by-Step Guides for Applied Machine Learning https://machinelearningmastery.com/start-here/
+  Machine Learning Mastery: Step-by-Step Guides for Applied Machine Learning https://machinelearningmastery.com/start-here/
 
 ### Bioinformatics
 
