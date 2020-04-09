@@ -4,32 +4,34 @@ title: Collaboration Tools
 bigimg: "/img/collaboration.jpg"
 ---
 
+### Microsoft Teams
+
+Microsoft Teams ([https://teams.microsoft.com](https://teams.microsoft.com)) is used as the main collaboration portal for the NCI Data Science Learning Exchange.
+
+In Teams, we have a "channel" established for each major study group to share files and data online using chat, voice and video.
+
+See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?threadId=19:5c0d65c54a874a3fbefc2c2a75d82694@thread.skype&ctx=channel) about how to get started.
+
+
 ### Webex
 
 * Join Webex sessions created by others by simply clicking on a link.
 * Request a [Host Account](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=1d83eb95dbd1c3002f4e75131f9619f3) so you can host meetings.
 * Create your own Webex [personal room](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013840).
 
+
 ### Jabber
 
 * Use [Jabber](https://service.cancer.gov/ncisp?id=kb_article_view&sysparm_article=NCI-KB0013219), NCI's instant messaging and collaboration tool.
 
-### Email Listservs and Distribution Lists
+
+### Email Listservs
 
 **Listservs** allow you to participate in group discussions over email.  A listserv can be configured to maintain a searchable archive of past emails.  Note that once created, anyone in NIH (not just NCI) can request to join.
 
 * [Sign up](https://list.nih.gov) for an NIH Listserv account.
 * [Create](https://service.cancer.gov) a listserv for a new study group.
 
-**Distribution Lists** (DLs) are like Listservs, but simpler; good for small groups.  The NCI IT Service Desk can add new members on request.
-
-* [Create](https://service.cancer.gov) a Distribution List.
-
-### Microsoft Teams
-
-Share files and data online using chat, voice and video.  See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?threadId=19:5c0d65c54a874a3fbefc2c2a75d82694@thread.skype&ctx=channel) about how to get started.
-
-[Request](https://service.cancer.gov/ncisp?id=nci_sc_cat_item&sys_id=47ef0fa5dbfa330029117d321f9619b5) a new team for collaborating in a small group.
 
 ### Other Tools
 
