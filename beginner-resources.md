@@ -43,6 +43,7 @@ This list of resources is designed to help you learn data science fundamentals -
 
 * [Cloud 4 Bio](https://cloud4bio.github.io), led by DCEG's Jonas de Almeida - weekly hackathon on Cloud Services and Web Applications for Cancer Research
 * NIH Data Science [Slack group](https://join.slack.com/t/nihdatascience/signup)
+* Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
 
 ### General Tutorials and Overviews
 
