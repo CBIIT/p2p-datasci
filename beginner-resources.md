@@ -26,6 +26,7 @@ This list of resources is designed to help you learn data science fundamentals -
 #### R / RStudio
 
 * [Introduction to R (RStudio)](https://education.rstudio.com/learn/)
+* Event: April 30, 2-4pm, Introduction to R and R Studio for NCI Fellows - Instruction via Webex. More info coming soon.
 
 #### Bash / Shell Scripting / UNIX/Linux Command Line
 
