@@ -31,7 +31,7 @@ This list of resources is designed to give you material to study from, or groups
 
 ### Data Visualization
 
-* coming soon...
+
 
 ### Study Groups and Special Interest Groups
 
@@ -64,13 +64,12 @@ CBIIT Cancer Data Science Seminar Series [https://datascience.cancer.gov/news-ev
 
 ## Resources for Intermediate or Advanced Learners
 
-*Coming soon...*
 
 ### Machine Learning
 
 * Github tutorial on machine learning [https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)
 
-Machine Learning Mastery Tutorials https://machinelearningmastery.com/start-here/
+  Machine Learning Mastery Tutorials https://machinelearningmastery.com/start-here/
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
