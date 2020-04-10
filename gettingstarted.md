@@ -4,19 +4,26 @@ title: Getting Started
 bigimg: "/img/tem.jpg"
 ---
 
-### What is the NCI Data Science Learning Exchange?
+### How Does it Work? 5 Easy Steps
 
-* This is a new resource for teleworkers. It connects NCI staff who want to learn how to use data science (learners) with other learners at NCI --- and with those who want to share their experience in using data science at NCI (learning guides).
+### 1.	Register 
 
-* It also provides collaboration tools and learning resources that are easily accessed remotely.
+2.	After you register, you will receive an email describing next steps 
+3.	Look through the list of Resources on this website (beginners & intermediate/advanced) 
+4.	Find your chosen topic(s) in the Learning Exchange Microsoft Team (add link). Look for the channels that correspond to your interests. 
+5.	Engage in dialogue with others in your channel!
 
-* The learning guides are volunteers in these activities. Through different means of communications, they will provide insights and resources for learners. We plan to have several guides per data science category. The guides are  expected to not spend significant time on these activities, and be available to answer questions from learners.
 
-### How Does It Work? How Can I Join?
+
+
+
+
+
+
+
 
 * Complete the [registration form](http://bit.ly/NCI_datascience_peer2peer) to tell us the topics you want to focus on, how to contact you, and what collaboration technology you are familiar with or willing to learn.
 
-* After you register, we will help you find other NCI staff who are either learning the same topics or willing to guide you informally in your studies.
 
 ### Tips for Learning and Helping Others Learn
 
