@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Resources for Getting Started Building Your Data Science Skillset
 
-This list of resources is designed to help you learn data science fundamentals -- programming languages, common tooling, and general concepts.  Here you can find material to study from as well as groups to study with.
+This list of resources is designed to help you learn data science fundamentals -- programming languages, common tooling, and general concepts.  Here you can find material to study from and groups to study with.
 
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Please help your peers learn by contacting us to suggest useful learning resources!
 
@@ -53,6 +53,11 @@ This list of resources is designed to help you learn data science fundamentals -
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 * Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
 
+### CBIIT Cancer Data Science Seminar Series
+
+* [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
+* [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
+
 Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for [Biostars](https://www.biostars.org/) and [Dataquest.io](https://www.dataquest.io/) available for CCR staff.  If you are interested in these, but are not in CCR, please [contact us](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) and we will arrange licenses for you.
 
 ### NIH Listservs
@@ -65,11 +70,6 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 * [NCI-LINUX-DESKTOP](https://list.nih.gov/cgi-bin/wa.exe?A0=NCI-LINUX-DESKTOP)
 * [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l)
 * [AI](https://list.nih.gov/cgi-bin/wa.exe?A0=AI)
-
-### CBIIT Cancer Data Science Seminar Series
-
-* [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
-* [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
