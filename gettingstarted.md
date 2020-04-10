@@ -4,7 +4,7 @@ title: Getting Started
 bigimg: "/img/tem.jpg"
 ---
 
-### What is the NCI Peer-to-Peer Remote Learning Exchange for Data Science?
+### What is the NCI Data Science Learning Exchange?
 
 * This is a new resource for teleworkers. It connects NCI staff who want to learn how to use data science (learners) with other learners at NCI --- and with those who want to share their experience in using data science at NCI (learning guides).
 
