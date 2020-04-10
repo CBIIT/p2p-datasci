@@ -8,7 +8,7 @@ bigimg: "/img/kedar.jpg"
 
 This list of resources is designed for learners who already have some command of the fundamentals of data science.  The [beginner resources section](../beginner-resources) may also have resources of interest, including both study materials and groups to study with.
 
-**This list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Please help your peers learn by contacting us to suggest useful resources!
+**This list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Please help your peers learn by contacting us to suggest useful resources!
 
 ### Machine Learning
 
