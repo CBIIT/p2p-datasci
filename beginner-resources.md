@@ -48,15 +48,14 @@ This list of resources is designed to help you learn data science fundamentals -
 
 ## General Tutorials and Overviews
 
+* Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
+* CBIIT Cancer Data Science Seminar Series
+   * [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
+   * [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
+* Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
-* Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
-* Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
-
-### CBIIT Cancer Data Science Seminar Series
-
-* [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
-* [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
+  
 
 Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for [Biostars](https://www.biostars.org/) and [Dataquest.io](https://www.dataquest.io/) available for CCR staff.  If you are interested in these, but are not in CCR, please [contact us](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) and we will arrange licenses for you.
 
