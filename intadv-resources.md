@@ -19,7 +19,7 @@ This list of resources is designed for learners who already have some command of
 
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 * CCR's [Bioinformatics Training and Education Program](https://btep.ccr.cancer.gov)
- * BTEP also has a [Q&A Message Board](https://btep.ccr.cancer.gov/questions) open even for non-CCR participation.
+  * BTEP also has a [Q&A Message Board](https://btep.ccr.cancer.gov/questions) open even for non-CCR participation.
 
 
 ---
