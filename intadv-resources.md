@@ -18,7 +18,7 @@ This list of resources is designed for learners who already have some command of
 ### Bioinformatics
 
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
-* Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
+* CCR's Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
 
 
 
