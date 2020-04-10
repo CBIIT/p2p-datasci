@@ -8,7 +8,7 @@ bigimg: "/img/kedar.jpg"
 
 This list of resources is designed to help you learn data science fundamentals -- programming languages, common tooling, and general concepts.  Here you give you material to study from as well as groups to study with.
 
-**The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Please help your peers learn by contacting us to suggest useful learning resources!
+**The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)** (email link). Please help your peers learn by contacting us to suggest useful learning resources!
 
 ### Scripting and Programming Languages
 
