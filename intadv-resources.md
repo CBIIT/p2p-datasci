@@ -13,7 +13,6 @@ This list of resources is designed for learners who already have some command of
 ### Machine Learning
 
 * [GitHub tutorial on machine learning](https://github.com/topics/machine-learning)
-
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/): Step-by-Step Guides for Applied Machine Learning
 
 ### Bioinformatics
@@ -21,10 +20,7 @@ This list of resources is designed for learners who already have some command of
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 * Bioinformatics Training and Education Program [message board](https://btep.ccr.cancer.gov/questions)
 
-### CBIIT Cancer Data Science Seminar Series
 
-* [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
-* [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
