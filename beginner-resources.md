@@ -16,7 +16,7 @@ This list of resources is designed to help you learn data science fundamentals -
 
 #### Python
 
-* [Intro to Python from Github](https://github.com/python)
+* [Intro to Python](https://swcarpentry.github.io/python-novice-inflammation/)
 * Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
 #### R / RStudio
