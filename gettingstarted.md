@@ -8,7 +8,7 @@ bigimg: "/img/tem.jpg"
 
 1.	[Register](http://bit.ly/NCI_datascience_peer2peer)
 
-2.  After you register, you will receive an email describing next steps. Proceed with Steps 3 - 5 at any time!
+2.  After you register, you will receive an email guiding you to resources based on your interests. Proceed with Steps 3 - 5 at any         time!
 
 3.  Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
@@ -26,7 +26,7 @@ bigimg: "/img/tem.jpg"
 
 * Once you understand the basics, you can decide how to gain the foundational skills that are important to you. Then you might explore a programming language like R or Python. 
 
-* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Data Science Learning Exchange provides a "brain trust" of peers who can share tips and resources, and help each other understand concepts, techniques -- and most important of all -- offer and receive insights and solutions for similar challenges.
+* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Data Science Learning Exchange provides a "brain trust" of peers who can share tips and resources, help each other understand concepts, and techniques, and share insights and solutions for similar challenges.
 
 
 * You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. Or you may have advanced skills in some areas, but need additional skills. By sharing what you already know -- in study groups, discussions, tutorials or remote webinars -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for challenges you have been struggling with. 
