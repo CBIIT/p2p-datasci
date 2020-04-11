@@ -34,7 +34,7 @@ You may be a beginner in data analytics, but you may have mastered data science 
 
 ### Take Advantage of Learning Resources Across NCI While Working from Home!
 
-See [Learning Resources](../resources) and [Collaboration Tools] (https://cbiit.github.io/p2p-datasci/collabtools/) for more information. 
+See [Learning Resources](../resources) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information. 
 
 
 
