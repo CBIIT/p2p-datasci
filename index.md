@@ -14,6 +14,8 @@ bigimg: "/img/antibodies.jpg"
 
 * This is a self-determined, self-sustaining community that will grow and evolve to meet the needs of the participants. This website provides learning resources and collaboration tools that are easily accessed remotely.
 
+* The Learning Exchange offers a wealth of resources so you can choose what, when, and how you want to learn. Explore what is offered and find what works best for you.
+
 ### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
 
 ---
