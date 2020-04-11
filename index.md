@@ -7,7 +7,7 @@ bigimg: "/img/antibodies.jpg"
 
 ### Challenge yourself to learn data science skills while helping your NCI peers learn!
 
-**[Register here](http://bit.ly/NCI_datascience_peer2peer)** 
+**[Register here](http://bit.ly/NCI_datascience_peer2peer)!** 
 
 
 * Connect with NCI staff who want to learn how to use data science — and with NCI data science "veterans" who want to share their knowledge and experience. 
