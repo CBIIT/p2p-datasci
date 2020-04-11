@@ -13,8 +13,7 @@ bigimg: "/img/tem.jpg"
 3.  Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
 
-4. Find your chosen topic(s) in the 
-[Learning Exchange Microsoft Team(https://teams.microsoft.com/l/team/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/conversations?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06)]. Look for the channels that correspond to your interests.
+4. Find your chosen topic(s) in the [Learning Exchange Microsoft Team(https://teams.microsoft.com/l/team/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/conversations?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06)]. Look for the channels that correspond to your interests.
 
 5. Engage in dialogue with others in your channel!
 
