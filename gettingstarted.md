@@ -8,7 +8,7 @@ bigimg: "/img/tem.jpg"
 
 1.	[Register](http://bit.ly/NCI_datascience_peer2peer)
 
-2.  After you register, you will receive an email that offers suggested resources based on your interests. Proceed with Steps 3 - 5 at       any time!
+2.  After you register, you will receive an email with suggested resources based on your interests. Proceed with Steps 3 - 5 at       any time!
 
 3.  Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
