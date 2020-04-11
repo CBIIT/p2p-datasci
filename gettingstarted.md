@@ -34,7 +34,9 @@ You may be a beginner in data analytics, but you may have mastered data science 
 
 ### Take Advantage of Learning Resources Across NCI While Working from Home!
 
-See the [Learning Resources page](../resources) for more information on current online courses, webinars, and tutorials you can participate in remotely.
+See [Learning Resources](../resources) and [Collaboration Tools] (https://cbiit.github.io/p2p-datasci/collabtools/) for more information. 
+
+
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
