@@ -18,13 +18,17 @@ bigimg: "/img/tem.jpg"
 5. Engage in dialogue with others in your channel!
 
 
-### Tips for Learning and Helping Others Learn
+### Tips for Participating in the Learning Exchange
 
-* Data Science is like any other skill you learn -- it takes a lot of independent study and practice.  The first step to benefiting from this Learning Exchange is to commit to the effort you will need to expend.
+* Data Science is a broad and diverse topic. Like any other skill you learn -- it takes a lot of independent study, dedication, and practice. The Learning Exchange offers a wealth of  resources so you can choose what, when, and how you want to learn. Explore what is offered and find what works best for you. 
 
-* You may want to begin by creating a learning path.  Start with understanding what data science is (including the fact that data science is a broad and diverse topic), and then identify some specific foundational skills that you can start learning.  Learning data-oriented use of a programming language like R or Python is a one good example starting point.
+* You may want to start by creating a learning path to better understand what data science is. Join the Introduction to Data Science channel to engage with others who want to get started with data science for tips on how to get started. You can identify what you want to learn first and if you're not sure where to start, others with more experience can guide you. 
 
-* As you begin learning, you will find that there are many other people learning the same topics (both in and outside of NCI).  The Learning Exchange is intended to provide you with a peer environment in which you can share tips and resources, and help each other understand concepts and techniques while learning.
+* Once you understand the basics, you can decide how to gain the foundational skills that are important to you. Then you might explore a programming language like R or Python. 
+
+You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. By sharing what you already know -- in study groups or discussions -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for the challenges you face in your work. Advanced practitioners in AI may need guidance in machine learning or a particular deep learning tool to classify molecules for drug development. 
+
+* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Learning Exchange provides a "brain trust" of peers who can share tips and resources, and help each other understand concepts and techniques while learning.
 
 * Whether you are just beginning or have been learning for a while, **you are in a good position to help others!**
 
