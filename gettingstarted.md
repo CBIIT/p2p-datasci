@@ -22,16 +22,14 @@ bigimg: "/img/tem.jpg"
 
 * Data Science is a broad and diverse topic. Like any other skill you learn -- it takes a lot of independent study, dedication, and practice. 
 
-* You may want to start by creating a learning path to better understand what data science is. Join the Introduction to Data Science channel to engage with others who want to get started with data science for tips on how to get started. You can identify what you want to learn first and if you're not sure where to start, others with more experience can guide you. 
+* You may want to start by creating a learning path to better understand what data science is. Join the Introduction to Data Science channel to engage with others and if you're not sure where to start, others with more experience can guide you. 
 
 * Once you understand the basics, you can decide how to gain the foundational skills that are important to you. Then you might explore a programming language like R or Python. 
 
-* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Data Science Learning Exchange provides a "brain trust" of peers who can share tips and resources, and help each other understand concepts and techniques.
+* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Data Science Learning Exchange provides a "brain trust" of peers who can share tips and resources, and help each other understand concepts, techniques -- and most important of all -- offer and receive insights and solutions for similar challenges.
 
 
-* You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. By sharing what you already know -- in study groups or discussions -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for the challenges you face in your work. 
-
-
+* You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. Or you may have advanced skills in some areas, but need additional skills. By sharing what you already know -- in study groups, discussions, tutorials or remote webinars -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for challenges you have been struggling with. 
 
 * Whether you are just beginning or have been learning for a while, **you are in a good position to help others!**
 
