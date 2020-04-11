@@ -9,12 +9,9 @@ bigimg: "/img/antibodies.jpg"
 
 **[Register here!](http://bit.ly/NCI_datascience_peer2peer)** 
 
+* Connect with other NCI staff learning data science — and with advanced learners who want to share their knowledge and experience. 
 
-* Connect with NCI staff who want to learn how to use data science — and with NCI data science "veterans" who want to share their knowledge and experience. 
-
-* This is a self-determined, self-sustaining community that will grow and evolve to meet the needs of the participants. This website provides learning resources and collaboration tools that are easily accessed remotely.
-
-* The Learning Exchange offers a wealth of resources so you can choose what, when, and how you want to learn. Explore the resources, exchange information, and find what works best for you.
+* Learning resources and collaboration tools for the community will be maintained on this website and on the Exchange's Microsoft Teams [collaboration hub](https://teams.microsoft.com/l/team/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/conversations?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06).  So check back often!
 
 ### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
 
