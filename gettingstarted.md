@@ -8,14 +8,14 @@ bigimg: "/img/tem.jpg"
 
 1.	[Register](http://bit.ly/NCI_datascience_peer2peer)
 
-2.  After you register, you will receive an email with suggested resources based on your interests. Proceed with Steps 3 - 5 at       any time!
+2.  After you register, your expressed interests will be used to help place you in appropriate study groups. Proceed with Steps 3 - 5 at any time!
 
 3.  Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
 
 4. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channels that correspond to    your interests.
 
-5. Engage in dialogue with others in your channel!
+5. Start learning and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!
 
 
 ### Tips for Participating in the Learning Exchange
@@ -33,11 +33,11 @@ bigimg: "/img/tem.jpg"
 
 * Whether you are just beginning or have been learning for a while, **you are in a good position to help others!**
 
-### Take Advantage of Learning Resources Across NCI While Working from Home!
+### Browse the List of Learning Resources: 
 
-See [Learning Resources](../resources) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information. 
+See Learning Resources ([beginner](../beginner-resources), [intermediate/advanced](../intadv-resources)) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information. 
 
-
+Interact with other data science learners, starting with the [Data Science Learning Exchange collaboration hub](https://teams.microsoft.com/l/team/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/conversations?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06) on Microsoft Teams.
 
 ---
 *Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
