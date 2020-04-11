@@ -26,7 +26,7 @@ bigimg: "/img/tem.jpg"
 
 * Once you understand the basics, you can decide how to gain the foundational skills that are important to you. Then you might explore a programming language like R or Python. 
 
-You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. By sharing what you already know -- in study groups or discussions -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for the challenges you face in your work. Advanced practitioners in AI may need guidance in machine learning or a particular deep learning tool to classify molecules for drug development. 
+* You may be a beginner in data analytics, but you may have mastered data science buzzwords and could be a great help to others. By sharing what you already know -- in study groups or discussions -- not only can your peers learn what you already know but their real-world experience may give you insight and solutions for the challenges you face in your work. Advanced practitioners in AI may need guidance in machine learning or a particular deep learning tool to classify molecules for drug development. 
 
 * As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Learning Exchange provides a "brain trust" of peers who can share tips and resources, and help each other understand concepts and techniques while learning.
 
