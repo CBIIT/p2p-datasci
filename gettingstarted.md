@@ -20,7 +20,7 @@ bigimg: "/img/tem.jpg"
 
 ### Tips for Participating in the Learning Exchange
 
-* Data Science is a broad and diverse topic. Like any other skill you learn -- it takes a lot of independent study, dedication, and practice. 
+* Data Science is a broad and diverse topic. Like any other skill you learn, it takes a lot of independent study, dedication, and practice. 
 
 * You may want to start by creating a learning path to better understand what data science is. Join the [Introduction to Data Science channel](https://teams.microsoft.com/l/channel/19%3a39940aff110c4e1589498daa01d88c07%40thread.skype/Intro%2520to%2520Data%2520Science?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06) to engage with others and if you're not sure where to start, others with more experience can guide you. 
 
