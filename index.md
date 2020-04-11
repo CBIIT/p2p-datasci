@@ -10,9 +10,9 @@ bigimg: "/img/antibodies.jpg"
 **[Register here](http://bit.ly/NCI_datascience_peer2peer)** 
 
 
-* Connect with NCI staff who want to learn how to use data science — and with data science "veterans" who want to share their knowledge and experience. 
+* Connect with NCI staff who want to learn how to use data science — and with NCI data science "veterans" who want to share their knowledge and experience. 
 
-* This is a self-determined, self-sustaining community that grows and evolves to meet the needs of the participants. This website provides learning resources and collaboration tools that are easily accessed remotely.
+* This is a self-determined, self-sustaining community that will grow and evolve to meet the needs of the participants. This website provides learning resources and collaboration tools that are easily accessed remotely.
 
 ### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
 
