@@ -10,7 +10,7 @@ This list of of resources is based on contributions from Git and Github learners
 
 ### Getting Started with Git 
 
-Git is a source code management software that supports sharing and collaborating on code and data with other developers and data scientists.  Whether you are working with Python, R or any other language, Git will maintain a version history of your work and allow you to branch and merge different revisions of that body of code files.  
+Git is a source code management software that supports sharing and collaborating on code and data with other developers and data scientists.  Whether you are working with Python, R or any other language, Git will maintain a version history of your work and allow you to branch and merge different revisions of that body of code files, including mixing in contributions from multiple developers working anywhere in the world.
 
 Git is possibly *the* most widely used tool among data scientists, so it is well worth your time to become familiar with it.  Git is one of the most common ways you will collaborate with other data scientists.
 
