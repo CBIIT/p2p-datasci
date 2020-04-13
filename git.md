@@ -18,7 +18,7 @@ Git is a command line tool, but [Github.com](https://github.com) is an extremely
 
 Whether you use Git from the command line or through Github, you will need to understand how Git works.
 
-To learn Git for the command line, try (freecodecamp.org's Git tutorial)[https://guide.freecodecamp.org/git/].
+To learn Git for the command line, try [freecodecamp.org's Git tutorial](https://guide.freecodecamp.org/git/).
 
 To learn about Github, try this [Hello World](https://guides.github.com/activities/hello-world/) and then [these other](https://guides.github.com/).
 
