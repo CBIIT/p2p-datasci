@@ -14,7 +14,7 @@ Git is a source code management software that supports sharing and collaborating
 
 Git is possibly *the* most widely used tool among data scientists, so it is well worth your time to become familiar with it.  Git is one of the most common ways you will collaborate with other data scientists.
 
-Git is a command line tool, but [Github.com](https://github.com) is a extremely popular website that provides a simple GUI interface to Git's features.  Many people use Github almost exclusively and never touch Git directly.
+Git is a command line tool, but [Github.com](https://github.com) is an extremely popular website that provides a simple GUI interface to Git's features.  Many people use Github almost exclusively and never touch Git directly.
 
 Whether you use Git from the command line or through Github, you will need to understand how Git works.
 
