@@ -22,6 +22,8 @@ To learn Git for the command line, try [freecodecamp.org's Git tutorial](https:/
 
 To learn about Github, try this [Hello World](https://guides.github.com/activities/hello-world/) and then [these other](https://guides.github.com/).
 
+To practice Git and Git concepts, try [Learn Git Branching](https://learngitbranching.js.org).
+
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Current resources include:
 
 
