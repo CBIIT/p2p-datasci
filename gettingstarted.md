@@ -4,6 +4,10 @@ title: Getting Started
 bigimg: "/img/tem.jpg"
 ---
 
+### Kick-off Meeting
+
+Join us on 1pm on Thursday, April 16th for an informal— optional —discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills! **Webex details coming soon**
+
 ### How Does it Work? 5 Easy Steps
 
 1. [Register](http://bit.ly/NCI_datascience_peer2peer)
