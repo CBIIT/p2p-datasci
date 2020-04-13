@@ -34,7 +34,7 @@ This list of resources is designed to help you learn data science fundamentals -
 
 ### Data Visualization
 
-* [Matplotlib in-depth user guides: beginner, intermediate, and advanced sections, plus sections covering specific topics.](https://matplotlib.org/tutorials/index.html)
+* [Matplotlib in-depth user guides](https://matplotlib.org/tutorials/index.html): beginner, intermediate, and advanced sections, plus sections covering specific topics.
 
 ### Study Groups and Special Interest Groups
 
@@ -50,12 +50,11 @@ This list of resources is designed to help you learn data science fundamentals -
 
 * Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
 * CBIIT Cancer Data Science Seminar Series
-   * [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
-   * [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
+  * [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
+  * [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
 * Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
-  
 
 Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for [Biostars](https://www.biostars.org/) and [Dataquest.io](https://www.dataquest.io/) available for CCR staff.  If you are interested in these, but are not in CCR, please [contact us](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) and we will arrange licenses for you.
 
@@ -69,6 +68,3 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 * [NCI-LINUX-DESKTOP](https://list.nih.gov/cgi-bin/wa.exe?A0=NCI-LINUX-DESKTOP)
 * [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l)
 * [AI](https://list.nih.gov/cgi-bin/wa.exe?A0=AI)
-
----
-*Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*

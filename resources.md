@@ -59,18 +59,13 @@ Note: You must [register for an account](https://list.nih.gov) before subscribin
 * [NIH-DATASCIENCE-L](https://list.nih.gov/cgi-bin/wa.exe?A0=nih-datascience-l)
 * [AI](https://list.nih.gov/cgi-bin/wa.exe?A0=AI)
 
-
 CBIIT Cancer Data Science Seminar Series [https://datascience.cancer.gov/news-events/events/data-science-seminar](https://datascience.cancer.gov/news-events/events/data-science-seminar)
 * [archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
 
 ## Resources for Intermediate or Advanced Learners
-
 
 ### Machine Learning
 
 * Github tutorial on machine learning [https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)
 
   Machine Learning Mastery Tutorials https://machinelearningmastery.com/start-here/
-
----
-*Questions? Send us an email at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov).*
