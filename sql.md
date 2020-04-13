@@ -12,7 +12,7 @@ This list of of resources is based on contributions from SQL learners and advanc
 
 **SQLite** A great tool for beginning SQL is a lightweight database called [SQLite](https://www.sqlite.org) that you can run on your desktop.  SQLite is free and runs on Windows, Mac, Linux and more.
 
-Freecodecamp.org offers a 4-hour video [Introduction to SQL and Databases](https://www.freecodecamp.org/news/sql-and-databases-full-course/). This tutorial uses MySQL (another free database that you can install on your own). 
+Freecodecamp.org offers a 4-hour video [Introduction to SQL and Databases](https://www.freecodecamp.org/news/sql-and-databases-full-course/). This tutorial uses MySQL (another free database that you can install on your own). Once you complete this course, freecodecamp.org has a great "[Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)" reference that should help as you start practicing.
 
 **The list will be updated with any [resources you send us](mailto:NCICBIITDataScienceTraining@mail.nih.gov)**. Current resources include:
 
