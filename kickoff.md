@@ -4,7 +4,6 @@ title: Kickoff Meeting Script
 bigimg: "/img/kedar.jpg"
 ---
 
-
 ## Welcome
 
 Welcome everyone.  And congratulations on choosing to focus on picking up data science skills in your time away from the lab or office.  As you know, cancer research is becoming more and more of an information science, and your ability to analyze large and diverse data sets will be extremely valuable now and into the future.
@@ -17,34 +16,34 @@ Very important: The NCI Data Science Learning Exchange is built on a peer-to-pee
 
 **Intent**
 
-*The goal of the NCI Data Science Learning Exchange is to give you an opportunity to use your social distancing time to learn valuable data science skills.  We are trying to do this by leveraging the large number of data science learners to help each other pick up and improve on data science skills.
+* The goal of the NCI Data Science Learning Exchange is to give you an opportunity to use your social distancing time to learn valuable data science skills.  We are trying to do this by leveraging the large number of data science learners to help each other pick up and improve on data science skills.
 
 **Structure**
-*The program works by providing a central online location for sharing good learning resources and tools for learners to ask questions and guide each other in learning.  
-*This central location allows anyone to chat, add tips to a wiki, or share files to help each other learn.
-*Most important: you will have to use your own computer to follow a study guide and practice; but the Learning Exchange will provide you with peers to help you progress.
+* The program works by providing a central online location for sharing good learning resources and tools for learners to ask questions and guide each other in learning.  
+* This central location allows anyone to chat, add tips to a wiki, or share files to help each other learn.
+* Most important: you will have to use your own computer to follow a study guide and practice; but the Learning Exchange will provide you with peers to help you progress.
 
 ## Resources
 
 **Website:** https://cbiit.github.io/p2p-datasci
-*You can always refer to this website for information on how to get started.  This will contain links to all resources as well as contact information and some description of common topics covered in the Learning Exchange.
-*If you bookmark anything; this is it.
+* You can always refer to this website for information on how to get started.  This will contain links to all resources as well as contact information and some description of common topics covered in the Learning Exchange.
+* If you bookmark anything; this is it.
 
 **Microsoft Teams site**
-*Called "NCI Data Science Learning Exchange" (link on the github.io website)
-*This is the central location for interaction among staff learning data science.
-*We have created channels for the most common data science topics people said they are interested in. Think of these as study groups.
-*Chat allows you to ask or answer questions and share tips on learning and practicing.
+* Called "NCI Data Science Learning Exchange" (link on the github.io website)
+* This is the central location for interaction among staff learning data science.
+* We have created channels for the most common data science topics people said they are interested in. Think of these as study groups.
+* Chat allows you to ask or answer questions and share tips on learning and practicing.
 
 **Tutorials and Guides**
-*Links to popular tutorials and guides will be provided in the wikis within each channel (study group).
--*We will also be buying Dataquest.io and Biostar Handbook licenses.  Please let us know if you want either of these.
+* Links to popular tutorials and guides will be provided in the wikis within each channel (study group).
+* We will also be buying Dataquest.io and Biostar Handbook licenses.  Please let us know if you want either of these.
 
 **Dataquest.io and Biostar Handbook Licenses**
-*These are both used by NCI's Bioinformatics Training and Education Program and elsewhere in NIH, so they put you on a good, common ground with other learners.
+* These are both used by NCI's Bioinformatics Training and Education Program and elsewhere in NIH, so they put you on a good, common ground with other learners.
 
 **Your Support Team at the NCI Data Science Learning Exchange**
-*composed of CBIIT and FNL staff.  We are here to make the program work and to update all resources and support your use of the exchange however we can.  Reach out to us with any questions or suggestions.
+* composed of CBIIT and FNL staff.  We are here to make the program work and to update all resources and support your use of the exchange however we can.  Reach out to us with any questions or suggestions.
 
 Most important resource: your fellow NCI staff!
 
