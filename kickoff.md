@@ -1,3 +1,10 @@
+---
+layout: page
+title: Kickoff Meeting Script 
+bigimg: "/img/kedar.jpg"
+---
+
+
 ## Welcome
 
 Welcome everyone.  And congratulations on choosing to focus on picking up data science skills in your time away from the lab or office.  As you know, cancer research is becoming more and more of an information science, and your ability to analyze large and diverse data sets will be extremely valuable now and into the future.
