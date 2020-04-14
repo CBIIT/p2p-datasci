@@ -6,7 +6,13 @@ bigimg: "/img/tem.jpg"
 
 ### Kick-off Meeting
 
-Join us on 1pm on Thursday, April 16th for an informal— optional —discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills! **Webex details coming soon**
+Join us on 1pm on Thursday, April 16th for an informal— optional —discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills!
+
+**Webex Meeting Info:**
+* Register/Attend URL: [https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d)
+* Event number: 475 544 425
+* Audio conference:    
+* Call-in toll number (US/Canada): 1-650-479-3207
 
 ### How Does it Work? 5 Easy Steps
 
