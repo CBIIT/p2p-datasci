@@ -36,7 +36,7 @@ Very important: The NCI Data Science Learning Exchange is built on a peer-to-pee
 * Called "NCI Data Science Learning Exchange" (link on the github.io website)
 * This is the central location for interaction among staff learning data science.
 * We have created channels for the most common data science topics people said they are interested in. Think of these as study groups.
-* Chat allows you to ask or answer questions and share tips on learning and practicing.
+* **Chat** allows you to ask or answer questions and share tips on learning and practicing; **Wikis** allow you to add tips or list resources, or read what others have posted; and **Files** allows you to share files with others.
 * You must be on NIH VPN to log into the Teams website.  If this is a problem for you, let us know and we can help.
 
 **Tutorials and Guides**
