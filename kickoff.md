@@ -6,7 +6,7 @@ bigimg: "/img/kedar.jpg"
 
 ## Welcome
 
-Welcome everyone.  And congratulations on choosing to focus on picking up data science skills in your time away from the lab or office.  As you know, cancer research is becoming more and more of an information science, and your ability to analyze large and diverse data sets will be extremely valuable now and into the future.
+Welcome everyone.  And congratulations on choosing to focus on picking up data science skills in your time away from the lab or office.  As you know, cancer research is becoming more and more of an information science, and your ability to make sense of large and diverse data sets will be extremely valuable now and into the future.
 
 In this webinar, we will try to quickly give you an overview of the new NCI Data Science Learning Exchange and give you some tips on how to get the most out of it.  We will also leave time for a Q&A so that you can ask any questions or even give us suggestions about how we can improve this program for you.
 
