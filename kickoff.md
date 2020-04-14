@@ -62,5 +62,7 @@ Do not be afraid by the massive number of skills, tools, and domains that are co
 
 Do not be afraid to ask any question.  "I have absolutely no idea where to start.  Where do I start?" is a perfectly legitimate (and common) question.
 
+Adopt the mindset that you will always be learning data science. It never ends, even for the most experienced data scientist. Expect that learning will be a standard part of being a data scientist.  But don't worry: learning gets a lot easier and more fun once you become comfortable with the fundamentals.
+
 ## Q&A
 
