@@ -51,7 +51,11 @@ Very important: The NCI Data Science Learning Exchange is built on a peer-to-pee
 
 * composed of CBIIT and FNL staff.  We are here to make the program work and to update all resources and support your use of the exchange however we can.  Reach out to us with any questions or suggestions.
 
-Most important resource: your fellow NCI staff!
+Most important resource: **your fellow NCI staff!**
+
+* You are strongly encouraged to help each other through Microsoft Teams.
+* **Blogs** - we are asking for volunteers to write short blog articles with tips and guidance for people getting started with data science.
+* **Webinars led by you!** If you would like to present on any topics, let us know and we can arrange a Webex meeting for you to talk, share your slides, do live demos, and interact with others.
 
 ## Tips for Success
 
