@@ -10,7 +10,6 @@ bigimg: "/img/tem.jpg"
 **Event number: 475 544 425   Call-in number: 1-650-479-3207
 
 Join us on Thursday, April 16th at 1:00 p.m. for an informal—optional—discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills!
-
 **Webex Meeting Info:**
 * [Register to Attend](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d)
 * Event number: 475 544 425   Call-in number: 1-650-479-3207
