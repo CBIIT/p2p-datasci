@@ -9,7 +9,7 @@ bigimg: "/img/tem.jpg"
 Join an informal—optional—discussion discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills! 
 
 Webex [Registration](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d)
-* Event #: 475 544 425    Call-in #: 1-650-479-3207
+*Event #: 475 544 425    Call-in #: 1-650-479-3207
 
 ### How Does it Work? 5 Easy Steps
 
