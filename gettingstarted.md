@@ -11,8 +11,7 @@ Join us on 1pm on Thursday, April 16th for an informal— optional —discussion
 **Webex Meeting Info:**
 * Register/Attend URL: [https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d)
 * Event number: 475 544 425
-* Audio conference:    
-* Call-in toll number: 1-650-479-3207
+* Call-in number: 1-650-479-3207
 
 ### How Does it Work? 5 Easy Steps
 
