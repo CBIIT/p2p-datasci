@@ -4,8 +4,10 @@ title: Getting Started
 bigimg: "/img/tem.jpg"
 ---
 
-###[Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
-Event number: 475 544 425    Call-in number: 1-650-479-3207
+
+### [Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
+
+Event number: 475 544 425 Call-in number: 1-650-479-3207
 
 ### How Does it Work? 5 Easy Steps
 
@@ -13,7 +15,7 @@ Event number: 475 544 425    Call-in number: 1-650-479-3207
 
 2. After you register, your expressed interests will be used to help place you in appropriate study groups. Proceed with Steps 3 - 5 at any time!
 
-3. Look through the list of Resources on this  thwebsite ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
+3. Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
 
 4. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channels that correspond to    your interests.
