@@ -9,18 +9,16 @@ bigimg: "/img/tem.jpg"
 
 Event number: 475 544 425 Call-in number: 1-650-479-3207
 
-### How Does it Work? 5 Easy Steps
+### How Does it Work? 4 Easy Steps
 
 1. **[Register](http://bit.ly/NCI_datascience_peer2peer)**
 
-2. After you register, your expressed interests will be used to help place you in appropriate study groups. Proceed with Steps 3 - 5 at any time!
-
-3. Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
+2. Look through the list of Resources on this website ([beginners](https://cbiit.github.io/p2p-datasci/beginner-resources/)
        & [intermediate/advanced)](https://cbiit.github.io/p2p-datasci/intadv-resources/)
 
-4. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channels that correspond to    your interests.
+3. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channels that correspond to    your interests.
 
-5. Start learning and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!
+4. Start learning and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!
 
 ### Tips for Participating in the Learning Exchange
 
