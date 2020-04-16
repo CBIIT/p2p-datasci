@@ -5,9 +5,8 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
-### [Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
-for an and informal (optional) discussion informal—optional—discussion on how to get the most out of the NCI Data Science Learning Exchange to build your data science skills! 
-Event number: 475 544 425    Call-in number: 1-650-479-3207
+### Kick-off Webinar: April 16 at 1:00 pm.
+[Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) an informal (optional) discussion on how to get the most out of the NCI Data Science Learning Exchange! Event number: 475 544 425       Call-in number: 1-650-479-3207
 
 
 ### Challenge yourself to learn data science skills while helping your NCI peers learn!
