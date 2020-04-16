@@ -28,4 +28,4 @@
   * `git fetch upstream`
   * `git merge upstream/master`
 * Git repository [homepage](https://github.com/CBIIT/p2p-datasci)
-* Note there is an easier way to edit the site not using command line tools I believe; see [prose.io](https://prose.io).
+* Note there is an easier way to edit the site not using command line tools I believe; see [prose.io](https://prose.io). You can also edit the files straight on GitHub.
