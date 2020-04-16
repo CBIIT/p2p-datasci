@@ -11,7 +11,7 @@ Event number: 475 544 425 Call-in number: 1-650-479-3207
 
 ### How Does it Work? 5 Easy Steps
 
-1. [Register](http://bit.ly/NCI_datascience_peer2peer)
+1. **[Register](http://bit.ly/NCI_datascience_peer2peer)**
 
 2. After you register, your expressed interests will be used to help place you in appropriate study groups. Proceed with Steps 3 - 5 at any time!
 
