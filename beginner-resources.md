@@ -8,11 +8,11 @@ bigimg: "/img/kedar.jpg"
 
 Here is a list of resources designed to help you learn data science fundamentals--programming languages, common tooling, and general concepts. You can find material to study from and groups to study with.
 
-The list will be updated on an ongoing basis with suggestions from the community. Please help your peers learn by [sharing](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) your recommendations for this list! 
+The list will be updated on an ongoing basis with suggestions from the community. Please help your peers learn by [sharing](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) your recommendations for this list!
 
 ### Scripting and Programming Languages
 
-*[Software Carpentry lessons](https://software-carpentry.org/lessons/) -- tutorials on shell, Python, R, Git, etc.
+* [Software Carpentry lessons](https://software-carpentry.org/lessons/) -- tutorials on shell, Python, R, Git, etc.
 
 #### Python
 
@@ -34,7 +34,7 @@ The list will be updated on an ongoing basis with suggestions from the community
 
 ### Data Visualization
 
-* [Matplotlib in-depth user guides](https://matplotlib.org/tutorials/index.html): beginner, intermediate, and advanced sections, plus sections covering specific topics.
+* [Matplotlib in-depth user guides](https://matplotlib.org/tutorials/index.html): beginner, intermediate, and advanced sections, plus sections covering specific topics
 
 ### Study Groups and Special Interest Groups
 
