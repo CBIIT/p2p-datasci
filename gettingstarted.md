@@ -29,7 +29,7 @@ Event number: 475 544 425 Call-in number: 1-650-479-3207
 
 * Once you understand the basics, you can decide how to gain the foundational skills that are important to you. Then you might explore a programming language like R or Python.
 
-* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The Data Science Learning Exchange provides a "brain trust" of peers to share resources, tips, and best practices.
+* As you begin learning, you will find there are many other people learning the same topics (both in and outside of NCI). The **Data Science Learning Exchange** provides a "brain trust" of peers to share resources, tips, and best practices.
 
 * By sharing what you already know -- in study groups, discussions, tutorials or remote webinars -- not only can your peers learn from you, but their real-world experience may give you new insights to help you find solutions for challenges you have been struggling with.
 
