@@ -12,17 +12,17 @@ Here is a list of resources designed to help you learn data science fundamentals
 
 ### Scripting and Programming Languages
 
-**[Software Carpentry lessons](https://software-carpentry.org/lessons/)** - tutorials on shell, Python, R, Git, etc.
+*[Software Carpentry lessons](https://software-carpentry.org/lessons/) -- tutorials on shell, Python, R, Git, etc.
 
 #### Python
 
 * [Intro to Python](https://swcarpentry.github.io/python-novice-inflammation/)
-* Introduction to Programming (with Python) - [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
+* Introduction to Programming (with Python) -- [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
 #### R / RStudio
 
 * [Introduction to R (RStudio)](https://education.rstudio.com/learn/)
-* **Event:** April 30, 2-4pm, **Introduction to R and R Studio for NCI Fellows** - Instruction via Webex. More info coming soon.
+* **Event:** April 30, 2-4pm, **Introduction to R and R Studio for NCI Fellows.** Instruction via Webex. More info coming soon.
 
 #### Bash / Shell Scripting / UNIX/Linux Command Line
 
@@ -44,11 +44,11 @@ Here is a list of resources designed to help you learn data science fundamentals
 
 #### HPC and Batch Computing
 
-* How to use NIH's Biowulf Compute Cluster - [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
+* How to use NIH's Biowulf Compute Cluster -- [a self-paced course](https://hpc.nih.gov/training/intro_biowulf)
 
 ## General Tutorials and Overviews
 
-* Biostars - ["Bioinformatics Explained"](https://www.biostars.org/)
+* Biostars ["Bioinformatics Explained"](https://www.biostars.org/)
 * CBIIT Cancer Data Science Seminar Series
   * [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
   * [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
