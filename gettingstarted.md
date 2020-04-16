@@ -7,8 +7,7 @@ bigimg: "/img/tem.jpg"
 
 ### [Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
 
-WebEx Event number: 475 544 425
-Call-in number: 1-650-479-3207
+WebEx event number: 475 544 425, call-in number: 1-650-479-3207
 
 ### How Does it Work? 4 Easy Steps
 
