@@ -5,13 +5,13 @@ bigimg: "/img/tem.jpg"
 ---
 
 
-### [Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
+### [Register to Join](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e904e9ab1f48d236077710fe98c78bd8d) the Kick-off Webinar: April 16 at 1:00 pm.
 
 WebEx event number: 475 544 425, call-in number: 1-650-479-3207
 
 ### How Does it Work? 4 Easy Steps
 
-1. **[Register](http://bit.ly/NCI_datascience_peer2peer)**
+1. **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
 
 2. Look through the list of Learning Resources ([beginner](../beginner-resources), [intermediate/advanced](../intadv-resources)) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information.
 
