@@ -17,7 +17,7 @@ Event number: 475 544 425 Call-in number: 1-650-479-3207
 
 3. Interact with other data science learners, starting with the [Data Science Learning Exchange collaboration hub](https://teams.microsoft.com/l/team/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/conversations?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06) on Microsoft Teams.
 
-3. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channels that correspond to    your interests.
+3. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channel(s) that correspond to your interests.
 
 4. Learn and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!
 
