@@ -5,13 +5,11 @@ bigimg: "/img/tem.jpg"
 ---
 
 
-### Kick-off Webinar slides 
-
-
-
 ### How Does it Work? 4 Easy Steps
 
 1. **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
+
+   See the Kick-off Webinar [slides]
 
 2. Look through the list of Learning Resources ([beginner](../beginner-resources), [intermediate/advanced](../intadv-resources)) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information.
 
