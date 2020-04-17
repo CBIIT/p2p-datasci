@@ -9,7 +9,7 @@ bigimg: "/img/tem.jpg"
 
 1. **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
 
-   See the Kick-off Webinar [slides]
+   See the Kick-off Webinar **[slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf)**
 
 2. Look through the list of Learning Resources ([beginner](../beginner-resources), [intermediate/advanced](../intadv-resources)) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information.
 
