@@ -16,7 +16,7 @@ bigimg: "/img/tem.jpg"
 
 4. Find your chosen topic(s) in the [Learning Exchange Microsoft Team](https://bit.ly/2V1k9tj). Look for the channel(s) that correspond to your interests.
 
-5. Learn and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!   See the Kick-off Webinar **[slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf)**
+5. Learn and engage in dialogue with others in your channel(s) whenever you need help or have tips to share!  
 
 ### Tips for Participating in the Learning Exchange
 
