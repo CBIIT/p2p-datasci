@@ -7,9 +7,8 @@ bigimg: "/img/tem.jpg"
 
 ### How Does it Work? 4 Easy Steps
 
-### Watch the [recording](: https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0) of the Kick-off Webinar! 
 
-1. **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
+1. **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**. Optional: Watch the **[recording](https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0)** of the Kick-off Webinar
 
 2. Look through the list of Learning Resources ([beginner](../beginner-resources), [intermediate/advanced](../intadv-resources)) and [Collaboration Tools](https://cbiit.github.io/p2p-datasci/collabtools/) for more information.
 
