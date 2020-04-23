@@ -5,7 +5,7 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
-**<center>Data science training course licenses are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</center>**
+**<center>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</center>**
 
 ---
 

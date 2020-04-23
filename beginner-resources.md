@@ -56,7 +56,7 @@ The list will be updated on an ongoing basis with suggestions from the community
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
 
-**Data science training course licenses are [now available](../licenses)!**
+**We now have [licenses available](../licenses) for the [Biostar Handbook](https://www.biostarhandbook.com) and [Dataquest.io](https://www.dataquest.io)!**
 
 ### NIH Listservs
 
