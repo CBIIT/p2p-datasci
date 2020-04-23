@@ -5,7 +5,7 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
-**Data science training course licenses are [now available](licenses)!**
+**<center>Data science training course licenses are [now available](licenses)!</center>**
 
 ---
 
