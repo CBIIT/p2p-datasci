@@ -5,6 +5,10 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
+**Data science training course licenses are [now available](licenses)!**
+
+---
+
 ### Challenge yourself to learn data science skills while helping your NCI peers learn!
 
 **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
