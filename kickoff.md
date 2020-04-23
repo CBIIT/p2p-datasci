@@ -45,7 +45,7 @@ Very important: The NCI Data Science Learning Exchange is built on a peer-to-pee
 * We will also be buying Dataquest.io and Biostar Handbook licenses.  Please let us know if you want either of these.
 
 **Dataquest.io and Biostar Handbook Licenses**
-* These are both used by NCI's Bioinformatics Training and Education Program and elsewhere in NIH, so they put you on a good, common ground with other learners.
+* These are both used by NCI's Bioinformatics Training and Education Program and elsewhere in NIH, so they put you on a good, common ground with other learners. Request one [here](licenses).
 
 **Your Support Team at the NCI Data Science Learning Exchange**
 

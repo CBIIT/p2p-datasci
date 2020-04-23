@@ -56,7 +56,7 @@ The list will be updated on an ongoing basis with suggestions from the community
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
 
-Note that CCR's Bioinformatics Training and Education Program (BTEP) has licenses for [Biostars](https://www.biostars.org/) and [Dataquest.io](https://www.dataquest.io/) available for CCR staff.  If you are interested in these, but are not in CCR, please [contact us](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) and we will arrange licenses for you.
+**Data science training course licenses are [now available](licenses)!**
 
 ### NIH Listservs
 
