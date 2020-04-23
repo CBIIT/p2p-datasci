@@ -4,7 +4,7 @@ title: Data Science Courses
 bigimg: "/img/zebrafish.jpg"
 ---
 
-**We have licenses available for the [Biostars Handbook](https://www.biostars.org) and [Dataquest.io](https://www.dataquest.io) data science courses!**
+**We have licenses available for the [Biostars Handbook](https://www.biostarhandbook.com) and [Dataquest.io](https://www.dataquest.io) data science courses!**
 
 Please contact us at [NCICBIITDataScienceTraining@mail.nih.gov](mailto:NCICBIITDataScienceTraining@mail.nih.gov) if you are interested in obtaining one.
 
