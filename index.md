@@ -21,4 +21,4 @@ bigimg: "/img/antibodies.jpg"
 
 ### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
 
-<div align="center">test [link](here) **bold** words</div>
+<div align="center">test <a href="http://www.google.com">link</a> <b>bold</b> words</div>
