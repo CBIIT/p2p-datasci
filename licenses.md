@@ -4,7 +4,7 @@ title: Data Science Resource Licenses
 bigimg: "/img/zebrafish.jpg"
 ---
 
-**We now have licenses available for [Dataquest.io](https://www.dataquest.io) and the [Biostar Handbook](https://www.biostarhandbook.com)!**
+<h3 align="center">We now have licenses available for <a href="https://www.dataquest.io">Dataquest.io</a> and the <a href="https://www.biostarhandbook.com">Biostar Handbook</a>!</h3>
 
 [Dataquest.io](https://www.dataquest.io) is a collection of interactive data science guides and tutorials. The [Biostar Handbook](https://www.biostarhandbook.com) is a highly recommended bioinformatics virtual textbook that covers the analytical foundations of bioinformatics.
 
