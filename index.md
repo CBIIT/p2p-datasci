@@ -9,7 +9,7 @@ bigimg: "/img/antibodies.jpg"
 
 <hr><br>
 
-### Challenge yourself to learn data science skills while helping your NCI peers learn!
+<h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
 
 **[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
 
