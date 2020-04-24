@@ -9,9 +9,10 @@ bigimg: "/img/antibodies.jpg"
 
 ---
 
-<br><h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
+<br>
+<h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
 
-<br><h4 align="center"><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange!</h4>
+<h4 align="center"><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange!</h4>
 
 * Connect with other NCI staff learning data science — and with advanced learners who want to share their knowledge and experience.
 
