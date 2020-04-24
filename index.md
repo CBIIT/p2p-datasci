@@ -7,9 +7,7 @@ bigimg: "/img/antibodies.jpg"
 
 <div align="center"><i>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</i></div>
 
----
-
-<br>
+<hr><br>
 
 ### Challenge yourself to learn data science skills while helping your NCI peers learn!
 
