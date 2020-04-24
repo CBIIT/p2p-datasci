@@ -7,11 +7,11 @@ bigimg: "/img/antibodies.jpg"
 
 <div align="center"><i>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</i></div>
 
-<hr><br>
+---
 
 <h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
 
-**[Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange**
+<h4 align="center"><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange!</h4>
 
 * Connect with other NCI staff learning data science — and with advanced learners who want to share their knowledge and experience.
 
@@ -19,6 +19,4 @@ bigimg: "/img/antibodies.jpg"
 
 * See the Kick-off Webinar **[slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf)** or **[recording](https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0)**
 
-### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
-
-<div align="center">test <a href="http://www.google.com">link</a> <b>bold</b> words</div>
+<h3 align="center">Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!</h3>
