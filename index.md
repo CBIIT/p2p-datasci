@@ -5,7 +5,7 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
-**<div align="center">Licenses for [two](test) recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</div>**
+**<center>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</center>**
 
 ---
 
@@ -20,3 +20,5 @@ bigimg: "/img/antibodies.jpg"
 * See the Kick-off Webinar **[slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf)** or **[recording](https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0)**
 
 ### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
+
+<h1 align="center">test</h1>
