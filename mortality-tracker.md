@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real-time FAIR Mortality Tracking: A New Data Commons Approach in the Age of COVID 
-bigimg: "/img/kedar.jpg"
+bigimg: "/img/antibodies.jpg"
 ---
 
 ### Announcing a Workshop Presented by DCEG!
