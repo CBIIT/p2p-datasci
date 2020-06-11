@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Git Learning Resources
+title: Real-time FAIR Mortality Tracking: A New Data Commons Approach in the Age of COVID 
 bigimg: "/img/kedar.jpg"
 ---
 
