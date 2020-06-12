@@ -29,3 +29,4 @@ In response to the urgent need for portable real-time epidemiological data analy
 **Place:** [WebEx](https://cbiit.webex.com/mw3300/mywebex/default.do?service=1&siteurl=cbiit&nomenu=false&main_url=%2Fmc3300%2Fmeetingcenter%2Fdefault.do%3Fsiteurl%3Dcbiit%26rnd%3D8399572561%26main_url%3D%252Fmc3300%252Fe.do%253Fsiteurl%253Dcbiit%2526AT%253DMI%2526EventID%253D1012840757%2526UID%253D528639562%2526Host%253DQUhTSwAAAAR6F3kJQOTuWph39o4hKAsrwgY5GKcGs2ucULrygEuSJy_fR3C6M7FxwTdHxXC24whll_525McO6BGGg_lZCZMn0%2526FrameSet%253D2%2526MTID%253Dm61b8ab64279f870a325d8ae261f47003)  
 **Registration:** Not Required  
 **Contact:** NCI Data Science Learning Exchange [NCIDataScienceLearningExchange@mail.nih.gov](mailto:NCIDataScienceLearningExchange@mail.nih.gov)  
+[FILE](DCEG Webinar Promotion Plan and Status- 06-10.docx)
