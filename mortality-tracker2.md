@@ -11,7 +11,7 @@ Have you wondered how the epidemiological data for COVID-19 is being collected a
 
 Join a **virtual webinar** on Jun 24 to learn how the new [Mortality Tracker](https://episphere.github.io/mortalitytracker) designed by DCEG scientists is being used across the country and how it was developed using Findable, Accessible, Interoperable, Reusable (F.A.I.R.) principles.
 
-### Abstract
+#### Abstract
 
 In response to the urgent need for portable real-time epidemiological data analysis, DCEG scientists designed a real-time [Mortality Tracker](https://episphere.github.io/mortalitytracker) for COVID-19 and other diseases in the United States. This new data distribution method intersects epidemiology, Cloud and web computing to monitor the broader impact of COVID-19 on death rates across the United States.
 
