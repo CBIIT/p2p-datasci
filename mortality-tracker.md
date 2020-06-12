@@ -5,13 +5,9 @@ subtitle: "A New Data Commons Approach in the Age of COVID"
 bigimg: "/img/antibodies.jpg"
 ---
 
-### Announcing a Workshop Presented by DCEG!
+### Attend the DCEG Webinar on the COVID-19 Mortality Tracker on June 24, 9:30 - 10:30 am
 
 ## Real-time FAIR Mortality Tracking: A New Data Commons Approach in the Age of COVID 
-
-Subject: COVID-19 Mortality Tracker Webinar: Presented by DCEG Scientists
-
-Dear NCI Staff,
 
 Have you wondered how the epidemiological data for COVID-19 is being collected and disseminated nationwide? Or how the disease trajectory compares to other diseases during the same time period?
 
