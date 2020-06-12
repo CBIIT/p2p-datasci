@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Real-time FAIR Mortality Tracking"
-subtitle: "A New Data Commons Approach in the Age of COVID"
+title: "Real-time FAIR Mortality Tracking: A New Data Commons Approach in the Age of COVID"
 bigimg: "/img/antibodies.jpg"
 ---
 
-### Attend the DCEG Webinar on the COVID-19 Mortality Tracker on June 24, 9:30 - 10:30 am
+					### Attend the DCEG Webinar on the COVID-19 Mortality Tracker on June 24, 9:30 - 10:30 am
 
 ## Real-time FAIR Mortality Tracking: 
 ### A New Data Commons Approach in the Age of COVID 
