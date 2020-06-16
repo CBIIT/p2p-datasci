@@ -5,10 +5,11 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
+<div align="center"><i>Join a webinar on DCEG’s new Mortality Tracker June 24, 9:30 – 10:30 am.</a>!</i><hr><br></div>
+
 <div align="center"><i>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</i><hr><br></div>
 
 <h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
-
 <h4 align="center"><br><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange</h4>
 
 * Connect with other NCI staff learning data science — and with advanced learners who want to share their knowledge and experience.
