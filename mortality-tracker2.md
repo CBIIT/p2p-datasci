@@ -20,9 +20,9 @@ In response to the urgent need for portable real-time epidemiological data analy
 - [Jonas S. Almeida, Ph.D.](https://dceg.cancer.gov/about/staff-directory/almeida-jonas), Chief Data Scientist
 - [Amy Berrington, Ph.D.](https://dceg.cancer.gov/about/staff-directory/berrington-amy), Radiation Epidemiology Branch Chief
 - [Neal Freedman, Ph.D.](https://dceg.cancer.gov/about/staff-directory/freedman-neal), Senior Investigator
+- [Meredith Shiels, Ph.D.](https://dceg.cancer.gov/about/staff-directory/shiels-meredith), Investigator
 - [Praphulla Bhawsar, MS](https://github.com/PrafulB), Data Engineer
 - [Bhaumik Patel, MS](https://github.com/bhaumik55231), Software Engineer
-- [Meredith Shiels, Ph.D.](https://dceg.cancer.gov/about/staff-directory/shiels-meredith), Senior Investigator
 
 **Date:** Wednesday, June 24, 2020  
 **Time:** 9:30 - 10:30 a.m.  
