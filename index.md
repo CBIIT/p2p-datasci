@@ -4,7 +4,10 @@ title: Announcing
 subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
-<div align="center"><i>Licenses for two recommended data science resources are <a href="https://cbiit.github.io/p2p-datasci/licenses/">now available</a>!</i><hr><br></div>
+
+* *Join a webinar on DCEG’s new [Mortality Tracker](https://cbiit.github.io/p2p-datasci/mortality-tracker2) - June 24, 2020, 9:30–10:30am*
+
+* *Licenses for two recommended data science resources are [now available](https://cbiit.github.io/p2p-datasci/licenses/)!*<hr><br>
 
 <h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
 <h4 align="center"><br><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange</h4>
