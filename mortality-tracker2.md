@@ -23,6 +23,8 @@ In response to the urgent need for portable real-time epidemiological data analy
 - [Meredith Shiels, Ph.D.](https://dceg.cancer.gov/about/staff-directory/shiels-meredith), Investigator
 - [Praphulla Bhawsar, MS](https://github.com/PrafulB), Data Engineer
 - [Bhaumik Patel, MS](https://github.com/bhaumik55231), Software Engineer
+- [Montserrat Garcia-Closas, MD Ph.D.](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat), Integrative Tumor
+  Epidemiology Branch Chief
 
 **Date:** Wednesday, June 24, 2020  
 **Time:** 9:30 - 10:30 a.m.  
