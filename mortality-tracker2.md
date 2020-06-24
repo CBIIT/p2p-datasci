@@ -5,8 +5,7 @@ subtitle: "A New Data Commons Approach in the Age of COVID"
 bigimg: "/img/antibodies.jpg"
 ---
 
-[Presentation](https://teams.microsoft.com/l/channel/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/General?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06)
-[Video](https://nci.rev.vbrick.com/sharevideo/dd3b2836-c0ce-4606-be0c-20bc372cd21a)
+See the [presentation](https://teams.microsoft.com/l/channel/19%3a82c18d91721048e7a69516e155ac554a%40thread.skype/General?groupId=ac0387a5-f532-4379-a234-73eca4399e11&tenantId=14b77578-9773-42d5-8507-251ca2dc2b06) or the [video recording](https://nci.rev.vbrick.com/sharevideo/dd3b2836-c0ce-4606-be0c-20bc372cd21a) of the workshop.
 
 <h3 align="center">Announcing a DCEG Webinar on the COVID-19 Mortality Tracker - June 24, 9:30-10:30am!</h3>
 
