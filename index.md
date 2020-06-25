@@ -5,7 +5,7 @@ subtitle: The NCI Data Science Learning Exchange
 bigimg: "/img/antibodies.jpg"
 ---
 
-* *Join a webinar on DCEG’s new [Mortality Tracker](https://cbiit.github.io/p2p-datasci/mortality-tracker2) - June 24, 2020, 9:30–10:30am*
+* *The webinar on DCEG’s new [Mortality Tracker](https://cbiit.github.io/p2p-datasci/mortality-tracker2) was held on June 24*
 
 * *Licenses for two recommended data science resources are [now available](https://cbiit.github.io/p2p-datasci/licenses/)!*
 
