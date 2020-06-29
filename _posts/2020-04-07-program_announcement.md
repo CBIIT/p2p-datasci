@@ -21,3 +21,5 @@ cover-img: "/assets/img/antibodies.jpg"
 * See the Kick-off Webinar [slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf) or [recording](https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0)
 
 <h3 align="center">Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!</h3>
+
+Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!{: style="font-size: 140%; text-align: center;"}
