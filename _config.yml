@@ -1,28 +1,34 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: NCI Data Science Learning Exchange
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+#description: our description
 
 # Your name to show in the footer
-author: Some Person
+author: SDSI
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Getting Started: "gettingstarted"
+  Learning Resources:
+    - Beginner: "beginner-resources"
+    - Intermediate/Advanced: "intadv-resources"
+    - Data Science Resource Licenses: "licenses"
+    - CCR Bioinformatics Training & Education Program (BTEP): "https://btep.ccr.cancer.gov/"
+  Collaboration Tools: "collabtools"
+  Events:
+    - bleh1: "bleh1"
+    - bleh2: "bleh2"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
+avatar: "/img/laptop-6.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,11 +44,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
   rss: true
+  email: "NCICBIITDataScienceTraining@mail.nih.gov"
+  #facebook: deanattali
+  github: CBIIT/p2p-datasci
+  #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -70,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "cbiit.github.io/p2p-datasci" # "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -200,6 +206,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - github_pages_howto.md
   - README.md
   - screenshot.png
   - docs/
