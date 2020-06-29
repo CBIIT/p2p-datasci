@@ -12,17 +12,15 @@ author: SDSI
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Program Announcement: "program_announcement"
-  Getting Started: "gettingstarted"
-  Learning: # changing from Learning Resources
+  About: "program_announcement"
+  Get Started: "gettingstarted"
+  Learning Resources:
     - Beginner Resources: "beginner-resources"
     - Intermediate/Advanced Resources: "intadv-resources"
     - Data Science Resource Licenses: "licenses"
     - CCR Bioinformatics Training & Education Program (BTEP): "https://btep.ccr.cancer.gov/"
   Collaboration: "collabtools" # changing from Collaboration Tools
-  Events:
-    - 7/16/20 - Machine Learning for Drug Function Classification: "machine_learning_for_drug_function_classification"
-    - 6/24/20 - Real-Time FAIR Mortality Tracking: "real-time_fair_mortality_tracking"
+  Events: "events"
 
 # --- Logo --- #
 
