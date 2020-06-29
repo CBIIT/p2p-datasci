@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Resources for Beginners
-bigimg: "/img/kedar.jpg"
+cover-img: "/assets/img/kedar.jpg"
 ---
 
 ## Resources for Getting Started Building Your Data Science Skillset

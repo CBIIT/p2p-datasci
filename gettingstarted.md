@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-bigimg: "/img/tem.jpg"
+cover-img: "/assets/img/tem.jpg"
 ---
 
 

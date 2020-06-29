@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intermediate and Advanced Resources 
-bigimg: "/img/kedar.jpg"
+cover-img: "/assets/img/kedar.jpg"
 ---
 
 ## Resources for Building Your Data Science Skillset

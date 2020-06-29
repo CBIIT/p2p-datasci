@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Git Learning Resources
-bigimg: "/img/kedar.jpg"
+cover-img: "/assets/img/kedar.jpg"
 ---
 
 ## Resources for Learning and Practicing Git and Github 

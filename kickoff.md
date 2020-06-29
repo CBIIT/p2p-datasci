@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kickoff Meeting Script 
-bigimg: "/img/kedar.jpg"
+cover-img: "/assets/img/kedar.jpg"
 ---
 
 ## Welcome

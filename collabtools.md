@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaboration Tools
-bigimg: "/img/collaboration.jpg"
+cover-img: "/assets/img/collaboration.jpg"
 ---
 
 ### Microsoft Teams

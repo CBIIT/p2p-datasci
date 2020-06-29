@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science Resource Licenses
-bigimg: "/img/zebrafish.jpg"
+cover-img: "/assets/img/zebrafish.jpg"
 ---
 
 <h4 align="center">We now have licenses available for <a href="https://www.dataquest.io">Dataquest.io</a> and the <a href="https://www.biostarhandbook.com">Biostar Handbook</a>!</h4>
