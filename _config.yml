@@ -12,6 +12,7 @@ author: SDSI
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Program Announcement: "program_announcement"
   Getting Started: "gettingstarted"
   Learning Resources:
     - Beginner: "beginner-resources"
