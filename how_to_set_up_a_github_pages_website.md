@@ -1,4 +1,24 @@
-# How to set up a GitHub Pages website
+# GitHub Pages Instructions
+
+## Notes
+
+* The following sections are in reverse chronological order (i.e., starting from scratch, I started from the bottom section, not the top one). This allows me to keep the most recent section's documentation at the top. Hence the reverse section numbering.
+
+## 2. How to merge the current DSLX website into the test one
+
+For reference, the commit number of the test website ([https://andrew-weisman.github.io/p2p-datasci-test](https://andrew-weisman.github.io/p2p-datasci-test)) is `62e3f65c4b9db060f44ac3bc200a1fcac1011913`.
+
+The commit number of the current DSLX website ([https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)) is `5f579e50d0ac7f0b6ff134abcab5b428871ba395`.
+
+Now trying the following commands from the `gh-pages` branch of `https://github.com/andrew-weisman/p2p-datasci-test`:
+
+```bash
+git remote add production https://github.com/CBIIT/p2p-datasci
+git fetch production
+git merge production/gh-pages
+```
+
+## 1. How to set up a GitHub Pages website
 
 Create an empty public repository on GitHub, e.g., `https://github.com/CBIIT/p2p-datasci` or `https://github.com/andrew-weisman/p2p-datasci-test` (this repository).
 
