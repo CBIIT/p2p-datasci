@@ -8,7 +8,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 * 7/16/20: [Machine Learning for Drug Function Classification](machine_learning_for_drug_function_classification)
 
-&NewLine;
+<br>
 
 ### Past events
 
