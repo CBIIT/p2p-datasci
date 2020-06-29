@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Announcing 
 subtitle: The NCI Data Science Learning Exchange
 cover-img: "/assets/img/antibodies.jpg"
