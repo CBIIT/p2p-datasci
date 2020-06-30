@@ -85,10 +85,10 @@ Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-p
 
 Viable unused images:
 
-* `/assets/img/atrf.jpg`
-* `/assets/img/atrium.jpg`
-* `/assets/img/data_center.jpg`
-* `/assets/img/eric.jpg`
+* [/assets/img/atrf.jpg](/assets/img/atrf.jpg)
+* [/assets/img/atrium.jpg](/assets/img/atrium.jpg)
+* [/assets/img/data_center.jpg](/assets/img/data_center.jpg)
+* [/assets/img/eric.jpg](/assets/img/eric.jpg)
 
 ## 3. How to merge the current DSLX website into the test one
 
