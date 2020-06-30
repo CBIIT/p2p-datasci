@@ -96,7 +96,7 @@ For reference, the commit number of the test website ([https://andrew-weisman.gi
 
 The commit number of the current DSLX website ([https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)) is `5f579e50d0ac7f0b6ff134abcab5b428871ba395`.
 
-Now trying the following commands from the `gh-pages` branch of `https://github.com/andrew-weisman/p2p-datasci-test`:
+Now trying the following commands from the `gh-pages` branch of [https://github.com/andrew-weisman/p2p-datasci-test](https://github.com/andrew-weisman/p2p-datasci-test):
 
 ```bash
 git remote add production https://github.com/CBIIT/p2p-datasci
@@ -117,7 +117,7 @@ This worked as well.
 
 ## 4. How to set up a GitHub Pages website
 
-Create an empty public repository on GitHub, e.g., `https://github.com/CBIIT/p2p-datasci` or `https://github.com/andrew-weisman/p2p-datasci-test` (this repository).
+Create an empty public repository on GitHub, e.g., [https://github.com/CBIIT/p2p-datasci](https://github.com/CBIIT/p2p-datasci) or [https://github.com/andrew-weisman/p2p-datasci-test](https://github.com/andrew-weisman/p2p-datasci-test) (this repository).
 
 The instructions below are loosely based on those [here](https://github.com/daattali/beautiful-jekyll). [Here](https://deanattali.com) is a non-VPN-blocked example of what the template can deliver. Recently, the NIH VPN has blocked the [actual demo site](https://beautifuljekyll.com) for this template.
 
