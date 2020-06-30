@@ -64,8 +64,8 @@ Note: All "cover images" are from [here](https://insite.cancer.gov/docs/DOC-2238
 Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-pages):
 
 * [/assets/img/antibodies.jpg](/assets/img/antibodies.jpg) (main image)
-  * [index.html](/index) (blog post listing / landing page)
-  * [_posts/2020-04-07-program_announcement.md](/2020-04-07-program_announcement) (original program announcement)
+  * [index.html](index) (blog post listing / landing page)
+  * [_posts/2020-04-07-program_announcement.md](2020-04-07-program_announcement) (original program announcement)
   * `tags.html` (tag listing, i.e., when you click on a tag)
 * `/assets/img/zebrafish.jpg` (material-availability tags)
   * `_posts/2020-04-21-data_science_course_licenses.md`
