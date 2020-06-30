@@ -65,7 +65,7 @@ title: GitHub Pages Instructions
   * The only parts of these files that you would edit are their frontmatter
   * There are only two of these: [index.html](../index) and [tags.html](../tags)
   * The former sets up the main landing page (which lists blog-type announcements, i.e., "posts")
-  * The latter lists the tags used to identify the types of posts, if applicable; you'll see what I mean by going to the [tags page](../tags.html)
+  * The latter lists the tags used to identify the types of posts, if applicable; you'll see what I mean by going to the [tags page](../tags)
   * These files also reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
   * You should only rarely have to edit these files
 * (4) Other files in the file tree
