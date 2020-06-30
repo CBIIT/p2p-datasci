@@ -35,6 +35,39 @@
 * Git repository [homepage](https://github.com/CBIIT/p2p-datasci)
 * Note there is an easier way to edit the site not using command line tools I believe; see [prose.io](https://prose.io). You can also edit the files straight on GitHub.
 
+## 3. Site guidelines
+
+### Full page listing as of 6/29/20 (and corresponding cover images)
+
+Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-pages):
+
+* /assets/img/antibodies.jpg
+  * index.html (blog post listing / landing page)
+  * _posts/2020-04-07-program_announcement.md (original program announcement)
+  * tags.html (tag listing, i.e., when you click on a tag)
+* /assets/img/zebrafish.jpg
+  * _posts/2020-04-21-data_science_course_licenses.md (material availability)
+  * _posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md (material availability)
+* /assets/img/library.jpg
+  * events.md
+  * _posts/2020-06-15-real-time_fair_mortality_tracking.md (event announcement)
+  * _posts/2020-06-29-machine_learning_for_drug_function_classification.md (event announcement)
+* /assets/img/tem.jpg
+  * gettingstarted.md
+* /assets/img/yanling.jpg
+  * beginner-resources.md
+* /assets/img/kedar.jpg
+  * intadv-resources.md
+* /assets/img/collaboration.jpg
+  * collabtools.md
+
+Viable images:
+
+* /assets/img/atrf.jpg
+* /assets/img/atrium.jpg
+* /assets/img/data_center.jpg
+* /assets/img/eric.jpg
+
 ## 2. How to merge the current DSLX website into the test one
 
 For reference, the commit number of the test website ([https://andrew-weisman.github.io/p2p-datasci-test](https://andrew-weisman.github.io/p2p-datasci-test)) is `62e3f65c4b9db060f44ac3bc200a1fcac1011913`.

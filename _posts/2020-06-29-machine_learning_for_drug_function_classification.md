@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning for Drug Function Classification"
 subtitle: "A Hands-On Tutorial"
-cover-img: "/assets/img/antibodies.jpg"
+cover-img: "/assets/img/library.jpg"
 tags: [event-announcement]
 ---
 
