@@ -6,7 +6,7 @@ title: GitHub Pages Instructions
 ## Notes
 
 * The following sections are in reverse chronological order (i.e., starting from scratch, I started from the bottom section, not the top one). This allows me to keep the most recent section's documentation at the top. Hence the reverse section numbering.
-* This page can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto)
+* This page can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto) (there is no link to it anywhere on the website, so it is hidden)
 
 ## Stuff to incorporate from old README
 
@@ -45,12 +45,12 @@ title: GitHub Pages Instructions
 
 * (1) Posts
   * Think of these as announcements having specific dates that they are announced
-  * E.g., event announements, material availability, or announcement of the DSLX itself
+  * E.g., event announcements, material availability, or announcement of the DSLX itself
   * There are currently five posts and they are listed at the landing page, [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
+  * There are also links to some special posts in the navigation bar at the top of the site
   * Each post should correspond to a single `.md` file residing at [https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts](https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts)
   * It should have `layout: post` in its frontmatter and its filename should have the format `YYYY-MM-DD-descriptive_name_here.md`
   * These should be the things we should be adding to the site over time, as opposed to the more structural, fundamental website "pages"
-  * There are also links to some special posts in the navigation bar at the top of the site
   * Currently, I am tagging posts with either `material-availability` or `event-announcement`; tags are set in the file's frontmatter
 * (2) Pages
   * Think of these as the main pages of the website that generally should not be added to over time; most of these were indeed added as soon as we built the site
@@ -60,10 +60,10 @@ title: GitHub Pages Instructions
   * Pages reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
   * There are currently five of these, and like posts they all have `.md` extensions
   * Each page should have `layout: page` in its frontmatter
-  * All pages have a link in the navigation bar at the top of the site (though not all links are pages... there are some links to posts, and also to an external website)
+  * All pages have a link in the navigation bar at the top of the site (though not all links in the navigation bar are pages... there are some links to posts, and also to an external website)
 * (3) Special HTML files
   * The only parts of these files that you would edit are their frontmatter
-  * There are only two of these: [index.html](../index.html) and [tags.html](../tags.html)
+  * There are only two of these: [index.html](../index) and [tags.html](../tags)
   * The former sets up the main landing page (which lists blog-type announcements, i.e., "posts")
   * The latter lists the tags used to identify the types of posts, if applicable; you'll see what I mean by going to the [tags page](../tags.html)
   * These files also reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
