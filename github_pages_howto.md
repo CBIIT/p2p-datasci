@@ -70,7 +70,7 @@ title: GitHub Pages Instructions
   * You should only rarely have to edit these files
 * (4) Other files in the file tree
   * Aside from the above 12 files (as of 6/29/20), there are various other files used to define the template that the site uses
-  * You should almost never have to edit these; however, some occassions may arise, e.g., we had to edit [the footer](../_includes/footer.html) file in order to get the site footer set up correctly
+  * You should almost never have to edit these; however, some occassions may arise, e.g., we had to edit [the footer](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_includes/footer.html) file in order to get the site footer set up correctly
 
 ### Full webpage and cover image listing
 
