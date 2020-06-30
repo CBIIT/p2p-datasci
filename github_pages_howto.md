@@ -65,23 +65,23 @@ Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-p
 
 * [/assets/img/antibodies.jpg](/assets/img/antibodies.jpg) (main image)
   * [index.html](/index.html) (blog post listing / landing page)
-  * [_posts/2020-04-07-program_announcement.md](/2020-04-07-program_announcement.md) (original program announcement)
+  * [_posts/2020-04-07-program_announcement.md](/_posts/2020-04-07-program_announcement.md) (original program announcement)
   * [tags.html](/tags.html) (tag listing, i.e., when you click on a tag)
 * [/assets/img/zebrafish.jpg](/assets/img/zebrafish.jpg) (material-availability tags)
   * [_posts/2020-04-21-data_science_course_licenses.md](/_posts/2020-04-21-data_science_course_licenses.md)
-  * [_posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md](/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md)
-* `/assets/img/library.jpg` (events, including events.md main page and event-announcement tags)
-  * `events.md`
-  * `_posts/2020-06-15-real-time_fair_mortality_tracking.md`
-  * `_posts/2020-06-29-machine_learning_for_drug_function_classification.md`
-* `/assets/img/tem.jpg`
-  * `gettingstarted.md`
-* `/assets/img/yanling.jpg`
-  * `beginner-resources.md`
-* `/assets/img/kedar.jpg`
-  * `intadv-resources.md`
-* `/assets/img/collaboration.jpg`
-  * `collabtools.md`
+  * [_posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md](/_posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md)
+* [/assets/img/library.jpg](/assets/img/library.jpg) (events, including events.md main page and event-announcement tags)
+  * [events.md](/events.md)
+  * [_posts/2020-06-15-real-time_fair_mortality_tracking.md](/_posts/2020-06-15-real-time_fair_mortality_tracking.md)
+  * [_posts/2020-06-29-machine_learning_for_drug_function_classification.md](/_posts/2020-06-29-machine_learning_for_drug_function_classification.md)
+* [/assets/img/tem.jpg](/assets/img/tem.jpg)
+  * [gettingstarted.md](/gettingstarted.md)
+* [/assets/img/yanling.jpg](/assets/img/yanling.jpg)
+  * [beginner-resources.md](/beginner-resources.md)
+* [/assets/img/kedar.jpg](/assets/img/kedar.jpg)
+  * [intadv-resources.md](/intadv-resources.md)
+* [/assets/img/collaboration.jpg](/assets/img/collaboration.jpg)
+  * [collabtools.md](/collabtools.md)
 
 Viable unused images:
 
