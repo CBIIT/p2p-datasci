@@ -22,4 +22,4 @@ cover-img: "/assets/img/antibodies.jpg"
 
 <h3 align="center">Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!</h3>
 
-Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!{: style="font-size: 140%; text-align: center;"}
+<br>
