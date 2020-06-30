@@ -37,21 +37,23 @@
 
 ## 3. Site guidelines
 
-### Full page listing as of 6/29/20 (and corresponding cover images)
+### Full webpage and cover image listing as of 6/29/20
+
+Note: All "cover images" are from [here](https://insite.cancer.gov/docs/DOC-2238)
 
 Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-pages):
 
-* /assets/img/antibodies.jpg
+* /assets/img/antibodies.jpg (main image)
   * index.html (blog post listing / landing page)
   * _posts/2020-04-07-program_announcement.md (original program announcement)
   * tags.html (tag listing, i.e., when you click on a tag)
-* /assets/img/zebrafish.jpg
-  * _posts/2020-04-21-data_science_course_licenses.md (material availability)
-  * _posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md (material availability)
-* /assets/img/library.jpg
+* /assets/img/zebrafish.jpg (material-availability tags)
+  * _posts/2020-04-21-data_science_course_licenses.md
+  * _posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md
+* /assets/img/library.jpg (events, including events.md main page and event-announcement tags)
   * events.md
-  * _posts/2020-06-15-real-time_fair_mortality_tracking.md (event announcement)
-  * _posts/2020-06-29-machine_learning_for_drug_function_classification.md (event announcement)
+  * _posts/2020-06-15-real-time_fair_mortality_tracking.md
+  * _posts/2020-06-29-machine_learning_for_drug_function_classification.md
 * /assets/img/tem.jpg
   * gettingstarted.md
 * /assets/img/yanling.jpg
@@ -61,7 +63,7 @@ Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-p
 * /assets/img/collaboration.jpg
   * collabtools.md
 
-Viable images:
+Viable unused images:
 
 * /assets/img/atrf.jpg
 * /assets/img/atrium.jpg
