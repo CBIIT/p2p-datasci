@@ -5,43 +5,26 @@ title: GitHub Pages Instructions
 
 ## Notes
 
-* The following sections are in reverse chronological order (i.e., starting from scratch, I started from the bottom section, not the top one). This allows me to keep the most recent section's documentation at the top. Hence the reverse section numbering.
-* This page can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto) (there is no link to it anywhere on the website, so it is hidden)
+* The following notes get more hairy as you go deeper
+* The page you are reading can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto) (there is no link to it anywhere on the website, so it is hidden)
 
-## Stuff to incorporate from old README
+## 1. Higher-level stuff
 
-* TLDR:
-  * Clone the repository to somewhere on your computer (or Biowulf): `git clone https://github.com/CBIIT/p2p-datasci.git`
-    * I already cloned a version you can use at `/data/BIDS-HPC/public/software/checkouts/CBIIT/p2p-datasci` on Biowulf if you'd prefer
-  * Checkout the `gh-pages` branch: `git checkout gh-pages`
-  * Modify the `*.md` files (or create new ones) therein
-  * Commit and push your changes using the usual `git` commands, e.g.,
-    * `git commit -a -m "My commit message"`
-    * `git push`
-* [`git` references](https://try.github.io)
-* Full website instructions [here](https://github.com/daattali/beautiful-jekyll)
-* Site URL: [https://cbiit.github.com/p2p-datasci](https://cbiit.github.com/p2p-datasci)
-* [Markdown tutorial](https://markdowntutorial.com)
-* Be sure to use the `gh-pages` branch (`git checkout gh-pages`) in order to modify the site
-* Use the `master` branch (`git checkout master`) to version-control files related to the program
+* The website is rendered here: [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
+* The website can be edited here (note this link takes you directory to the `gh-pages` branch): [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
+* You can also edit the website directly as this link, without first having to clone it as usual using `git clone https://github.com/CBIIT/p2p-datasci`
+* The website files are located in the `gh-pages` branch of this repository, e.g., `git checkout gh-pages`
+* Obviously, use the standard `git` way of committing and pushing changes (if you're not editing directly on GitHub), e.g., `git commit -a -m "My commit message"` and `git push`
+* [Here](https://try.github.io) are resources for using `git` further
+* Aside from the instructions below, [here](https://github.com/daattali/beautiful-jekyll) are the template author's instructions.  We use a modified version of these instructions, as detailed below.
+* You can edit the `.md` files using Markdown; [here](https://markdowntutorial.com) is a tutorial
 * Most configuration settings are located in [`_config.yml`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_config.yml)
-* The homepage is [https://cbiit.github.com/p2p-datasci](https://cbiit.github.com/p2p-datasci) and corresponds to the file [`index.md`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/index.md)
-* Other files/pages are https://cbiit.github.com/p2p-datasci/PAGENAME and correspond to the files `PAGENAME.md`
-* Instructions to set up the site the first time (after creating the repository as usual):
-  * `git branch gh-pages`
-  * `git checkout gh-pages`
-  * `git remote add upstream https://github.com/daattali/beautiful-jekyll`
-  * `git fetch upstream`
-  * `git merge upstream/master`
-* To pull in from the upstream repository in order to get any updates to the template (from the `gh-pages` branch):
-  * `git fetch upstream`
-  * `git merge upstream/master`
-* Git repository [homepage](https://github.com/CBIIT/p2p-datasci)
-* Note there is an easier way to edit the site not using command line tools I believe; see [prose.io](https://prose.io). You can also edit the files straight on GitHub.
 
-## 3. Site guidelines (as of 6/29/20)
+## 2. Site guidelines (as of 6/29/20)
 
 ### Types of pages at the [github.io website](https://cbiit.github.io/p2p-datasci)
+
+Note: Any post, page, or special HTML file called `XXXX.md` or `XXXX.html` can be rendered online by going to [https://cbiit.github.io/p2p-datasci/XXXX]. This applies to posts, even though they are stored in the `_posts` subdirectory!
 
 * (1) Posts
   * Think of these as announcements having specific dates that they are announced, i.e., blog posts
@@ -68,8 +51,10 @@ title: GitHub Pages Instructions
   * The latter lists the tags used to identify the types of posts, if applicable; you'll see what I mean by going to the [tags page](../tags)
   * These files also reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
   * You should only rarely have to edit these files
-* (4) Other files in the file tree
-  * Aside from the above 12 files (as of 6/29/20), there are various other files used to define the template that the site uses
+* (4) `_config.yml`
+  * This is the main website configuration file; go [through it](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_config.yml) to see how to use it, or see the [official template's instructions](https://github.com/daattali/beautiful-jekyll) for more information
+* (5) Other files in the file tree
+  * Aside from the above 13 files (as of 6/29/20), there are various other files used to define the template that the site uses
   * You should almost never have to edit these; however, some occassions may arise, e.g., we had to edit [the footer](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_includes/footer.html) file in order to get the site footer set up correctly
 
 ### Full webpage and cover image listing
@@ -105,7 +90,7 @@ Viable unused images:
 * `/assets/img/data_center.jpg`
 * `/assets/img/eric.jpg`
 
-## 2. How to merge the current DSLX website into the test one
+## 3. How to merge the current DSLX website into the test one
 
 For reference, the commit number of the test website ([https://andrew-weisman.github.io/p2p-datasci-test](https://andrew-weisman.github.io/p2p-datasci-test)) is `62e3f65c4b9db060f44ac3bc200a1fcac1011913`.
 
@@ -121,7 +106,7 @@ git merge production/gh-pages
 
 Upon fixing merge conflicts, this worked! I am now refactoring the website here (i.e., at the test website).
 
-## 1. How to set up a GitHub Pages website
+## 4. How to set up a GitHub Pages website
 
 Create an empty public repository on GitHub, e.g., `https://github.com/CBIIT/p2p-datasci` or `https://github.com/andrew-weisman/p2p-datasci-test` (this repository).
 
