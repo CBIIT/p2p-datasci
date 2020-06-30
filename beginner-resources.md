@@ -12,21 +12,21 @@ The list will be updated on an ongoing basis with suggestions from the community
 
 ### Scripting and Programming Languages
 
-* [Software Carpentry lessons](https://software-carpentry.org/lessons/) -- tutorials on shell, Python, R, Git, etc.
+* [Software Carpentry lessons](https://software-carpentry.org/lessons) -- tutorials on shell, Python, R, Git, etc.
 
 #### Python
 
-* [Intro to Python](https://swcarpentry.github.io/python-novice-inflammation/)
+* [Intro to Python](https://swcarpentry.github.io/python-novice-inflammation)
 * Introduction to Programming (with Python) -- [a webinar from NIAID](https://bioinformatics.niaid.nih.gov/resources#70.3.2)
 
 #### R / RStudio
 
-* [Introduction to R (RStudio)](https://education.rstudio.com/learn/)
+* [Introduction to R (RStudio)](https://education.rstudio.com/learn)
 * **Event:** April 30, 2-4pm, **Introduction to R and R Studio for NCI Fellows.** Instruction via Webex. More info coming soon.
 
 #### Bash / Shell Scripting / UNIX/Linux Command Line
 
-* [The UNIX (and Linux) Shell for Novices](http://swcarpentry.github.io/shell-novice/)
+* [The UNIX (and Linux) Shell for Novices](http://swcarpentry.github.io/shell-novice)
 
 ### Git/GitHub
 
@@ -34,7 +34,7 @@ The list will be updated on an ongoing basis with suggestions from the community
 
 ### Data Visualization
 
-* [Matplotlib in-depth user guides](https://matplotlib.org/tutorials/index.html): beginner, intermediate, and advanced sections, plus sections covering specific topics
+* [Matplotlib in-depth user guides](https://matplotlib.org/tutorials): beginner, intermediate, and advanced sections, plus sections covering specific topics
 
 ### Study Groups and Special Interest Groups
 
@@ -48,15 +48,15 @@ The list will be updated on an ongoing basis with suggestions from the community
 
 ## General Tutorials and Overviews
 
-* Biostars ["Bioinformatics Explained"](https://www.biostars.org/)
+* Biostars ["Bioinformatics Explained"](https://www.biostars.org)
 * CBIIT Cancer Data Science Seminar Series
   * [Homepage](https://datascience.cancer.gov/news-events/events/data-science-seminar)
   * [Archive of past seminars](https://datascience.cancer.gov/news-events/events/archive)
-* Dataquest.io - [interactive tutorials](https://www.dataquest.io/)
+* Dataquest.io - [interactive tutorials](https://www.dataquest.io)
 * Toward Data Science - [tutorials and overviews](https://towardsdatascience.com)
   * [14 Data Science Projects to do During Your Quarantine](https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
 
-**We now have [licenses available](../licenses) for the [Biostar Handbook](https://www.biostarhandbook.com) and [Dataquest.io](https://www.dataquest.io)!**
+**We now have [licenses available](../2020-04-21-data_science_course_licenses) for the [Biostar Handbook](https://www.biostarhandbook.com) and [Dataquest.io](https://www.dataquest.io)!**
 
 ### NIH Listservs
 
