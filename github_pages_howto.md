@@ -49,7 +49,7 @@ git fetch production
 git merge production/gh-pages
 ```
 
-Learn markdown: "https://www.markdowntutorial.com/"
+Upon fixing merge conflicts, this worked! I am now refactoring the website here (i.e., at the test website).
 
 ## 1. How to set up a GitHub Pages website
 
