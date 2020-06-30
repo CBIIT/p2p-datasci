@@ -1,4 +1,7 @@
-# GitHub Pages Instructions
+---
+layout: page
+title: GitHub Pages Instructions
+---
 
 ## Notes
 
@@ -35,9 +38,40 @@
 * Git repository [homepage](https://github.com/CBIIT/p2p-datasci)
 * Note there is an easier way to edit the site not using command line tools I believe; see [prose.io](https://prose.io). You can also edit the files straight on GitHub.
 
-## 3. Site guidelines
+## 3. Site guidelines (as of 6/29/20)
 
-### Full webpage and cover image listing as of 6/29/20
+### Types of pages at the [github.io website](https://cbiit.github.io/p2p-datasci)
+
+* (1) Posts
+  * Think of these as announcements having specific dates that they are announced
+  * E.g., event announements, material availability, or announcement of the DSLX itself
+  * There are currently five posts and they are listed at the landing page, [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
+  * Each post should correspond to a single `.md` file residing at [https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts](https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts)
+  * It should have `layout: post` in its frontmatter and its filename should have the format `YYYY-MM-DD-descriptive_name_here.md`
+  * These should be the things we should be adding to the site over time, as opposed to the more structural, fundamental website "pages"
+  * There are also links to some special posts in the navigation bar at the top of the site
+  * Currently, I am tagging posts with either `material-availability` or `event-announcement`; tags are set in the file's frontmatter
+* (2) Pages
+  * Think of these as the main pages of the website that generally should not be added to over time; most of these were indeed added as soon as we built the site
+  * E.g., these are the pages corresponding to the [Getting Started](../gettingstarted) and [Intermediate and Advanced Resources](../intadv-resources) pages
+  * As another example, I recently added an [Events](../events) page to keep track of upcoming and past events held by the DSLX
+  * But again, you generally will not need to add more of these over time; instead, you should add "posts" as above
+  * Pages reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
+  * There are currently five of these, and like posts they all have `.md` extensions
+  * Each page should have `layout: page` in its frontmatter
+  * All pages have a link in the navigation bar at the top of the site (though not all links are pages... there are some links to posts, and also to an external website)
+* (3) Special HTML files
+  * The only parts of these files that you would edit are their frontmatter
+  * There are only two of these: [index.html](../index.html) and [tags.html](../tags.html)
+  * The former sets up the main landing page (which lists blog-type announcements, i.e., "posts")
+  * The latter lists the tags used to identify the types of posts, if applicable; you'll see what I mean by going to the [tags page](../tags.html)
+  * These files also reside in the main directory, [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
+  * You should only rarely have to edit these files
+* (4) Other files in the file tree
+  * Aside from the above 12 files (as of 6/29/20), there are various other files used to define the template that the site uses
+  * You should almost never have to edit these; however, some occassions may arise, e.g., we had to edit [the footer](../_includes/footer.html) file in order to get the site footer set up correctly
+
+### Full webpage and cover image listing
 
 Note: All "cover images" are from [here](https://insite.cancer.gov/docs/DOC-2238)
 

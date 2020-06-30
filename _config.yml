@@ -205,7 +205,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - github_pages_howto.md
   - README.md
   - screenshot.png
   - docs/
