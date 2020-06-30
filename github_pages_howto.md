@@ -6,6 +6,7 @@ title: GitHub Pages Instructions
 ## Notes
 
 * The following sections are in reverse chronological order (i.e., starting from scratch, I started from the bottom section, not the top one). This allows me to keep the most recent section's documentation at the top. Hence the reverse section numbering.
+* This page can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto)
 
 ## Stuff to incorporate from old README
 
