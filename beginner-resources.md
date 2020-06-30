@@ -22,7 +22,6 @@ The list will be updated on an ongoing basis with suggestions from the community
 #### R / RStudio
 
 * [Introduction to R (RStudio)](https://education.rstudio.com/learn)
-* **Event:** April 30, 2-4pm, **Introduction to R and R Studio for NCI Fellows.** Instruction via Webex. More info coming soon.
 
 #### Bash / Shell Scripting / UNIX/Linux Command Line
 
