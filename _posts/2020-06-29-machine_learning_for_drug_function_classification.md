@@ -21,9 +21,9 @@ tags: [event-announcement]
 - [Scikit-learn](https://scikit-learn.org/stable) for creating Random Forest classification models
 - A modeling workflow that include data collection/curation, featurization (fingerprints), classification modeling using ensemble-based methods and analysis and based on the lessons-learned from [AMPL](https://pubmed.ncbi.nlm.nih.gov/32243153) publication
 
-**Date:** Thursday, July 16, 2020
-**Time:** 1:00 – 3:00 p.m.
-**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ec49655dcf363b2d5fb850f884c5ce3be)
+**Date:** Thursday, July 16, 2020  
+**Time:** 1:00 – 3:00 p.m.  
+**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ec49655dcf363b2d5fb850f884c5ce3be)  
 
 **Instructor:** [Sarangan Ravichandran, PhD, PMP [C]](https://sites.google.com/site/sakaravi), Data Scientist, Frederick National Laboratory for Cancer Research and Adjunct Professor in Bioinformatics, Hood College
 
