@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science Resource Licenses
+title: Data science resource licenses
 subtitle: Now available
 cover-img: "/assets/img/zebrafish.jpg"
 ---
