@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [material-availability]
 ---
 
-<h4 align="center">We now have licenses available for <a href="https://www.dataquest.io">Dataquest.io</a> and the <a href="https://www.biostarhandbook.com">Biostar Handbook</a>!</h4>
+**We now have licenses available for [Dataquest.io](https://www.dataquest.io) and the [Biostar Handbook](https://www.biostarhandbook.com)!**
 
 [Dataquest.io](https://www.dataquest.io) is a collection of interactive data science guides and tutorials. The [Biostar Handbook](https://www.biostarhandbook.com) is a highly recommended bioinformatics virtual textbook that covers the analytical foundations of bioinformatics.
 
