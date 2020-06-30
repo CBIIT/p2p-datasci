@@ -2,7 +2,7 @@
 layout: post
 title: "Real-Time FAIR Mortality Tracking"
 subtitle: "A New Data Commons Approach in the Age of COVID"
-cover-img: "/assets/img/library.jpg"
+cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 

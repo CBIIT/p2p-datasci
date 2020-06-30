@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-cover-img: "/assets/img/library.jpg"
+cover-img: "/assets/img/zebrafish.jpg"
 ---
 
 ### Upcoming events

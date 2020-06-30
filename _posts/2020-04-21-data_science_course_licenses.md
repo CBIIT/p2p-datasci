@@ -2,7 +2,7 @@
 layout: post
 title: Data science resource licenses
 subtitle: Now available
-cover-img: "/assets/img/zebrafish.jpg"
+cover-img: "/assets/img/library.jpg"
 tags: [material-availability]
 ---
 

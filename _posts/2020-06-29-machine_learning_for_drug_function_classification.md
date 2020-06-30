@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning for Drug Function Classification"
 subtitle: "A Hands-On Tutorial"
-cover-img: "/assets/img/library.jpg"
+cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Materials from the Mortality Tracker tool workshop
 subtitle: Now available
-cover-img: "/assets/img/zebrafish.jpg"
+cover-img: "/assets/img/library.jpg"
 tags: [material-availability]
 ---
 
