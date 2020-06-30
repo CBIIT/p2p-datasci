@@ -13,10 +13,10 @@ This list of resources is designed for learners who already have some command of
 ### Machine Learning
 
 * [GitHub tutorial on machine learning](https://github.com/topics/machine-learning)
-* [Machine Learning Mastery](https://machinelearningmastery.com/start-here/): Step-by-Step Guides for Applied Machine Learning
+* [Machine Learning Mastery](https://machinelearningmastery.com/start-here): Step-by-Step Guides for Applied Machine Learning
 
 ### Bioinformatics
 
-* Biostars -- ["Bioinformatics Explained"](https://www.biostars.org/)
+* Biostars -- ["Bioinformatics Explained"](https://www.biostars.org)
 * CCR's [Bioinformatics Training and Education Program](https://btep.ccr.cancer.gov)
   * BTEP also has a [Q&A Message Board](https://btep.ccr.cancer.gov/questions) open to all NCI staff, not just CCR.
