@@ -5,8 +5,9 @@ subtitle: The NCI Data Science Learning Exchange
 cover-img: "/assets/img/antibodies.jpg"
 ---
 
-<h3 align="center">Challenge yourself to learn data science skills while helping your NCI peers learn!</h3>
-<h4 align="center"><br><a href="http://bit.ly/NCI_datascience_peer2peer">Register</a> for the Data Science Learning Exchange</h4>
+### Challenge yourself to learn data science skills while helping your NCI peers learn!
+
+#### [Register](http://bit.ly/NCI_datascience_peer2peer) for the Data Science Learning Exchange
 
 * Connect with other NCI staff learning data science — and with advanced learners who want to share their knowledge and experience.
 
@@ -14,6 +15,4 @@ cover-img: "/assets/img/antibodies.jpg"
 
 * See the Kick-off Webinar [slides](https://cbiit.github.io/p2p-datasci/archive/kickoff-meeting.pdf) or [recording](https://cbiit.webex.com/cbiit/lsr.php?RCID=fbbfdd48b30353b99c9a757ff9a2d1d0)
 
-<h3 align="center">Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!</h3>
-
-<br>
+### Connect with others across NCI to learn data science skills that can help you in your work and share your experience to help others!
