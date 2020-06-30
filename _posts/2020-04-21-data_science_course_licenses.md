@@ -3,6 +3,7 @@ layout: post
 title: Data science resource licenses
 subtitle: Now available
 cover-img: "/assets/img/zebrafish.jpg"
+tags: [material-availability]
 ---
 
 <h4 align="center">We now have licenses available for <a href="https://www.dataquest.io">Dataquest.io</a> and the <a href="https://www.biostarhandbook.com">Biostar Handbook</a>!</h4>

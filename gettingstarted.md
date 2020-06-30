@@ -4,7 +4,6 @@ title: Getting Started
 cover-img: "/assets/img/tem.jpg"
 ---
 
-
 ### How Does it Work? 4 Easy Steps
 
 
