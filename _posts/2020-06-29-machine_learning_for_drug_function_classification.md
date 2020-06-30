@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Real-Time FAIR Mortality Tracking"
-subtitle: "A New Data Commons Approach in the Age of COVID"
+title: "Machine Learning for Drug Function Classification"
+subtitle: "A Hands-On Tutorial"
 cover-img: "/assets/img/antibodies.jpg"
 tags: [event-announcement]
 ---
@@ -32,3 +32,34 @@ In response to the urgent need for portable real-time epidemiological data analy
 **Place:** [WebEx](https://cbiit.webex.com/mw3300/mywebex/default.do?service=1&siteurl=cbiit&nomenu=false&main_url=%2Fmc3300%2Fmeetingcenter%2Fdefault.do%3Fsiteurl%3Dcbiit%26rnd%3D8399572561%26main_url%3D%252Fmc3300%252Fe.do%253Fsiteurl%253Dcbiit%2526AT%253DMI%2526EventID%253D1012840757%2526UID%253D528639562%2526Host%253DQUhTSwAAAAR6F3kJQOTuWph39o4hKAsrwgY5GKcGs2ucULrygEuSJy_fR3C6M7FxwTdHxXC24whll_525McO6BGGg_lZCZMn0%2526FrameSet%253D2%2526MTID%253Dm61b8ab64279f870a325d8ae261f47003)  
 **Registration:** Not Required  
 **Contact:** NCI Data Science Learning Exchange [NCIDataScienceLearningExchange@mail.nih.gov](mailto:NCIDataScienceLearningExchange@mail.nih.gov)  
+
+
+
+
+
+Overview
+This two-part workshop will introduce you to the concepts and tools in Machine Learning to generate molecular descriptors for drug function classification. You will receive hands-on instruction to generate and explore small molecule (drug-like) chemical structures, compute chemical descriptors, and create and analyze Machine Learning classification models. The workshop will use open source chemoinformatics software and the scikit-learn library to compute key pharma-relevant descriptors and generate/analyze drug classification models. 
+
+Part 1: a 30-minute presentation followed by a 20-minute hands-on code/tools review. This includes:
+•	Introduction to ML concepts to create molecular structures and extract features or chemical descriptors. 
+•	How to generate and analyze molecular fingerprint descriptors
+•	 How to use the following two tools to explore data (chemical) analysis and feature generation:
+
+o	Rdkit libraries, Python’s open source cheminformatics software toolkit
+o	Mordred and other open source software to generate molecular features
+
+Part 2: a 30-minute presentation followed by a 20-minute hands-on tools review. In Part 2, we will extend the concepts demonstrated in Part 1 to build machine learning classification models for predicting small-molecule (drug-like) function (ex., CNS, GI Agent, etc.). Tools include: 
+
+•	Scikit-learn for creating Random Forest classification models
+•	A modeling workflow that include data collection/curation, featurization (fingerprints), classification modeling using ensemble-based methods and analysis and based on the lessons-learned from AMPL publication 
+
+
+Date: 		Thursday, July 16
+Time:		1:00 – 3:00 pm
+Location:	WebEx   (https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ec49655dcf363b2d5fb850f884c5ce3be)
+
+Instructor:	Sarangan Ravichandran, PhD, PMP [C], Data Scientist, 
+                             Frederick National Laboratory for Cancer Research and Adjunct Professor in 
+                             Bioinformatics, Hood College
+
+Questions?	Contact the NCI Data Science Learning Exchange 
