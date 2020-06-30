@@ -5,17 +5,17 @@ title: GitHub Pages Instructions
 
 ## Notes
 
-* The following notes get more hairy as you go deeper
+* The following notes get hairier as you go deeper
 * The page you are reading can be viewed [here](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/github_pages_howto.md) or [here](../github_pages_howto) (there is no link to it anywhere on the website, so it is hidden)
 
 ## 1. Higher-level stuff
 
 * The website is rendered here: [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
-* The website can be edited here (note this link takes you directory to the `gh-pages` branch): [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
+* The website can be edited here (note this link takes you directly to the `gh-pages` branch): [https://github.com/CBIIT/p2p-datasci/tree/gh-pages](https://github.com/CBIIT/p2p-datasci/tree/gh-pages)
 * You can also edit the website directly as this link, without first having to clone it as usual using `git clone https://github.com/CBIIT/p2p-datasci`
-* The website files are located in the `gh-pages` branch of this repository, e.g., `git checkout gh-pages`
+* The website files are located in the `gh-pages` branch of this repository, i.e., `git checkout gh-pages`
 * Obviously, use the standard `git` way of committing and pushing changes (if you're not editing directly on GitHub), e.g., `git commit -a -m "My commit message"` and `git push`
-* [Here](https://try.github.io) are resources for using `git` further
+* [Here](https://try.github.io) are resources for learning `git`
 * Aside from the instructions below, [here](https://github.com/daattali/beautiful-jekyll) are the template author's instructions.  We use a modified version of these instructions, as detailed below.
 * You can edit the `.md` files using Markdown; [here](https://markdowntutorial.com) is a tutorial
 * Most configuration settings are located in [`_config.yml`](https://github.com/CBIIT/p2p-datasci/blob/gh-pages/_config.yml)
@@ -27,13 +27,13 @@ title: GitHub Pages Instructions
 Note: Any post, page, or special HTML file called `XXXX.md` or `XXXX.html` can be rendered online by going to `https://cbiit.github.io/p2p-datasci/XXXX`. This applies to posts, even though they are stored in the `_posts` subdirectory!
 
 * (1) Posts
-  * Think of these as announcements having specific dates that they are announced, i.e., blog posts
+  * Think of these as announcements having specific dates on which they are announced, e.g., blog posts
   * E.g., event announcements, material availability, or announcement of the DSLX itself
   * There are currently five posts and they are listed at the landing page, [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
-  * There are also links to some special posts in the navigation bar at the top of the site
+  * There are also links to some of these posts in the navigation bar at the top of the site
   * Each post should correspond to a single `.md` file residing at [https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts](https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts)
   * It should have `layout: post` in its frontmatter and its filename should have the format `YYYY-MM-DD-descriptive_name_here.md`
-  * These should be the things we should be adding to the site over time, as opposed to the more structural, fundamental website "pages"
+  * These should be the things we should be adding to the site over time, as opposed to the more structural, fundamental website "pages", below
   * Currently, I am tagging posts with either `material-availability` or `event-announcement`; tags are set in the file's frontmatter (multiple, comma-separated tags are allowed)
 * (2) Pages
   * Think of these as the main pages of the website that generally should not be added to over time; most of these were indeed added as soon as we built the site
@@ -63,9 +63,9 @@ Note: All "cover images" are from [here](https://insite.cancer.gov/docs/DOC-2238
 
 Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-pages):
 
-* `/assets/img/antibodies.jpg` (main image)
-  * `index.html` (blog post listing / landing page)
-  * `_posts/2020-04-07-program_announcement.md` (original program announcement)
+* [/assets/img/antibodies.jpg](/assets/img/antibodies.jpg) (main image)
+  * [index.html](/index) (blog post listing / landing page)
+  * [_posts/2020-04-07-program_announcement.md](/2020-04-07-program_announcement) (original program announcement)
   * `tags.html` (tag listing, i.e., when you click on a tag)
 * `/assets/img/zebrafish.jpg` (material-availability tags)
   * `_posts/2020-04-21-data_science_course_licenses.md`
