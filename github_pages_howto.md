@@ -44,14 +44,14 @@ title: GitHub Pages Instructions
 ### Types of pages at the [github.io website](https://cbiit.github.io/p2p-datasci)
 
 * (1) Posts
-  * Think of these as announcements having specific dates that they are announced
+  * Think of these as announcements having specific dates that they are announced, i.e., blog posts
   * E.g., event announcements, material availability, or announcement of the DSLX itself
   * There are currently five posts and they are listed at the landing page, [https://cbiit.github.io/p2p-datasci](https://cbiit.github.io/p2p-datasci)
   * There are also links to some special posts in the navigation bar at the top of the site
   * Each post should correspond to a single `.md` file residing at [https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts](https://github.com/CBIIT/p2p-datasci/tree/gh-pages/_posts)
   * It should have `layout: post` in its frontmatter and its filename should have the format `YYYY-MM-DD-descriptive_name_here.md`
   * These should be the things we should be adding to the site over time, as opposed to the more structural, fundamental website "pages"
-  * Currently, I am tagging posts with either `material-availability` or `event-announcement`; tags are set in the file's frontmatter
+  * Currently, I am tagging posts with either `material-availability` or `event-announcement`; tags are set in the file's frontmatter (multiple, comma-separated tags are allowed)
 * (2) Pages
   * Think of these as the main pages of the website that generally should not be added to over time; most of these were indeed added as soon as we built the site
   * E.g., these are the pages corresponding to the [Getting Started](../gettingstarted) and [Intermediate and Advanced Resources](../intadv-resources) pages
@@ -78,32 +78,32 @@ Note: All "cover images" are from [here](https://insite.cancer.gov/docs/DOC-2238
 
 Starting from the [top directory](https://github.com/CBIIT/p2p-datasci/tree/gh-pages):
 
-* /assets/img/antibodies.jpg (main image)
-  * index.html (blog post listing / landing page)
-  * _posts/2020-04-07-program_announcement.md (original program announcement)
-  * tags.html (tag listing, i.e., when you click on a tag)
-* /assets/img/zebrafish.jpg (material-availability tags)
-  * _posts/2020-04-21-data_science_course_licenses.md
-  * _posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md
-* /assets/img/library.jpg (events, including events.md main page and event-announcement tags)
-  * events.md
-  * _posts/2020-06-15-real-time_fair_mortality_tracking.md
-  * _posts/2020-06-29-machine_learning_for_drug_function_classification.md
-* /assets/img/tem.jpg
-  * gettingstarted.md
-* /assets/img/yanling.jpg
-  * beginner-resources.md
-* /assets/img/kedar.jpg
-  * intadv-resources.md
-* /assets/img/collaboration.jpg
-  * collabtools.md
+* `/assets/img/antibodies.jpg` (main image)
+  * `index.html` (blog post listing / landing page)
+  * `_posts/2020-04-07-program_announcement.md` (original program announcement)
+  * `tags.html` (tag listing, i.e., when you click on a tag)
+* `/assets/img/zebrafish.jpg` (material-availability tags)
+  * `_posts/2020-04-21-data_science_course_licenses.md`
+  * `_posts/2020-06-25-materials_from_mortality_tracker_workshop_now_available.md`
+* `/assets/img/library.jpg` (events, including events.md main page and event-announcement tags)
+  * `events.md`
+  * `_posts/2020-06-15-real-time_fair_mortality_tracking.md`
+  * `_posts/2020-06-29-machine_learning_for_drug_function_classification.md`
+* `/assets/img/tem.jpg`
+  * `gettingstarted.md`
+* `/assets/img/yanling.jpg`
+  * `beginner-resources.md`
+* `/assets/img/kedar.jpg`
+  * `intadv-resources.md`
+* `/assets/img/collaboration.jpg`
+  * `collabtools.md`
 
 Viable unused images:
 
-* /assets/img/atrf.jpg
-* /assets/img/atrium.jpg
-* /assets/img/data_center.jpg
-* /assets/img/eric.jpg
+* `/assets/img/atrf.jpg`
+* `/assets/img/atrium.jpg`
+* `/assets/img/data_center.jpg`
+* `/assets/img/eric.jpg`
 
 ## 2. How to merge the current DSLX website into the test one
 
