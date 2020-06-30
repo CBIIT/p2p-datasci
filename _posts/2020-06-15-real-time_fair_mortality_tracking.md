@@ -6,13 +6,13 @@ cover-img: "/assets/img/antibodies.jpg"
 tags: [event-announcement]
 ---
 
-**See the [presentation](https://teams.microsoft.com/l/file/4B178D0C-17D2-41A2-8254-73261521D617?tenantId=14b77578-9773-42d5-8507-251ca2dc2b06&fileType=pdf&objectUrl=https%3A%2F%2Fnih.sharepoint.com%2Fsites%2FNCI-DataScienceLearningExchange%2FShared%20Documents%2FGeneral%2Fmortality%20tracker%20presentation%20June%2024%202020.pdf&baseUrl=https%3A%2F%2Fnih.sharepoint.com%2Fsites%2FNCI-DataScienceLearningExchange&serviceName=teams&threadId=19:82c18d91721048e7a69516e155ac554a@thread.skype&groupId=ac0387a5-f532-4379-a234-73eca4399e11) or the [video recording](https://www.youtube.com/watch?v=laLFScHd914&feature=youtu.be) of the DCEG Webinar on the COVID-19 Mortality Tracker held on June 24!**
+**The [presentation](../attachments/mortality_tracker_presentation_June_24_2020.pdf) and [video recording](https://www.youtube.com/watch?v=laLFScHd914&feature=youtu.be) are now available.**
 
 Have you wondered how the epidemiological data for COVID-19 is being collected and disseminated nationwide? Or how the disease trajectory compares to other diseases during the same time period?
 
 Join a **virtual webinar** on Jun 24 to learn how the new [Mortality Tracker](https://episphere.github.io/mortalitytracker) designed by DCEG scientists is being used across the country and how it was developed using Findable, Accessible, Interoperable, Reusable (F.A.I.R.) principles.
 
-#### Abstract
+**Abstract**
 
 In response to the urgent need for portable real-time epidemiological data analysis, DCEG scientists designed a real-time [Mortality Tracker](https://episphere.github.io/mortalitytracker) for COVID-19 and other diseases in the United States. This new data distribution method intersects epidemiology, Cloud and web computing to monitor the broader impact of COVID-19 on death rates across the United States.
 
@@ -24,8 +24,7 @@ In response to the urgent need for portable real-time epidemiological data analy
 - [Meredith Shiels, Ph.D.](https://dceg.cancer.gov/about/staff-directory/shiels-meredith), Investigator
 - [Praphulla Bhawsar, MS](https://github.com/PrafulB), Data Engineer
 - [Bhaumik Patel, MS](https://github.com/bhaumik55231), Software Engineer
-- [Montserrat Garcia-Closas, MD Ph.D.](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat), Integrative Tumor
-  Epidemiology Branch Chief
+- [Montserrat Garcia-Closas, MD Ph.D.](https://dceg.cancer.gov/about/staff-directory/garcia-closas-montserrat), Integrative Tumor Epidemiology Branch Chief
 
 **Date:** Wednesday, June 24, 2020  
 **Time:** 9:30 - 10:30 a.m.  
