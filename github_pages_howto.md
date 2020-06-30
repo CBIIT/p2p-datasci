@@ -24,7 +24,7 @@ title: GitHub Pages Instructions
 
 ### Types of pages at the [github.io website](https://cbiit.github.io/p2p-datasci)
 
-Note: Any post, page, or special HTML file called `XXXX.md` or `XXXX.html` can be rendered online by going to [https://cbiit.github.io/p2p-datasci/XXXX]. This applies to posts, even though they are stored in the `_posts` subdirectory!
+Note: Any post, page, or special HTML file called `XXXX.md` or `XXXX.html` can be rendered online by going to `https://cbiit.github.io/p2p-datasci/XXXX`. This applies to posts, even though they are stored in the `_posts` subdirectory!
 
 * (1) Posts
   * Think of these as announcements having specific dates that they are announced, i.e., blog posts
@@ -104,7 +104,16 @@ git fetch production
 git merge production/gh-pages
 ```
 
-Upon fixing merge conflicts, this worked! I am now refactoring the website here (i.e., at the test website).
+Upon fixing merge conflicts, this worked. I am now refactoring the website here (i.e., at the test website).
+
+Note that, when I was done, I pulled in the changes from my test repository into the main DSLX repository via:
+
+```bash
+git push production gh-pages # from the gh-pages branch of my test repository
+git pull # from the gh-pages branch of the main repository
+```
+
+This worked as well.
 
 ## 4. How to set up a GitHub Pages website
 
