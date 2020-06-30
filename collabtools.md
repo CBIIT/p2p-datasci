@@ -33,8 +33,8 @@ See the [short tutorial](https://teams.microsoft.com/_#/conversations/General?th
 
 Other popular tools for collaboration among data scientists include:
 
-* [Gitter](https://gitter.im/)
-* [Slack](https://slack.com/)
+* [Gitter](https://gitter.im)
+* [Slack](https://slack.com)
 * [Box](https://www.box.com)
 * ...and you may have other tools that you prefer: [let us know](mailto:NCICBIITDataScienceTraining@mail.nih.gov) (email link) about them!
 
