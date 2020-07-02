@@ -23,7 +23,7 @@ tags: [event-announcement]
 
 **Date:** Thursday, July 16, 2020  
 **Time:** 1:00 – 3:00 p.m.  
-**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ec49655dcf363b2d5fb850f884c5ce3be)
+**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ec49655dcf363b2d5fb850f884c5ce3be)  
 **Supporting Link:** [GitHub](https://github.com/ravichas/ML-predict-drugclass)  
 
 **Instructor:** [Sarangan Ravichandran, PhD, PMP [C]](https://sites.google.com/site/sakaravi), Data Scientist, Frederick National Laboratory for Cancer Research and Adjunct Professor in Bioinformatics, Hood College
