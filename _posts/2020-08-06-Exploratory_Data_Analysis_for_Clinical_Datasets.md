@@ -10,7 +10,7 @@ tags: [event-announcement]
 
 **Date:**     Thursday, August 6, 2020  
 **Time:**     1:00 – 2:30 p.m.  
-**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2ec8c267b07bd066d70c8503894e7694)
+**Location:** [WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2ec8c267b07bd066d70c8503894e7694)     
 **Registration:** Not required
 
 **Instructor:** [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), bioinformatics manager at the Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov/)) and adjunct professor at the University of Maryland.
