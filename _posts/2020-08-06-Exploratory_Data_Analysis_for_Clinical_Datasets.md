@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-**Overview:** Exploratory data analysis (EDA) is an important step in statistics that enables the validation, summarization, and hypothesis generation in relation to a dataset. This workshop (ADD URL) will present multiple tools used to perform EDA tasks and show you how to apply them on three public clinical datasets. The workshop will also demonstrate tools that can assist you in exploration and characterization of your data sets.
+**Overview:** Exploratory data analysis (EDA) is an important step in statistics that enables the validation, summarization, and hypothesis generation in relation to a dataset. This workshop will present multiple tools used to perform EDA tasks and show you how to apply them on three public clinical datasets. The workshop will also demonstrate tools that can assist you in exploration and characterization of your data sets.
 
 **Date:** Thursday, August 6, 2020  
 **Time:** 1:00 – 2:30 p.m.  
