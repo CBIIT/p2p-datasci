@@ -19,9 +19,9 @@ tags: [event-announcement]
 9. Making predictions using testing data with trained models  
 10. Transfer learning  
 
-**Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday, November 6, 2019 
-**Time:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:30-3:00 p.m. 
-**Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NCI Shady Grove, Seminar 110
+**Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wednesday, November 6, 2019  
+**Time:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:30-3:00 p.m.  
+**Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NCI Shady Grove, Seminar 110  
 
 **Instructor:** [Hyun Jung, Ph.D](https://www.linkedin.com/in/davidhj/), Bioinformatics Analyst IV, Imaging and Visualization Group, Advanced Biomedical Computational Science Group,Biomedical Informatics and Data Sciences (BIDS) Directorate, [Frederick National Laboratory for Cancer Research (FNLCR)](https://frederick.cancer.gov/).
 
