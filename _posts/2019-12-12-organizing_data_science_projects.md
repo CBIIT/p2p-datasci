@@ -14,16 +14,16 @@ Project organization is key for communication and reproducibility of data scienc
 
 **Topics:** 10 Best Practices for Organizing Data Science Projects  
 
-Use the same structure and names across projects  
-Separate original data, generated data, and scripts  
-Use workflows to orchestrate  
-Split out configuration for consistency  
-Modularize reusable code  
-Use a style guide and linters  
-Use containers and environments  
-Document as you go  
-Document as you go  
-Document as you go!  
+1. Use the same structure and names across projects  
+2. Separate original data, generated data, and scripts  
+3. Use workflows to orchestrate  
+4. Split out configuration for consistency  
+5. Modularize reusable code  
+6. Use a style guide and linters  
+7. Use containers and environments  
+8. Document as you go  
+9. Document as you go  
+10. Document as you go!  
 
 
 **Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, December 12, 2019 
