@@ -7,8 +7,7 @@ tags: [event-announcement]
 
 **The [presentation](../attachments/Keras_DL_Framework.pdf) is now available.**
 
-**Overview:**  
-In this workshop, you will learn about:  
+**In this workshop, you will learn about:**  
 Building blocks of Convolutional Neural Networks  
 Virtual environment for installation of Python packages and deep learning frameworks (Tensorflow and Keras)  
 Downloading data to your local storage and feeding the data to your network  
