@@ -9,7 +9,7 @@ tags: [event-announcement]
 
 [Data Science Training Resources](https://docs.google.com/document/d/1fBBBBaN6-yXJdXM8qpilfGwcmgcjfaNY9Qr4M8NQqDk/edit)  
 
-**In this workshop, you will learn about:**  
+**In this workshop, you will learn:**  
 1. How to effectively interact with NCI bioinformatics and data science support, and  
 2. How to frame your technical question when requesting help  
 
