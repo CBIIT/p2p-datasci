@@ -6,6 +6,8 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
+**The [video recording](https://youtu.be/eqCQQxtxmuA) is now available.**
+
 **Overview:** This two-part workshop will introduce you to the concepts and tools in Machine Learning to generate molecular descriptors for drug function classification. You will receive hands-on instruction to generate and explore small molecule (drug-like) chemical structures, compute chemical descriptors, and create and analyze Machine Learning classification models. The workshop will use open source chemoinformatics software and the [scikit-learn](https://scikit-learn.org/stable) library to compute key pharma-relevant descriptors and generate/analyze drug classification models.
 
 **Part 1:** a 30-minute presentation followed by a 20-minute hands-on code/tools review. This includes:
