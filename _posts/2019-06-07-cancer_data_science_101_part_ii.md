@@ -5,7 +5,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-**The [tutorial](https://github.com/bballew/pandas_tutorial), [presentation](https://github.com/subhacom/np_tut_breastcancer/) and [video recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=43c5be03f30a54c6a515cf7f09bfdc37) are now available.**  
+**The [panda tutorial](https://github.com/bballew/pandas_tutorial), [numpty/matplotlib tutorial](https://github.com/subhacom/np_tut_breastcancer/) and [video recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=43c5be03f30a54c6a515cf7f09bfdc37) are now available.**  
 
 **Using cancer data examples, the workshop will cover:**  
 - Importing data into Jupyter notebook using Pandas  
