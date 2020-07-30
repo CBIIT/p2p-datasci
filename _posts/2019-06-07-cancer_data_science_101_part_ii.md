@@ -19,7 +19,8 @@ b. through visualization with Matplotlib
 **Time:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:00-3:00 p.m.  
 **Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NCI Shady Grove, Seminar 406  
 
-**Instructors:**   [Bari J. Ballew, PhD](https://www.linkedin.com/in/bariballew/), Bioinformatics Scientist, Cancer Genomics Research (CGR) Lab, [NCI Division of Cancer Epidemiology and Genetics (DCEG)](https://dceg.cancer.gov/), [Frederick National Laboratory for Cancer Research (FNLCR)](https://frederick.cancer.gov/)  
+**Instructors:**   
+[Bari J. Ballew, PhD](https://www.linkedin.com/in/bariballew/), Bioinformatics Scientist, Cancer Genomics Research (CGR) Lab, [NCI Division of Cancer Epidemiology and Genetics (DCEG)](https://dceg.cancer.gov/), [Frederick National Laboratory for Cancer Research (FNLCR)](https://frederick.cancer.gov/)  
 [Subhasis Ray, PhD](../attachments/SubhasisRay_bio.docx), Visiting Research Fellow, Section on Sensory Coding and Neural Ensembles (NICHD), [NIH Division of Intramural Research](https://www.nichd.nih.gov/about/org/dir)  
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
