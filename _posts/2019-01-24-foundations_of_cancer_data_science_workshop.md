@@ -13,10 +13,10 @@ This workshop provided an overview and introduction for beginners across NCI in 
 2. Applications of Data Science in Cancer Research: The use of predictive models and analytics is growing in the cancer research community. These new techniques provide significant insight and understanding of cancer as a disease, allow researchers to use vast amounts of diverse cancer-related data to build predictive models, and inform clinical treatment options that provide effective treatment for individual cancer patients. This session will highlight some leading examples of biomedical data science applications used in cancer research, such as bioinformatics analysis, image processing, and machine learning
 3. Training Resources currently available to NCI staff
 
-**Workshop Sessions:**
-Session 1: [What Does NCI's Cancer Data Science Lab Do?](../attachments/Foundations_Workshop_Part_I_Schaffer.pptx) Dr. Alejandro Schäffer, PhD, CCR
-
-Session 2: Applications of Data Science in Cancer Research
+**Workshop Sessions:**  
+Session 1: [What Does NCI's Cancer Data Science Lab Do?](../attachments/Foundations_Workshop_Part_I_Schaffer.pptx) Dr. Alejandro Schäffer, PhD, CCR  
+  
+Session 2: Applications of Data Science in Cancer Research  
 
 - [Pipeline Development and Training for High Throughput NGS Data Analysis](../attachments/Foundations_of_CDS_presentation_Koparde.pptx): Dr. Vishal Koparde, PhD, CCR/CCBR
 
@@ -24,7 +24,7 @@ Session 2: Applications of Data Science in Cancer Research
 
 - [Overview of Natural Language Processing (NLP) in Biomedical and Cancer Research](../attachments/Foundations_of_CDS_presentation_Peng_Chen.pdf): Drs. Yifan Peng, PhD, NLM/NCBI, and Qingyu Chen, PhD, NLM/NCBI
 
-Session 3: Wrap-Up: Cancer Data Science Training Resources and Upcoming Events
+Session 3: Wrap-Up: Cancer Data Science Training Resources and Upcoming Events  
 
 [View the list of training resources open to the NCI community](../attachments/NCI Cancer Data Science and Scientific Computing Training Activities_Resources.pdf)
 
