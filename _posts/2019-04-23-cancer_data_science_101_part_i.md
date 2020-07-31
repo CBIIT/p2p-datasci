@@ -9,23 +9,23 @@ tags: [event-announcement]
 
 **Agenda - click the Sessions to view presentations**
   
-1:00 pm – 1:10 pm      Welcome and Introduction of speakers: NCI and FNL                     
+1:00 pm – 1:10 pm :      Welcome and Introduction of speakers: NCI and FNL                     
   
-1:10 pm – 1:45 pm      Session I: What is Data Science? [Mark Jensen, PhD](https://www.linkedin.com/in/fortinbras/), FNLCR BIDS
+1:10 pm – 1:45 pm :     [Session I: What is Data Science?](../attachments/what-is-data-science-CDS101-jensen-2019.pptx) [Mark Jensen, PhD](https://www.linkedin.com/in/fortinbras/), FNLCR BIDS
   
-1:45 pm – 2:20 pm      Session II: Data Science Methodology: [Randall Johnson, PhD](https://www.linkedin.com/in/randall-johnson-77ba3a1b/), FNLCR ABCS
+1:45 pm – 2:20 pm :     [Session II: Data Science Methodology](../attachments/DataScienceMethodologyJohnson.pptx): [Randall Johnson, PhD](https://www.linkedin.com/in/randall-johnson-77ba3a1b/), FNLCR ABCS
   
-2:20 pm – 2:45 pm      PANEL Discussion: Q & A for Sessions I and II           
+2:20 pm – 2:45 pm :     PANEL Discussion: Q & A for Sessions I and II           
   
-2:45 pm – 2:55 pm      BREAK                                                                        
+2:45 pm – 2:55 pm :     BREAK                                                                        
   
-2:55 pm – 3:30 pm      Session III: Formulating the Question: [Martin Skarzynski, PhD](https://marskar.github.io/), NCI DCEG Fellow
+2:55 pm – 3:30 pm :    [Session III: Formulating the Question](https://github.com/marskar/ds101): [Martin Skarzynski, PhD](https://marskar.github.io/), NCI DCEG Fellow
   
-3:30 pm – 4: 15 pm     Session IV: Data Gathering: [Simina Boca, PhD](https://icbi.georgetown.edu/Boca), Georgetown University Medical Center            
+3:30 pm – 4:15 pm :    [Session IV: Data Gathering](../attachments/Data_gathering_-_Boca.pptx): [Simina Boca, PhD](https://icbi.georgetown.edu/Boca), Georgetown University Medical Center            
   
-4:15 pm  - 4:50 pm     PANEL Discussion:  Q & A for Sessions III and IV                   
+4:15 pm - 4:50 pm :    PANEL Discussion:  Q & A for Sessions III and IV                   
   
-4:50 pm – 5:00 pm      Wrap-Up: Feedback and Next Workshop    
+4:50 pm – 5:00 pm :     Wrap-Up: Feedback and Next Workshop    
 
 
 **Topics:**
