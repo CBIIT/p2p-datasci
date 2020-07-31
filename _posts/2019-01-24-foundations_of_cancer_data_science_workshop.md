@@ -7,10 +7,8 @@ tags: [event-announcement]
 
 **The [presentation](../attachments/Fear_Organizing_DataScience_Projects_1.pdf) and [video recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=60480b27024359407b3ed5edbc3708de) are now available.**
 
-[Example Project](https://github.com/jfear/example_project)
-
 **Overview:**  
-The workshop provided an overview and introduction for beginners across NCI in three areas:
+This workshop provided an overview and introduction for beginners across NCI in three areas:
 1. Introduction of Fundamental Cancer Data Science: concepts, capabilities, and the "why" behind cancer data science – high-level overview.
 2. Applications of Data Science in Cancer Research: The use of predictive models and analytics is growing in the cancer research community. These new techniques provide significant insight and understanding of cancer as a disease, allow researchers to use vast amounts of diverse cancer-related data to build predictive models, and inform clinical treatment options that provide effective treatment for individual cancer patients. This session will highlight some leading examples of biomedical data science applications used in cancer research, such as bioinformatics analysis, image processing, and machine learning
 3. Training Resources currently available to NCI staff
