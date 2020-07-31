@@ -26,7 +26,7 @@ Session 2: Applications of Data Science in Cancer Research
 
 Session 3: Wrap-Up: Cancer Data Science Training Resources and Upcoming Events  
 
-- [View the list of training resources open to the NCI community](../attachments/NCI Cancer Data Science and Scientific Computing Training Activities_Resources.pdf)
+- [View the list of training resources open to the NCI community](../attachments/NCI_Cancer_Data_Science_and_Scientific_Computing_Training_Activities_Resources.pdf)
 
 
 **Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, January 24, 2019   
