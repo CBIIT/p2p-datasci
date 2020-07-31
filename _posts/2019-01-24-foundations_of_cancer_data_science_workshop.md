@@ -31,7 +31,7 @@ Session 3: Wrap-Up: Cancer Data Science Training Resources and Upcoming Events
 
 **Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, January 24, 2019   
 
-**Instructor:**
+**Instructor:**  
 [Alejandro Schäffer, PhD](http://nciphub.org/groups/cancerdatascience/File:Foundations_Workshop_Part_I_Bio_Schaffer.docx)  
 [Vishal Koparde, PhD](https://nciphub.org/groups/cancerdatascience/File:/uploads/Foundations_Workshop_Part_I_Bio_Koparde.docx)    
 Yifan Peng, PhD  
