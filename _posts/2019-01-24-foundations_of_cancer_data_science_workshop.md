@@ -5,7 +5,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-**The [presentation](../attachments/Fear_Organizing_DataScience_Projects_1.pdf) and [video recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=60480b27024359407b3ed5edbc3708de) are now available.**
+**The [video recording](https://cbiit.webex.com/cbiit/ldr.php?RCID=60480b27024359407b3ed5edbc3708de) is now available.**
 
 **Overview:**  
 This workshop provided an overview and introduction for beginners across NCI in three areas:
