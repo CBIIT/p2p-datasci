@@ -11,6 +11,6 @@ tags: [event-announcement]
 **See the [presentations and papers](https://ncihub.org/groups/nihai/seminars/nlp)**
 
 **Overview:**  
-Hosted by NIH.AI and National Library of Medicine (NLM), this highly interactive workshop offered opportunities to exchange expertise and collaborate with NIH researchers at all career levels who are utilizing natural language processing technologies in their work. This four-hour workshop includee targeted presentations with time for open discussion among peers and across disciplines. The workshop was held at NLM Visitors Center, NIH Building 38A, Room 127, on Thursday, May 9, 2019.
+Hosted by NIH.AI and National Library of Medicine (NLM), this highly interactive workshop offered opportunities to exchange expertise and collaborate with NIH researchers at all career levels who are utilizing natural language processing technologies in their work. This four-hour workshop included targeted presentations with time for open discussion among peers and across disciplines. The workshop was held on Thursday, May 9, 2019.
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
