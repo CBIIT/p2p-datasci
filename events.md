@@ -20,7 +20,7 @@ June 24, 2020: [Real-Time FAIR Mortality Tracking](../2020-06-15-real-time_fair_
 
 March 3, 2020: [Evaluation of Deep Learning-Based Segmentation of Nuclei from Fluorescence Microscopy Images](../2020-03-03-evaluation_of_deep_learning-based_segmentation_of_nuclei_from_fluorescence_microscopy_images)  
 
-## 2019
+## 2019 ##
 
 December 19, 2019: [Organizing Data Science Projects](../2019-12-12-organizing_data_science_projects)  
 
@@ -31,6 +31,8 @@ September 16, 2019: [Interacting with NCI Bioinformatics & Data Science Resource
 June 22, 2019: [Exploratory Data Analysis (EDA) 101](../2019-06-22-exploratory_data_analysis_101)  
 
 June 7, 2019: [Cancer Data Science 101, Part II](../2019-06-07-cancer_data_science_101_part_ii)  
+
+May 9, 2019: [Natural Language Processing](..https://ncihub.org/groups/nihai/seminars/nlp)
 
 April 23, 2019: [Cancer Data Science 101, Part I](../2019-04-23-cancer_data_science_101_part_i)  
 
