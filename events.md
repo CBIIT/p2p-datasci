@@ -32,7 +32,7 @@ June 22, 2019: [Exploratory Data Analysis (EDA) 101](../2019-06-22-exploratory_d
 
 June 7, 2019: [Cancer Data Science 101, Part II](../2019-06-07-cancer_data_science_101_part_ii)  
 
-May 9, 2019: [Natural Language Processing](..https://ncihub.org/groups/nihai/seminars/nlp)
+May 9, 2019: [Natural Language Processing](../2019-05-09-natural_language_processing)
 
 April 23, 2019: [Cancer Data Science 101, Part I](../2019-04-23-cancer_data_science_101_part_i)  
 
