@@ -1,22 +1,47 @@
-## v3.0.1 Date: TBD
+## Unreleased version
 
+- Add YAML option `head-extra` which is similar to `footer-extra` but is used to include custom HTML code in a page's `<head>` tag 
+
+## v4.1.0 2020-08-08
+
+- Add Open Graph `site_name` meta field to pages automatically
+- Add `text-col `config setting for main text color (#694)
+- Add `keywords` config setting to set the meta keywords on all pages (for SEO purposes) (#691)
+- Add `mobile-theme-col` config setting to allow a mobile theme colour (#692)
+- Add `site-css` config setting in the config file to provide CSS files that are used on all pages in the site (#695)
+- Add YAML option `description`: creates the meta description on a page, intended to provide a brief description of the page for search engines and when the page is shared (#690)
+
+## v4.0.1 2020-07-13
+
+- Fixed staticman comments UI that was broken since the migration to bootstrap 4
+
+## v4.0.0 2020-07-12
+
+- **BREAKING CHANGE** Replace `image` YAML parameter with `thumbnail-img` to be more clear
+- **MAJOR BEHAVIOUR CHANGE** Don't use the thumbnail as the avatar image
+- Cover image will automatically be used as thumbnail if none is provided
+- Image to share on social media will use the cover image or thumbnail if none is provided
+- All images (social media share, thumbnail, cover) can use either relative or absoluate paths.
 - Fixed issue where if a dropdown menu was the last item in the menu bar, it did not have a proper margin on the right
-- Add social network link: Mastodon (#646)
+- Add social network links: Mastodon (#646), Google Scholar, ORCID (#670)
 - Add support for sharing pages on new social network: VK (#657)
 - Use Open Graph type 'article' for blog posts (#669)
+- Use Twitter's large sumary card (large image) when there is a cover image, thumbnail image, or share image specified (#668)
+- Make post images in the feed page smaller on smaller devices
+- Fixed jQuery version in staticman (#671)
 
 ## v3.0.0 2020-05-07
 
 - **BREAKING CHANGE** Upgraded from Bootstrap 3.3.2 to 4.4.1. This involved a major rewrite of most components. This shouldn't affect any users unless you have custom HTML/CSS code which the new Bootstrap could have broken.
-- **BREAKING CHANGE** Renamed `bigimg` YAML parameter to `cover-img`.
-- **BREAKING CHANGE** Removed `googlefonts` YAML parameter since googlefonts are just CSS so they can be loaded via `ext-css`. 
-- **BREAKING CHANGE** Upgraded from jQuery 1.11.2 to 3.4.2. This should not affect most people.
-- Added `navbar-border-col` setting in the config file.
-- Add accessibility features where possible.
-- Made the theme completely responsive by rewriting all CSS to use 'rem' instead of 'px'.
-- Rewrite and simplify some JavaScript code to use CSS or Bootstrap alternatives that weren't available in 2015.
-- Remove most of the sample posts so that users only have two sample posts to learn from.
-- Improvements to the README instructions.
+- **BREAKING CHANGE** Renamed `bigimg` YAML parameter to `cover-img`
+- **BREAKING CHANGE** Removed `googlefonts` YAML parameter since googlefonts are just CSS so they can be loaded via `ext-css`
+- **BREAKING CHANGE** Upgraded from jQuery 1.11.2 to 3.4.2. This should not affect most people
+- Added `navbar-border-col` setting in the config file
+- Add accessibility features where possible
+- Made the theme completely responsive by rewriting all CSS to use 'rem' instead of 'px'
+- Rewrite and simplify some JavaScript code to use CSS or Bootstrap alternatives that weren't available in 2015
+- Remove most of the sample posts so that users only have two sample posts to learn from
+- Improvements to the README instructions
 
 ## v2.3.0 2020-04-29
 
@@ -28,9 +53,9 @@
 
 ## v2.2.0 2020-04-27
 
-- Add social network link: Telegram (#625) (thanks @mashed-potatoes) 
-- Moved the demo site to an independent URL: https://beautifuljekyll.com 
-- Major documentation overhaul and cleanup of old files 
+- Add social network link: Telegram (#625) (thanks @mashed-potatoes)
+- Moved the demo site to an independent URL: https://beautifuljekyll.com
+- Major documentation overhaul and cleanup of old files
 - Fix a few bugs from the remote_theme migration
 
 ## v2.0.0 2020-04-26
@@ -118,3 +143,4 @@
 ... Many small changes because the site was in its infancy
 
 **2015-03-12** Beautiful Jekyll version 0.0000001 is released!
+

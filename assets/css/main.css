@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
+  color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
@@ -65,7 +65,7 @@ hr.small {
 }
 
 /* fix in-page anchors to not be behind fixed header */
-:target:before { 
+:target:before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -447,7 +447,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: {{ site.text-col | default: "#404040" }};
 }
 
 .post-preview a:focus,
@@ -484,6 +484,7 @@ footer .footer-custom-content {
 }
 .post-image {
   float: right;
+  margin-left: 0.625rem;
   height: 12rem;
   width: 12rem;
   margin-top: -2.1875rem;
@@ -539,6 +540,14 @@ footer .footer-custom-content {
   }
 }
 
+@media (max-width: 767px) {
+  .post-image, .post-image img {
+    margin-top: 0;
+    height: 9rem;
+    width: 9rem;
+  }
+}
+
 @media (max-width: 500px) {
   .post-image, .post-image img {
     height: 6.25rem;
@@ -549,7 +558,8 @@ footer .footer-custom-content {
     width: 100%;
     text-align: center;
     margin-top: 0;
-    float: left;
+    margin-left: 0;
+    float: none;
   }
 }
 /* --- Post and page headers --- */
@@ -717,7 +727,7 @@ footer .footer-custom-content {
     display: block;
   }
 }
-.reader-time .middot { 
+.reader-time .middot {
   margin: 0 0.625rem;
 }
 
@@ -751,7 +761,7 @@ footer .footer-custom-content {
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: {{ site.text-col | default: "#404040" }};
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
