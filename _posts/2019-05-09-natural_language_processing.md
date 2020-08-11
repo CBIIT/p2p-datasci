@@ -5,7 +5,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-**See the [video recording]**(https://cbiit.webex.com/cbiit/ldr.php?RCID=4c707137da66fb8658db594791b06b07)  
+**See the [video recording]** (https://cbiit.webex.com/cbiit/ldr.php?RCID=4c707137da66fb8658db594791b06b07)  
 
 **Overview:**  
  
