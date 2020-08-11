@@ -20,7 +20,7 @@ June 24, 2020: [Real-Time FAIR Mortality Tracking](../2020-06-15-real-time_fair_
 
 March 3, 2020: [Evaluation of Deep Learning-Based Segmentation of Nuclei from Fluorescence Microscopy Images](../2020-03-03-evaluation_of_deep_learning-based_segmentation_of_nuclei_from_fluorescence_microscopy_images)  
 
-#### 2019 
+#### 2019
 
 December 19, 2019: [Organizing Data Science Projects](../2019-12-12-organizing_data_science_projects)  
 
