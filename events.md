@@ -12,7 +12,7 @@ Watch for announcements of September workshops, coming soon!
 
 ### Past events
 
-August 6, 2020: [Exploratory Data Analysis (EDA) for Clinical Datasets](../2020-08-06-Exploratory_Data_Analysis_for_Clinical_Datasets)
+August 6, 2020: [Exploratory Data Analysis (EDA) for Clinical Datasets](../2020-07-25-Exploratory_Data_Analysis_for_Clinical_Datasets)
 
 July 16, 2020: [Machine Learning for Drug Function Classification](../2020-06-29-machine_learning_for_drug_function_classification)  
 
