@@ -15,26 +15,4 @@ Meeting goals:
 - Educate the NIH community on available natural language processing resources and repositories 
 - Foster collaboration among meeting attendees
 
-
- 
- 
-
-  
-Session 2: Applications of Data Science in Cancer Research  
-
-- [Pipeline Development and Training for High Throughput NGS Data Analysis](../attachments/Foundations_of_CDS_presentation_Koparde.pptx): Dr. Vishal Koparde, PhD, CCR/CCBR
-
-- High-Throughput Imaging for the Systematic Dissection of Cellular Pathways: Dr. Gianluca Pegoraro, PhD, CCR/LBRGE
-
-- [Overview of Natural Language Processing (NLP) in Biomedical and Cancer Research](../attachments/Foundations_of_CDS_presentation_Peng_Chen.pdf): Drs. Yifan Peng, PhD, NLM/NCBI, and Qingyu Chen, PhD, NLM/NCBI
-
-
-
-
-**Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, January 24, 2019   
-
-**Instructor:**  
-[Alejandro Schäffer, PhD](http://nciphub.org/groups/cancerdatascience/File:Foundations_Workshop_Part_I_Bio_Schaffer.docx)  
- 
-
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
