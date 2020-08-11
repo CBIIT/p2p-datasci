@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foundations of Cancer Data Science Workshop"
+title: "Natural Language Processing"
 cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
@@ -11,16 +11,16 @@ tags: [event-announcement]
 
 **Overview:**  
  
-Hosted by NIH.AI and National Library of Medicine (NLM), this highly interactive workshop offered opportunities to exchange expertise and collaborate with NIH researchers at all career levels who are utilizing natural language processing technologies in their work. This four-hour workshop includee targeted presentations with time for open discussion among peers and across disciplines. The workshop was held at NLM Visitors Center, NIH Building 38A, Room 127, on Thursday, May 9, 2019 * * Workshop recording will be made available following the event. 
+Hosted by NIH.AI and National Library of Medicine (NLM), this highly interactive workshop offered opportunities to exchange expertise and collaborate with NIH researchers at all career levels who are utilizing natural language processing technologies in their work. This four-hour workshop includee targeted presentations with time for open discussion among peers and across disciplines. The workshop was held at NLM Visitors Center, NIH Building 38A, Room 127, on Thursday, May 9, 2019 
 
 Meeting goals:
 Educate the NIH community on available natural language processing resources and repositories 
-Foster collaboration between meeting attendees
+Foster collaboration among meeting attendees
 
 
  
  
-](../attachments/Foundations_Workshop_Part_I_Schaffer.pptx) Dr. Alejandro Schäffer, PhD, CCR  
+
   
 Session 2: Applications of Data Science in Cancer Research  
 
