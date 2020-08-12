@@ -19,6 +19,7 @@ navbar-links:
     - Intermediate / Advanced: "intadv-resources"
     - Data Science Resource Licenses: "2020-04-21-data_science_course_licenses"
     - CCR Bioinformatics Training & Education Program (BTEP): "https://btep.ccr.cancer.gov/"
+    - NCI Cancer Data Science Community Training Resources: "https://docs.google.com/document/d/1fBBBBaN6-yXJdXM8qpilfGwcmgcjfaNY9Qr4M8NQqDk/edit"
   Collaboration: "collabtools" # changing from Collaboration Tools
   Events: "events"
 
