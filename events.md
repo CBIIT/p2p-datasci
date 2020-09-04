@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-Watch for announcements of September workshops, coming soon!
+September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](../2020-09-03-site_classification_using_deep_learning)
 
 ---
 
