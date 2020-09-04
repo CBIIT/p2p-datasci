@@ -13,7 +13,7 @@ You can see preliminary workshop materials—Jupyter notebooks and documentation
  
 Please join us!
 
-**Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday, September 22, 2020
+**Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday, September 22, 2020  
 **Time:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:00 – 2:00 p.m.  
 **Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=ea6891e79a94066a237a2166404805741)     
 **Registration:**&nbsp;&nbsp;Not required
