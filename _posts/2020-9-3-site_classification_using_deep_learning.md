@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Cancer Type/Site Classification Using Deep-Learning"
-subtitle: "Join a virtual workshop on September 22nd to learn how to develop deep-learning models for tumor/cancer site classification
-(e.g., Thyroid carcinoma, Lung adenocarcinoma)!"
+subtitle: ""
 cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
+
+**Join a virtual workshop on September 22nd to learn how to develop deep-learning models for tumor/cancer site classification
+(e.g., Thyroid carcinoma, Lung adenocarcinoma)!**  
 
 **Overview:** This two-part workshop will demonstrate how deep learning can be used to classify different types of cancer. 
 Part I will focus on data preparation, starting with genomic data. Part II will demonstrate how to create a deep learning model, with hands-on instruction on how to use the processed data to build a convolutional neural network (CNN) model that can classify different cancer types.
