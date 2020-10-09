@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-<center>Join a virtual [workshop](https://cbiit.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=cbiit&service=6&rnd=0.17742582214675995&main_url=https%3A%2F%2Fcbiit.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b000000044f4107121496cd4e7e1c196e07ddc862de2f77494fb4ffefabc9085fa17449f1%26siteurl%3Dcbiit%26confViewID%3D174547952585416809%26encryptTicket%3DSDJTSwAAAARTO0UOFbSg6_WzVBfaEeERki_Wgxnp1JXFHk4k98e6cw2%26) on October 20th to learn how to generate and update reports automatically in R!</center>  
+<center>Join a virtual workshop on October 20th to learn how to generate and update reports automatically in R!</center>  
 <center>(e.g., Thyroid carcinoma, Lung adenocarcinoma)!</center>  
 
 **Overview:** [R markdown](https://rmarkdown.rstudio.com/) offers tools to generate and update reports automatically—including figures, tables, mathematical equations and code. 
