@@ -6,11 +6,13 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](../2020-09-03-site_classification_using_deep_learning)
+October 20, 2020: [Introduction to R markdown for Automated Reports](../2020-10-09-introduction_to_r_markdown)
 
 ---
 
 ### Past events
+
+September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](../2020-09-03-site_classification_using_deep_learning)
 
 August 6, 2020: [Exploratory Data Analysis (EDA) for Clinical Datasets](../2020-07-25-Exploratory_Data_Analysis_for_Clinical_Datasets)
 
