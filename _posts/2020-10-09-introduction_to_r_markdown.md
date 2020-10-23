@@ -7,6 +7,7 @@ tags: [event-announcement]
 ---
 
 <center>Join a virtual workshop on October 20th to learn how to generate and update reports automatically in R!</center>  
+<center>The [workshop recording](https://youtu.be/GBxqrvxpHsE) is now available.</center>
  
 
 **Overview:** [R markdown](https://rmarkdown.rstudio.com/) offers tools to generate and update reports automatically—including figures, tables, mathematical equations and code. 
