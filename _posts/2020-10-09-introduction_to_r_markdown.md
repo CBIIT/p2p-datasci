@@ -7,6 +7,7 @@ tags: [event-announcement]
 ---
 
 <center>Join a virtual workshop on October 20th to learn how to generate and update reports automatically in R!</center>  
+
 The [workshop recording](https://youtu.be/GBxqrvxpHsE) is now available.
  
 
