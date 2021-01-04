@@ -12,6 +12,6 @@ Are you interested in improving your machine or deep learning models? You often 
 **Time:** 11:00 a.m – 12:00 p.m.  
 **Location:** WebEx (link coming soon)  
 **Registration:** Not required  
-**Presenter:** Andrew Weisman, High Performance Computing Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
+**Presenter:** Andrew Weisman, PhD, High Performance Computing Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
