@@ -6,11 +6,13 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-October 20, 2020: [Introduction to R markdown for Automated Reports](../2020-10-09-introduction_to_r_markdown)
+January 19, 2021: [Improving Your Machine/Deep Learning Models with Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
 
 ---
 
 ### Past events
+
+October 20, 2020: [Introduction to R markdown for Automated Reports](../2020-10-09-introduction_to_r_markdown)
 
 September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](../2020-09-03-site_classification_using_deep_learning)
 
@@ -39,4 +41,3 @@ May 9, 2019: [Natural Language Processing](../2019-05-09-natural_language_proces
 April 23, 2019: [Cancer Data Science 101, Part I](../2019-04-23-cancer_data_science_101_part_i)  
 
 January 24, 2019: [Foundations of Cancer Data Science Workshop](../2019-01-24-foundations_of_cancer_data_science_workshop)  
-
