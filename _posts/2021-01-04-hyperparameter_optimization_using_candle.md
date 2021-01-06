@@ -10,7 +10,7 @@ Are you interested in improving your machine or deep learning models? You often 
 
 **Date:** Tuesday, January 19, 2021  
 **Time:** 11:00 a.m – 12:00 p.m.  
-**Location:** ([Webex](https://bit.ly/3rSTk98))     
+**Location:** [Webex](https://bit.ly/3rSTk98)     
 **Registration:** Not required  
 **Presenter:** Andrew Weisman, PhD, High Performance Computing Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
 
