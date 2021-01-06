@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-January 19, 2021: [Improving Your Machine/Deep Learning Models with Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
+January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
 
 ---
 
