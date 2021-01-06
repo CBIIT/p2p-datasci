@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Improving Your Machine/Deep Learning Models with Hyperparameter Optimization Using CANDLE on Biowulf"
-subtitle: ""
+title: "Hyperparameter Optimization Using CANDLE on Biowulf"
+subtitle: "Learn How to Improve Your Machine/Deep Learning Models!"
 cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
