@@ -6,11 +6,13 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
+April 20, 2021: [Introduction to Python](../2021-03-25-introduction_to_python)
 
 ---
 
 ### Past events
+
+January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
 
 October 20, 2020: [Introduction to R markdown for Automated Reports](../2020-10-09-introduction_to_r_markdown)
 
