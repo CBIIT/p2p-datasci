@@ -11,7 +11,8 @@ Python is a good programming language for scientists to solve a wide variety of 
 If you are a novice and want to learn how to program in Python to help you in your work, please join our ***NEW six-week series of two-hour workshops!*** Instructors will use live code and you will follow along on your own computer. You will gain a strong foundation in the fundamentals of Python along with best practices for scientific computing: breaking down analyses into modular units, task automation, and encapsulation.
     
 **Registration: Required**. This is a six-part course, held weekly for 6 weeks from **11 am – 1 pm**, with a 20-minute lunch break. When you register, you are registering for all 6 weeks. Please make sure you have time in your schedule to commit to all six sessions! 
-[REGISTER HERE](https://)   
+[REGISTER HERE](https://)
+
 **Date and Topic:** 
 * **April 20**: Introduction to Python and Colab, Running and Quitting, Variables and Assignment
 * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: Getting Started with Google Colab
