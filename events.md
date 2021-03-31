@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-April 20, 2021: [Introduction to Python](../2021-03-25-introduction_to_python)
+April 20, 2021: [Introduction to Python: A Series of Hands-on Software Carpentry Workshops](../2021-03-25-introduction_to_python)
 
 ---
 
