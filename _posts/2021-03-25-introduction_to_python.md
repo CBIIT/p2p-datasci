@@ -14,13 +14,13 @@ If you are a novice and want to learn how to program in Python to help you in yo
 [REGISTER HERE](https://)
 
 **Date and Topic:** 
-* **April 20**: Introduction to Python and Colab, Running and Quitting, Variables and Assignment
-*   **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: Getting Started with Google Colab
-* **April 27**: Data Types and Type Conversion, Built-in Functions and Help, Libraries
-* **May 4**: Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1
-* **May 11**: Plotting 2, Lists, For Loops
-* **May 18**: Conditionals, Looping Over Data Sets, Writing Functions
-* **May 25**: Variable Scope, Programming Style, Wrap-Up
+* **April 20**: ***Introduction to Python and Colab, Running and Quitting, Variables and Assignment***
+    * **NOTE**: ***A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: Getting Started with Google Colab***
+* **April 27**: ***Data Types and Type Conversion, Built-in Functions and Help, Libraries***
+* **May 4**: ***Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1***
+* **May 11**: ***Plotting 2, Lists, For Loops***
+* **May 18**: ***Conditionals, Looping Over Data Sets, Writing Functions***
+* **May 25**: ***Variable Scope, Programming Style, Wrap-Up***
 
 **Before the workshop**: We will use [Google Colab](https://colab.research.google.com/) for this workshop. Colab allows us to write and execute Python code through the browser. **A Google Account is required for using Colab**. If you do not have one, please [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en) before the workshop. For technical assistance, contact NCI technical support at [https://service.cancer.gov/ncisp](https://service.cancer.gov/ncisp).
 
