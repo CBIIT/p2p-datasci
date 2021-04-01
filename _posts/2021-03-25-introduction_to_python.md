@@ -16,7 +16,7 @@ If you are a novice and want to learn how to program in Python to help you in yo
 **Dates and Topics:**
 * **Week 1, April 20, 11 a.m. – 1 p.m. ET**: *Introduction to Python and Colab, Running and Quitting, Variables and Assignment* 
     * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: *Getting Started with Google Colab*
-* **Week 2 , April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*
+* **Week 2, April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*
 * **Week 3, May 4, 11 a.m. – 1 p.m. ET**: *Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1*
 * **Week 4, May 11, 11 a.m. – 1 p.m. ET**: *Plotting 2, Lists, For Loops*
 * **Week 5, May 18, 11 a.m. – 1 p.m. ET**: *Conditionals, Looping Over Data Sets, Writing Functions*
