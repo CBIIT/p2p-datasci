@@ -13,19 +13,24 @@ If you are a novice and want to learn how to program in Python to help you in yo
 ***NOTE***: **This is a six-part course, held weekly for 6 weeks from 11 am – 1 pm, with a 20-minute lunch break**. When you register, you are registering for all 6 weeks. Please make sure you have time in your schedule to commit to all six sessions!
 * **Registration is required**.  ***Register at this [link](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBmDgIuGoyFtKtAENP6lcJwhUOEpVQkJGVExFSUhCU1BNUTlENDRRWFEyMC4u).***
 
-**Dates and Topics:**<br />  
+**Dates and Topics:** 
 Week 1<br />  
 * **April 20, 11 a.m. – 1 p.m. ET**: *Introduction to Python and Colab, Running and Quitting, Variables and Assignment* 
-    * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: *Getting Started with Google Colab*<br /> 
-Week 2<br /> 
-* **April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*<br />  
-Week 3<br />  
-* **May 4, 11 a.m. – 1 p.m. ET**: *Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1*<br />  
-Week 4<br /> 
-* **May 11, 11 a.m. – 1 p.m. ET**: *Plotting 2, Lists, For Loops*<br />  
-Week 5<br />  
-* **May 18, 11 a.m. – 1 p.m. ET**: *Conditionals, Looping Over Data Sets, Writing Functions*<br />  
-Week 6<br />  
+    * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: *Getting Started with Google Colab*
+ 
+Week 2 
+* **April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*
+  
+Week 3
+* **May 4, 11 a.m. – 1 p.m. ET**: *Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1*
+
+Week 4
+* **May 11, 11 a.m. – 1 p.m. ET**: *Plotting 2, Lists, For Loops*
+
+Week 5
+* **May 18, 11 a.m. – 1 p.m. ET**: *Conditionals, Looping Over Data Sets, Writing Functions*
+
+Week 6
 * **May 25, 11 a.m. – 1 p.m. ET**: *Variable Scope, Programming Style, Wrap-Up*
 
 **Before the workshop**: We will use [Google Colab](https://colab.research.google.com/) for this workshop. Colab allows us to write and execute Python code through the browser. **A Google Account is required for using Colab**. If you do not have one, please [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en) before the workshop. For technical assistance, contact NCI technical support at [https://service.cancer.gov/ncisp](https://service.cancer.gov/ncisp).
