@@ -13,9 +13,8 @@ If you are a novice and want to learn how to program in Python to help you in yo
 ***NOTE***: **This is a six-part course, held weekly for 6 weeks from 11 am – 1 pm, with a 20-minute lunch break**. When you register, you are registering for all 6 weeks. Please make sure you have time in your schedule to commit to all six sessions!
 * **Registration is required**.  ***Register at this [link](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBmDgIuGoyFtKtAENP6lcJwhUOEpVQkJGVExFSUhCU1BNUTlENDRRWFEyMC4u).***
 
-<a href="myFile.js" download>Click to Download</a>
 **Dates and Topics:**
-* **Week 1, April 20, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/uf72-xQOBJg)**: *[Introduction to Python and Colab](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/python_carpentry_workshop-2021-04-20.pdf), Running and Quitting, [Variables and Assignment](https://github.com/CBIIT/python-carpentry-workshop)*
+* **Week 1, April 20, 11 a.m. – 1 p.m. ET**: *Introduction to Python and Colab, Running and Quitting, Variables and Assignment*
     * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: *Getting Started with Google Colab*
 * **Week 2, April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*
 * **Week 3, May 4, 11 a.m. – 1 p.m. ET**: *Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1*
