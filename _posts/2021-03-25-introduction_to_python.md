@@ -15,7 +15,7 @@ If you are a novice and want to learn how to program in Python to help you in yo
 
 <a href="myFile.js" download>Click to Download</a>
 **Dates and Topics:**
-* **Week 1, April 20, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/uf72-xQOBJg)**: *[Introduction to Python and Colab](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/python_carpentry_workshop-2021-04-20.pdf), Running and Quitting, <a href="https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/python_variables_and_assignment-2021-04-20.ipynb" download="python_variables_and_assignment-2021-04-20.ipynb">Variables and Assignment</a>*
+* **Week 1, April 20, 11 a.m. – 1 p.m. ET [[Recording]](https://youtu.be/uf72-xQOBJg)**: *[Introduction to Python and Colab](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/python_carpentry_workshop-2021-04-20.pdf), Running and Quitting, [Variables and Assignment](https://github.com/CBIIT/python-carpentry-workshop)*
     * **NOTE**: A one-hour help session will be offered on **April 23, 11 AM – 12 PM**: *Getting Started with Google Colab*
 * **Week 2, April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help, Libraries*
 * **Week 3, May 4, 11 a.m. – 1 p.m. ET**: *Reading Tabular Data into DataFrames, Pandas DataFrames, Plotting 1*
