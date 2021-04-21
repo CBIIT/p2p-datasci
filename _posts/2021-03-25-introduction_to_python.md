@@ -25,7 +25,6 @@ If you are a novice and want to learn how to program in Python to help you in yo
 **Workshop Recordings and Materials:**
 *  **Recordings and Files**: *[https://github.com/CBIIT/python-carpentry-workshop](https://github.com/CBIIT/python-carpentry-workshop)*
 *  **Software Carpentry Lesson**: *[Plotting and programming with Python](http://swcarpentry.github.io/python-novice-gapminder/)*
-*  
 
 **Before the workshop**: We will use [Google Colab](https://colab.research.google.com/) for this workshop. Colab allows us to write and execute Python code through the browser. **A Google Account is required for using Colab**. If you do not have one, please [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en) before the workshop. For technical assistance, contact NCI technical support at [https://service.cancer.gov/ncisp](https://service.cancer.gov/ncisp).
 
