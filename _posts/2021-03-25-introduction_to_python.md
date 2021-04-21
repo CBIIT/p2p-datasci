@@ -22,6 +22,10 @@ If you are a novice and want to learn how to program in Python to help you in yo
 * **Week 5, May 18, 11 a.m. – 1 p.m. ET**: *Conditionals, Looping Over Data Sets, Writing Functions*
 * **Week 6, May 25, 11 a.m. – 1 p.m. ET**: *Variable Scope, Programming Style, Wrap-Up*
 
+**Workshop Materials:**
+*  **Software Carpentry Lesson**: *[Plotting and programming with Python](http://swcarpentry.github.io/python-novice-gapminder/)*
+*  **Files Created by the Instructors**: *[https://github.com/CBIIT/python-carpentry-workshop](https://github.com/CBIIT/python-carpentry-workshop)*
+
 **Before the workshop**: We will use [Google Colab](https://colab.research.google.com/) for this workshop. Colab allows us to write and execute Python code through the browser. **A Google Account is required for using Colab**. If you do not have one, please [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en) before the workshop. For technical assistance, contact NCI technical support at [https://service.cancer.gov/ncisp](https://service.cancer.gov/ncisp).
 
 **Presenters:** [Pinyi Lu, PhD](https://www.linkedin.com/in/pinyi-lu-b4150412/), Bioinformatics Analyst; [Robin Kramer, MS](https://www.linkedin.com/in/robin-kramer-70847711/), Bioinformatics Analyst; and [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
