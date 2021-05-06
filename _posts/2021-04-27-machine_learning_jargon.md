@@ -10,7 +10,7 @@ Are you clear on how deep learning fits into machine learning? Confused about th
 
 **Date:** Wednesday, May 26, 2021  
 **Time:** 1:00 p.m – 2:00 p.m.  
-**Location:** TBD  
+**Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e5f4540633c0831c331ebcafff3c789fd)  
 **Registration:** Not required  
 **Presenter:** Andrew Weisman, PhD, High Performance Computing Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
 
