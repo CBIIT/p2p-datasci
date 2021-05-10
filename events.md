@@ -8,6 +8,8 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 April 20, 2021: [Introduction to Python: A Series of Hands-on Software Carpentry Workshops](../2021-03-25-introduction_to_python)
 
+May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](../2021-04-27-machine_learning_jargon)
+
 ---
 
 ### Past events
