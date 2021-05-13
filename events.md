@@ -32,18 +32,18 @@ March 3, 2020: [Evaluation of Deep Learning-Based Segmentation of Nuclei from Fl
 
 #### 2019
 
-December 19, 2019: [Organizing Data Science Projects](../2019-12-12-organizing_data_science_projects)  
+December 19, 2019: [Organizing Data Science Projects](_posts/2019-12-12-organizing_data_science_projects.md)  
 
-November 6, 2019: [How to Create a Machine Learning Model using Keras](../2019-11-06-how_to_create_a_machine_learning_model_using_keras)  
+November 6, 2019: [How to Create a Machine Learning Model using Keras](_posts/2019-11-06-how_to_create_a_machine_learning_model_using_keras.md)  
 
-September 16, 2019: [Interacting with NCI Bioinformatics & Data Science Resources and Framing Your Technical Question to Receive the Support You Need](../2019-09-16-interacting_with_nci_bioinformatics_and_data_science_resources_and_framing_your_technical_question_to_receive_the_support_you_need)  
+September 16, 2019: [Interacting with NCI Bioinformatics & Data Science Resources and Framing Your Technical Question to Receive the Support You Need](_posts/2019-09-16-interacting_with_nci_bioinformatics_and_data_science_resources_and_framing_your_technical_question_to_receive_the_support_you_need.md)  
 
-June 22, 2019: [Exploratory Data Analysis (EDA) 101](../2019-06-22-exploratory_data_analysis_101)  
+June 22, 2019: [Exploratory Data Analysis (EDA) 101](_posts/2019-06-22-exploratory_data_analysis_101.md)  
 
-June 7, 2019: [Cancer Data Science 101, Part II](../2019-06-07-cancer_data_science_101_part_ii)  
+June 7, 2019: [Cancer Data Science 101, Part II](_posts/2019-06-07-cancer_data_science_101_part_ii.md)  
 
-May 9, 2019: [Natural Language Processing](../2019-05-09-natural_language_processing)
+May 9, 2019: [Natural Language Processing](_posts/2019-05-09-natural_language_processing.md)
 
-April 23, 2019: [Cancer Data Science 101, Part I](../2019-04-23-cancer_data_science_101_part_i)  
+April 23, 2019: [Cancer Data Science 101, Part I](_posts/2019-04-23-cancer_data_science_101_part_i.md)  
 
-January 24, 2019: [Foundations of Cancer Data Science Workshop](../2019-01-24-foundations_of_cancer_data_science_workshop)  
+January 24, 2019: [Foundations of Cancer Data Science Workshop](_posts/2019-01-24-foundations_of_cancer_data_science_workshop.md)  
