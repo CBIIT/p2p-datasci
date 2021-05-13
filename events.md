@@ -6,11 +6,11 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-April 20, 2021: [Introduction to Python: A Series of Hands-on Software Carpentry Workshops](_posts/2021-03-25-introduction_to_python.md)
-
-May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](_posts/2021-04-27-machine_learning_jargon.md)
+May 18, 2021: [Introduction to Python Week5: A Series of Hands-on Software Carpentry Workshops](_posts/2021-03-25-introduction_to_python.md)
 
 May 25, 2021: [AI in Drug Development, presented by the ATOM consortium](_posts/2021-05-13-ai_in_biological_data_series.md)
+
+May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](_posts/2021-04-27-machine_learning_jargon.md)
 
 ---
 
