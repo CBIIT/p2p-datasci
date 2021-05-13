@@ -6,29 +6,29 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-April 20, 2021: [Introduction to Python: A Series of Hands-on Software Carpentry Workshops](../2021-03-25-introduction_to_python)
+April 20, 2021: [Introduction to Python: A Series of Hands-on Software Carpentry Workshops](_posts/2021-03-25-introduction_to_python.md)
 
-May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](../2021-04-27-machine_learning_jargon)
+May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](_posts/2021-04-27-machine_learning_jargon.md)
 
-May 26, 2021: [AI in Drug Development, presented by the ATOM consortium](../2021-05-13-ai_in_biological_data_series)
+May 26, 2021: [AI in Drug Development, presented by the ATOM consortium](_posts/2021-05-13-ai_in_biological_data_series.md)
 
 ---
 
 ### Past events
 
-January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](../2021-01-04-hyperparameter_optimization_using_candle)
+January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](_posts/2021-01-04-hyperparameter_optimization_using_candle.md)
 
-October 20, 2020: [Introduction to R markdown for Automated Reports](../2020-10-09-introduction_to_r_markdown)
+October 20, 2020: [Introduction to R markdown for Automated Reports](_posts/2020-10-09-introduction_to_r_markdown.md)
 
-September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](../2020-09-03-site_classification_using_deep_learning)
+September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](_posts/2020-09-03-site_classification_using_deep_learning.md)
 
-August 6, 2020: [Exploratory Data Analysis (EDA) for Clinical Datasets](../2020-07-25-Exploratory_Data_Analysis_for_Clinical_Datasets)
+August 6, 2020: [Exploratory Data Analysis (EDA) for Clinical Datasets](_posts/2020-07-25-Exploratory_Data_Analysis_for_Clinical_Datasets.md)
 
-July 16, 2020: [Machine Learning for Drug Function Classification](../2020-06-29-machine_learning_for_drug_function_classification)  
+July 16, 2020: [Machine Learning for Drug Function Classification](_posts/2020-06-29-machine_learning_for_drug_function_classification.md)  
 
-June 24, 2020: [Real-Time FAIR Mortality Tracking](../2020-06-15-real-time_fair_mortality_tracking)  
+June 24, 2020: [Real-Time FAIR Mortality Tracking](_posts/2020-06-15-real-time_fair_mortality_tracking.md)  
 
-March 3, 2020: [Evaluation of Deep Learning-Based Segmentation of Nuclei from Fluorescence Microscopy Images](../2020-03-03-evaluation_of_deep_learning-based_segmentation_of_nuclei_from_fluorescence_microscopy_images)  
+March 3, 2020: [Evaluation of Deep Learning-Based Segmentation of Nuclei from Fluorescence Microscopy Images](_posts/2020-03-03-evaluation_of_deep_learning-based_segmentation_of_nuclei_from_fluorescence_microscopy_images.md)  
 
 #### 2019
 
