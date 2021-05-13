@@ -18,6 +18,8 @@ May 25, 2021: [AI in Drug Development, presented by the ATOM consortium](_posts/
 
 January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](_posts/2021-01-04-hyperparameter_optimization_using_candle.md)
 
+#### 2020
+
 October 20, 2020: [Introduction to R markdown for Automated Reports](_posts/2020-10-09-introduction_to_r_markdown.md)
 
 September 22, 2020: [Cancer Type/Site Classification Using Deep-Learning](_posts/2020-09-03-site_classification_using_deep_learning.md)
