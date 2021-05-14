@@ -6,7 +6,9 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-The Bioinformatics Training and Education Program (BTEP) and the data science learning exchange are organizing a new seminar series regarding artificial intelligence in biological data. The series is presented by leading experts in research and industry. To register, please visite the series [page](https://btep.ccr.cancer.gov/ai/) on BTEP. 
+Are you interested in learning how to use artificial intelligence for analysis of biological data? Experts from NCI, Frederick National Laboratory for Cancer Research, Lawrence Livermore National Laboratory, and NVIDIA will provide real-world examples on using AI for 1) drug development, 2) image analysis, 3) molecular data, and 4) multimodal data. The one-hour seminars will be offered monthly from May 25, 2021 through September 23, 2021 and are hosted jointly by the NCI Bioinformatics Training and Education Program (BTEP) and the NCI Data Science Learning Exchange. See the descriptions, below for more information or contact  NCIDataScienceLearningExchange@mail.nih.gov.
+Please register at this link   https://btep.ccr.cancer.gov/ai/
+
 
 ## AI in Drug Development, presented by the ATOM consortium
 **Date/Time:** May 25th, 1 – 2 pm
