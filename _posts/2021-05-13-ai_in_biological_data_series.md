@@ -7,13 +7,9 @@ tags: [event-announcement]
 ---
 
 Are you interested in learning how to use artificial intelligence for analysis of biological data? Experts from NCI, Frederick National Laboratory for Cancer Research, Lawrence Livermore National Laboratory, and NVIDIA will provide real-world examples on using AI for 1) drug development, 2) image analysis, 3) molecular data, and 4) multimodal data. The one-hour seminars will be offered monthly from May 25, 2021 through September 23, 2021 and are hosted jointly by the NCI Bioinformatics Training and Education Program (BTEP) and the NCI Data Science Learning Exchange. See the descriptions, below for more information or contact  NCIDataScienceLearningExchange@mail.nih.gov.
-Please register at this link   https://btep.ccr.cancer.gov/ai/
-
 
 ## AI in Drug Development, presented by the ATOM consortium
 **Date/Time:** May 25th, 1 – 2 pm
-
-**Registration:** https://btep.ccr.cancer.gov/classes/ai_one/
 
 **Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m61e3ea39fde3a9a94a96efeaa519a656
 
@@ -26,8 +22,6 @@ Please register at this link   https://btep.ccr.cancer.gov/ai/
 ## AI in Image Analysis, presented by CCR: AIR and High Throughput Imaging Facility
 **Date/Time:** June 15, 11 am – 12 pm
 
-**Registration:** https://btep.ccr.cancer.gov/classes/ai_two/
-
 **Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m8f1460fe5079163dd2a2a4e2641c227f
 
 **Presenters:** Gianluca Pegoraro PhD (Staff scientist) , G Tom Brown MD/PhD (Staff clinician), Center for Cancer Research, NCI
@@ -39,8 +33,6 @@ Please register at this link   https://btep.ccr.cancer.gov/ai/
 ## AI in Molecular Data, presented by NVIDIA
 **Date/Time:** July 15, 1 – 2 pm
 
-**Registration:** https://btep.ccr.cancer.gov/classes/ai_three/
-
 **Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95
 
 **Presenter:** Avantika Lal PhD, Senior Scientist | Deep Learning and Genomics | NVIDIA
@@ -49,11 +41,9 @@ Please register at this link   https://btep.ccr.cancer.gov/ai/
 
 **Description:** This talk will describe machine learning and deep learning methods to analyze bulk and single-cell RNA sequencing data, as well as deep learning models that integrate epigenetic data to decipher the regulatory networks underlying gene expression.
 
-## AI for Multimodal Data, presented by members of the Strategic Data Science Initiative, Frederick National Laboratory for Cancer Research. 
+## AI for Multimodal Data, presented by members of the Strategic and Data Science Initiatives, Frederick National Laboratory for Cancer Research. 
 
 **Date/Time:** Sep 23, 1 – 2 pm
-
-**Registration:** https://btep.ccr.cancer.gov/classes/ai_four/
 
 **Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82
 
