@@ -18,9 +18,10 @@ If you are a novice and want to learn how to program in Python to help you in yo
     * **NOTE**: A one-hour help session will be offered on **April 23, 11 a.m. – 12 p.m. ET**: *Getting Started with Google Colab*
 * **Week 2, April 27, 11 a.m. – 1 p.m. ET**: *Data Types and Type Conversion, Built-in Functions and Help*
 * **Week 3, May 4, 11 a.m. – 1 p.m. ET**: *Libraries, Reading Tabular Data into DataFrames, Pandas DataFrames 1*
-* **Week 4, May 11, 11 a.m. – 1 p.m. ET**: *Pandas DataFrames 2, Plotting, Lists*
-* **Week 5, May 18, 11 a.m. – 1 p.m. ET**: *For Loops, Conditionals, Looping Over Data Sets*
+* **Week 4, May 11, 11 a.m. – 1 p.m. ET**: *Pandas DataFrames 2, Plotting 1, Lists 1*
+* **Week 5, May 18, 11 a.m. – 1 p.m. ET**: *Lists 2, For Loops, Looping Over Data Sets, Conditionals*
 * **Week 6, May 25, 11 a.m. – 1 p.m. ET**: *Writing Functions, Variable Scope, Programming Style, Wrap-Up*
+    * **NOTE**: A one-hour bonus session will be offered on **May 28, 1 p.m. – 2 p.m. ET**: *Plotting 2*
 
 **Workshop Recordings and Materials:**
 *  **Recordings and Files**: *[https://github.com/CBIIT/python-carpentry-workshop](https://github.com/CBIIT/python-carpentry-workshop)*
