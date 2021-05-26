@@ -6,17 +6,18 @@ cover-img: "/assets/img/zebrafish.jpg"
 
 ### Upcoming events
 
-May 25, 2021: [Introduction to Python Week6: A Series of Hands-on Software Carpentry Workshops](_posts/2021-03-25-introduction_to_python.md)
-
-May 25, 2021: [AI in Drug Development, presented by the ATOM consortium](_posts/2021-05-13-ai_in_biological_data_series.md)
-
 May 26, 2021: [Machine Learning Jargon: An Introduction to Key Concepts and Terms](_posts/2021-04-27-machine_learning_jargon.md)
+
+May 28, 2021: [Introduction to Python Week6: A Series of Hands-on Software Carpentry Workshops](_posts/2021-03-25-introduction_to_python.md)
 
 ---
 
 ### Past events
 
 #### 2021
+
+
+May 25, 2021: [AI in Drug Development, presented by the ATOM consortium](_posts/2021-05-13-ai_in_biological_data_series.md)
 
 January 19, 2021: [Hyperparameter Optimization Using CANDLE on Biowulf](_posts/2021-01-04-hyperparameter_optimization_using_candle.md)
 
