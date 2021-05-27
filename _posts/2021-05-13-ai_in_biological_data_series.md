@@ -11,7 +11,7 @@ Are you interested in learning how to use artificial intelligence for analysis o
 ## AI in Drug Development, presented by the ATOM consortium
 **Date/Time:** May 25th, 2021, 1 – 2 pm ET
 
-**Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m61e3ea39fde3a9a94a96efeaa519a656
+**Recording:** https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-1-2021-05-25-13-02-08-1.mp4
 
 **Presenter:** Jonathan Allen PhD, Computational Scientist, Lawrence Livermore National Laboratory
 
