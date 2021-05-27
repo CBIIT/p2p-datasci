@@ -13,6 +13,8 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Recording:** https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-1-2021-05-25-13-02-08-1.mp4
 
+**Slides:** [here](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/ATOM_ddm_052021_send.pdf)
+
 **Presenter:** Jonathan Allen PhD, Computational Scientist, Lawrence Livermore National Laboratory
 
 **Title:** Building data-driven small molecule property prediction models with AMPL
