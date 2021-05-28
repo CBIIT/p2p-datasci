@@ -10,7 +10,8 @@ tags: [event-announcement]
 
 **Date:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, August 6, 2020  
 **Time:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1:00 – 2:30 p.m.  
-**Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2ec8c267b07bd066d70c8503894e7694)     
+**Location:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[WebEx](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2ec8c267b07bd066d70c8503894e7694)   
+**Presentaton:**[here](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/Exploratory-data-analysis-8-2020.pdf)
 **Registration:**&nbsp;&nbsp;Not required
 
 **Instructor:** [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), bioinformatics manager at the Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov/)) and adjunct professor at the University of Maryland.
