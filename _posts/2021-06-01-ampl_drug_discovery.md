@@ -10,13 +10,9 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 
 
 **Date:** Tuesday, June 8, 2021
-
 **Time:** 1:00 p.m – 2:00 p.m. ET
-
 **Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
-
 **Registration:** Not required
-
 **Presenter:** Sarangan Ravichandran, PhD, PMP, Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer Research 
  ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
 
