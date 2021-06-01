@@ -20,7 +20,7 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 **Presenter:** [Sarangan Ravichandran, PhD, PMP](https://sites.google.com/site/sakaravi/) Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer
                Research ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
                
-[Supporting materials:](https://github.com/ravichas/AMPL-Tutorial)[(https://arxiv.org/abs/1911.05211)]
+[Supporting materials:](https://github.com/ravichas/AMPL-Tutorial) and [(https://arxiv.org/abs/1911.05211)]
 
 The workshop on June 8 will include two parts, a short presentation followed by a hands-on tutorial.
 
