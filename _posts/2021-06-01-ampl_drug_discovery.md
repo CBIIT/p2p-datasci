@@ -17,8 +17,8 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 
 **Registration:** Not required
 
-**Presenter:** Sarangan Ravichandran, PhD, PMP, Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer Research 
- ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
+**Presenter:** ([Sarangan Ravichandran, PhD, PMP,] (https://sites.google.com/site/sakaravi/) Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer
+               Research ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
 
 The workshop on June 8 will include two parts, a short presentation followed by a hands-on tutorial. 
 **Part 1:** A 20-minute presentation that will cover the following topics:
