@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-Do you want to know how to use Machine Learning (ML) for accelerating drug discovery? Join us on June 8, 1:00 pm – 2:00 pm ET, for the first in a series of workshops on how to use the Atom Modeling PipeLine [AMPL](https://github.com/ATOMconsortium/AMPL), an open-source conda-based software that automates key drug discovery steps.  AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out ML steps with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference.
+Do you want to know how to use Machine Learning (ML) for accelerating drug discovery? Join us on June 8, 1:00 pm – 2:00 pm ET, for the first in a series of workshops on how to use the Atom Modeling PipeLine [AMPL](https://github.com/ATOMconsortium/(AMPL), an open-source conda-based software that automates key drug discovery steps.  AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out ML steps with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference.
 
 
 **Date:** Tuesday, June 8, 2021
