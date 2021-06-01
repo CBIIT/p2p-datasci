@@ -9,10 +9,14 @@ tags: [event-announcement]
 Do you want to know how to use Machine Learning (ML) for accelerating drug discovery? Join us on June 8, 1:00 pm – 2:00 pm ET, for the first in a series of workshops on how to use the Atom Modeling PipeLine [AMPL](https://github.com/ATOMconsortium/AMPL), an open-source conda-based software that automates key drug discovery steps.  AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the ML steps listed in the figure above with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference.
 
 
-**Date:** Tuesday, June 8, 2021  
+**Date:** Tuesday, June 8, 2021
+
 **Time:** 1:00 p.m – 2:00 p.m. EST
+
 **Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
-**Registration:** Not required  
+
+**Registration:** Not required
+
 **Presenter:** Sarangan Ravichandran, PhD, PMP, Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer Research 
  ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
 
@@ -34,7 +38,7 @@ We will share a Python Jupyter notebook that will cover the following ML steps: 
 - Exploratory Data Analysis and visualization code templates that can be adopted for other drug discovery projects with very little modification   
 
 To learn more about the software, visit the AMPL GitHub repository at this link:
-https://github.com/ATOMconsortium/AMPL 
+(https://github.com/ATOMconsortium/AMPL) 
 
 
 
