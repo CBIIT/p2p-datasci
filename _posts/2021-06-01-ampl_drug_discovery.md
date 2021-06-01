@@ -10,9 +10,13 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 
 
 **Date:** Tuesday, June 8, 2021
+
 **Time:** 1:00 p.m – 2:00 p.m. ET
+
 **Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
+
 **Registration:** Not required
+
 **Presenter:** Sarangan Ravichandran, PhD, PMP, Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer Research 
  ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
 
@@ -29,13 +33,11 @@ The workshop on June 8 will include two parts, a short presentation followed by 
 **Part 2:** A 35-minute AMPL code demonstration followed by a 5-minute Q&A. 
 
 We will share a Python Jupyter notebook that will cover the following ML steps: data ingestion/curation, featurization, and visualization to create ML-ready datasets. Here are the key sections of the notebook:  
-- Highlights of AMPL functions that are designed to address the common issues encountered during the data ingestion and curation of drug discovery or small-molecule-focused projects
+- Highlights of AMPL functions that are designed to address the common issues encountered during the data ingestion and curation of drug discovery or small-molecule-focused
+  projects
 - Introduction of the extensible AMPL featurizer module and a demonstration on how simple keyword choices can lead to the computation of a range of different feature sets
 - Exploratory Data Analysis and visualization code templates that can be adopted for other drug discovery projects with very little modification   
 
-To learn more about the software, visit the AMPL GitHub repository at this link:
-(https://github.com/ATOMconsortium/AMPL) 
-
-
+To learn more about the software, visit the AMPL GitHub repository at this link:(https://github.com/ATOMconsortium/AMPL) 
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
