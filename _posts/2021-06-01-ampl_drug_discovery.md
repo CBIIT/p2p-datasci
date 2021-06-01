@@ -35,6 +35,6 @@ We will share a Python Jupyter notebook that will cover the following ML steps: 
 - Introduction of the extensible AMPL featurizer module and a demonstration on how simple keyword choices can lead to the computation of a range of different feature sets
 - Exploratory Data Analysis and visualization code templates that can be adopted for other drug discovery projects with very little modification   
 
-To learn more about the software, visit the AMPL GitHub repository at this link:(https://github.com/ATOMconsortium/AMPL) 
+To learn more about the software, visit the AMPL GitHub repository at this link: [(https://github.com/ATOMconsortium/AMPL)]
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
