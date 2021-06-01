@@ -21,9 +21,7 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
  ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
 
 The workshop on June 8 will include two parts, a short presentation followed by a hands-on tutorial. 
-
 **Part 1:** A 20-minute presentation that will cover the following topics:
-
 - Introduction to small-molecule binding and the database sources
 - Issues associated with data ingestion and curation   
 - Exploratory data analysis of the ingested and curated datasets 
@@ -31,7 +29,6 @@ The workshop on June 8 will include two parts, a short presentation followed by 
 - Creation of ML-ready datasets  
 
 **Part 2:** A 35-minute AMPL code demonstration followed by a 5-minute Q&A. 
-
 We will share a Python Jupyter notebook that will cover the following ML steps: data ingestion/curation, featurization, and visualization to create ML-ready datasets. Here are the key sections of the notebook:  
 - Highlights of AMPL functions that are designed to address the common issues encountered during the data ingestion and curation of drug discovery or small-molecule-focused
   projects
