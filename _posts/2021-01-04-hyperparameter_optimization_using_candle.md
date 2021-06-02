@@ -6,14 +6,12 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-**The presentation is available [here](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/hpo_on_biowulf_using_candle-2021-01-19.pdf).**
-
 Are you interested in improving your machine or deep learning models? You often cannot be sure you've developed the best model without performing hyperparameter optimization. In this talk, we will explain what this crucial procedure is and how to perform it with only minimal effort using the [CANDLE](https://datascience.cancer.gov/collaborations/joint-design-advanced-computing/candle) open-source software platform on NIH's Biowulf supercomputer. We will also provide an overview of what machine learning is, how it relates to deep learning, and how to get started!
 
 **Date:** Tuesday, January 19, 2021  
 **Time:** 11:00 a.m – 12:00 p.m.  
 **Recording:** [here](https://www.youtube.com/watch?v=BkOeS2LLjyQ)     
-**Registration:** Not required  
+**Presentation:** [here](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/hpo_on_biowulf_using_candle-2021-01-19.pdf)     
 **Presenter:** Andrew Weisman, PhD, High Performance Computing Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
