@@ -55,4 +55,12 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Description:** In this talk, we will highlight two examples for building predictive models from multi modal data. The first example predicts dose response in cell lines based on drug and molecular features. The second example will show how to combine pathology from whole slide images and molecular features for cancer diagnosis and prognosis.
 
+**Acknowledgments**:
+In addition to our speakers, we thank members of the Center of Biomedical Informatics and Information Technology (CBIIT) and BTEP who advised in organizing this series:
+* Dr. Daoud Meerzaman
+* Dr. Amy Stonelake
+* Dr. David Goldstein
+* Dr. Mariam Malik
+* Dr. Peter Fitzgerald
+
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
