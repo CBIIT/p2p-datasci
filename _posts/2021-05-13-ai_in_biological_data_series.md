@@ -26,8 +26,6 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Recording:**[https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2)
 
-**Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m8f1460fe5079163dd2a2a4e2641c227f
-
 **Slides:** [Gianluca's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/210615_ML_Short_Lowres.pdf), [G Tom's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/GTB-NCI-Digitpath-Talk-6-15-2021-final.pdf)
 
 **Presenters:** Gianluca Pegoraro PhD (Staff scientist) , G Tom Brown MD/PhD (Staff clinician), Center for Cancer Research, NCI
@@ -39,7 +37,7 @@ Are you interested in learning how to use artificial intelligence for analysis o
 ## AI in Molecular Data, presented by NVIDIA
 **Date/Time:** July 15, 2021, 1 – 2 pm ET
 
-**Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95
+**Meeting Link:** [https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95](https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95)
 
 **Presenter:** Avantika Lal PhD, Senior Scientist | Deep Learning and Genomics | NVIDIA
 
@@ -51,7 +49,7 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Date/Time:** Sep 23, 2021, 1 – 2 pm ET
 
-**Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82
+**Meeting Link:** [https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82](https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82)
 
 **Presenters:** George Zaki, Bioinformatics Manager, Strategic and Data Science Initiatives (SDSI), Frederick National Laboratory for Cancer Research (FNL), Pinyi Lu, Bioinformatics analyst, SDSI, FNL
 
