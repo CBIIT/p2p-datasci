@@ -24,7 +24,11 @@ Are you interested in learning how to use artificial intelligence for analysis o
 ## AI in Image Analysis, presented by CCR: AIR and High Throughput Imaging Facility
 **Date/Time:** June 15, 2021, 11 am – 12 pm ET
 
+**Recording:**[https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2)
+
 **Meeting Link:** https://cbiit.webex.com/cbiit/j.php?MTID=m8f1460fe5079163dd2a2a4e2641c227f
+
+**Slides:** [Gianluca's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/210615_ML_Short_Lowres.pdf), [G Tom's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/GTB-NCI-Digitpath-Talk-6-15-2021-final.pdf)
 
 **Presenters:** Gianluca Pegoraro PhD (Staff scientist) , G Tom Brown MD/PhD (Staff clinician), Center for Cancer Research, NCI
 
@@ -57,8 +61,8 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Acknowledgments**:
 In addition to our speakers, we thank members of the Center of Biomedical Informatics and Information Technology (CBIIT) and BTEP who advised in organizing this series:
-* Dr. Daoud Meerzaman
 * Dr. Amy Stonelake
+* Dr. Daoud Meerzaman
 * Dr. David Goldstein
 * Dr. Mariam Malik
 * Dr. Peter Fitzgerald
