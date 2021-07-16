@@ -24,7 +24,7 @@ Are you interested in learning how to use artificial intelligence for analysis o
 ## AI in Image Analysis, presented by CCR: AIR and High Throughput Imaging Facility
 **Date/Time:** June 15, 2021, 11 am – 12 pm ET
 
-**Recording:**[https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2)
+**Recording**: [https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-2-2021-06-15-11-00-57.mp4?_=2)
 
 **Slides:** [Gianluca's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/210615_ML_Short_Lowres.pdf), [G Tom's slides](https://github.com/CBIIT/p2p-datasci/raw/gh-pages/attachments/GTB-NCI-Digitpath-Talk-6-15-2021-final.pdf)
 
@@ -37,14 +37,15 @@ Are you interested in learning how to use artificial intelligence for analysis o
 ## AI in Molecular Data, presented by NVIDIA
 **Date/Time:** July 15, 2021, 1 – 2 pm ET
 
-**Meeting Link:** [https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95](https://cbiit.webex.com/cbiit/j.php?MTID=m933690e1ccdbfd15ae3f75d1cbec3b95)
-
-**Presenter:** Avantika Lal PhD, Senior Scientist | Deep Learning and Genomics | NVIDIA
+**Presenter:** Avantika Lal PhD, Senior Scientist, Deep Learning and Genomics, NVIDIA
 
 **Title:** Machine Learning Tools to Analyze Gene Expression and Regulation 
 
 **Description:** This talk will describe machine learning and deep learning methods to analyze bulk and single-cell RNA sequencing data, as well as deep learning models that integrate epigenetic data to decipher the regulatory networks underlying gene expression.
 
+**Presentation:** [here](../attachments/Machine-Learning-Tools-to-Analyze-Gene-Expression-and-Regulation.pdf)
+
+**Recording:** [here](https://btep.ccr.cancer.gov/wp-content/uploads/BTEP-AI-Seminar-Series-3-2021-07-15-13-00-58.mp4?_=3)
 ## AI for Multimodal Data, presented by members of the Strategic and Data Science Initiatives, Frederick National Laboratory for Cancer Research. 
 
 **Date/Time:** Sep 23, 2021, 1 – 2 pm ET
