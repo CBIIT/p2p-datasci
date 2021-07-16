@@ -15,6 +15,8 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 
 **Recording**: [here](https://youtu.be/NJ_3ExXXk_o)
 
+**Presentation**: [here](../attachments/AMPL-workshop-08042021.pdf)
+
 **Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
 
 **Registration:** Not required
