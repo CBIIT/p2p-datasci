@@ -13,6 +13,8 @@ Do you want to know how to use Machine Learning (ML) for accelerating drug disco
 
 **Time:** 1:00 p.m – 2:00 p.m. ET
 
+**Recording**: [here](https://youtu.be/NJ_3ExXXk_o)
+
 **Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
 
 **Registration:** Not required
