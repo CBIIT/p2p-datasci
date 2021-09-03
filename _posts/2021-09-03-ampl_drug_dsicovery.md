@@ -14,11 +14,7 @@ Join us on September 14, 2:00 pm – 3:30 pm ET for the second workshop on using
 
 **Time:** 2:00 p.m – 3:30 p.m. ET
 
-**Recording**: [here](https://youtu.be/NJ_3ExXXk_o)
-
-**Presentation**: [here](../attachments/AMPL-workshop-08042021.pdf)
-
-**Location:** [Webex](https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e48de54732116bf8fc1f281aae7d60bd2)
+**Location:** [Webex](https://cbiit.webex.com/cbiit/j.php?MTID=mf7ce215c871cd5ef2270d43b40ae481d)
 
 **Registration:** Not required
 
