@@ -31,21 +31,20 @@ The second workshop on September 14 will demonstrate three preliminary in-silico
 
 Note: This session will be 90 minutes and will use Google COLAB notebooks (compatible to Jupyter notebooks) for demonstration. Please see the outline below:
 
-Notebook-1: Ingestion, Cleaning and Exploratory Data Analysis(EDA) of Binding Assay Data (30 minutes)  
+**Notebook-1:** Ingestion, Cleaning and Exploratory Data Analysis(EDA) of Binding Assay Data (30 minutes)  
 * Issues associated with data ingestion and curation (data sources: Drug Data Commons; ChEMBL and ExCAPE-DB)  
 * Exploratory data analysis of the ingested datasets
 * Standardization of outcome units such as IC50 (etc. um to nM)
 * Data visualization and comparison
 
-Notebook-2: Standardization of SMILES, Featurization and Compound Overlap/Diversity using a Python Jupyter Notebook (30 minutes)
+**Notebook-2:** Standardization of SMILES, Featurization and Compound Overlap/Diversity using a Python Jupyter Notebook (30 minutes)
 
 * Compound overlap
 * SMILES standardization
 * Explore compound diversity using featurization and Tanimoto distance
 * Create plots/heatmaps for analysis
  
-
-Notebook-3: Curate, Merge Datasets to Create the Final ML-ready Dataset (30 minutes)
+**Notebook-3:** Curate, Merge Datasets to Create the Final ML-ready Dataset (30 minutes)
 * Removal of duplicates
 * Filter extreme data
 * Merge the DTC, ChEMBL, and ExCAPE-DB datasets to create a curated dataset
