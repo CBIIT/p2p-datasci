@@ -18,8 +18,8 @@ Join us on September 14, 2:00 pm – 3:30 pm ET for the second workshop on using
 
 **Registration:** Not required
 
-**Presenter:** [Sarangan Ravichandran, PhD, PMP](https://sites.google.com/site/sakaravi/) Senior Data Scientist, ATOM Consortium/Frederick National Laboratory for Cancer
-               Research ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
+**Presenter:** [Sarangan Ravichandran, PhD, PMP](https://sites.google.com/site/sakaravi/) Senior Data Scientist, <br>
+               ATOM Consortium/Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov)) and Adjunct Professor in Bioinformatics, Hood College
                
 **Supporting materials:** [Tutorial](https://github.com/ravichas/AMPL-workshop-2) and 
 [AMPL: A Data-Driven Modeling Pipeline for Drug Discovery](https://pubmed.ncbi.nlm.nih.gov/32243153/)
