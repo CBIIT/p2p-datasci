@@ -16,21 +16,20 @@ In this **six-week series of two-hour workshops**, we will introduce Bash, by fa
 
 **Dates and Topics:**
 
-* **Week 1, Sept 21, 11 a.m. – 1 p.m. ET**: *Setup, introducing the shell, navigating files and directories* (45)
-* **Week 2, Sept 28, 11 a.m. – 1 p.m. ET**: *Working with files and directories* (50)
-* **Week 3, Oct 5, 11 a.m. – 1 p.m. ET**: *Pipes and filters* (35)
-* **Week 4, Oct 12, 11 a.m. – 1 p.m. ET**: *Loops* (50)
-* **Week 5, Oct 19, 11 a.m. – 1 p.m. ET**: *Shell scripts* (45)
-* **Week 6, Oct 26, 11 a.m. – 1 p.m. ET**: *Finding things* (45)
+* **Week 1, Sept 21, 11 a.m. – 1 p.m. ET**: *Setup, introducing the shell, navigating files and directories*
+* **Week 2, Sept 28, 11 a.m. – 1 p.m. ET**: *Working with files and directories*
+* **Week 3, Oct 5, 11 a.m. – 1 p.m. ET**: *Pipes and filters*
+* **Week 4, Oct 12, 11 a.m. – 1 p.m. ET**: *Loops*
+* **Week 5, Oct 19, 11 a.m. – 1 p.m. ET**: *Shell scripts*
+* **Week 6, Oct 26, 11 a.m. – 1 p.m. ET**: *Finding things*
 
 **Workshop Recordings and Materials:**
 
-* **Recordings and Files**: *[https://github.com/CBIIT/p2p-datasci/tree/master/workshop_mate
-rials/2021-09-21-introduction_to_linux](https://github.com/CBIIT/p2p-datasci/tree/master/workshop_materials/2021-09-21-introduction_to_linux)*
+* **Recordings and Files**: *[Course folder on GitHub](https://github.com/CBIIT/p2p-datasci/tree/master/workshop_materials/2021-09-21-introduction_to_linux)*
 * **Software Carpentry Lesson**: *[The Unix Shell](http://swcarpentry.github.io/shell-novice)*
 
-**Before the workshop**: We will use a Linux virtual machine (VM) for this workshop. All registrants will receive access to this VM for the duration of each workshop. Instructions will be sent out for participants to test out loggin in to the VM before 9/21 so that we can jump right in to the course material.
+**Before the workshop**: We will use a Linux virtual machine (VM) for this workshop. All registrants will receive access to this VM for the duration of each workshop. Instructions will be sent out for participants to test out logging in to the VM before 9/21 so that we can jump right in to the course material.
 
-*Presenters:** Andrew Weisman, PhD, HPC Analyst; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, Frederick National Laboratory for Cancer Research ([NLCR](https://frederick.cancer.gov))
+**Presenters:** Andrew Weisman, PhD, HPC Analyst; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
