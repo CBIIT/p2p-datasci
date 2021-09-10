@@ -12,7 +12,7 @@ In this **six-week series of two-hour workshops**, we will introduce Bash, by fa
 
 **NOTE:** **This is a six-part course, held weekly for six weeks from 11 am – 1 pm, with a 20-minute lunch break**. When you register, you are registering for all six weeks. Please make sure you have time in your schedule to commit to all six sessions!
 
-**Registration is required**; the link will be posted here shortly.
+**Registration is required**; please register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBmZTSnRbXM9JpWdlqxYLNZxUOUg3VEFaRzMyRDBUTEhETzQxSklERDlXVS4u).
 
 **Dates and Topics:**
 
