@@ -6,7 +6,7 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
-The Linux "shell" is the command-line interface to the Linux operating system. It is built into all Linux systems, from Android devices to the world's largest supercomputers, including NIH's Biowulf supercomputer.
+The Linux "shell" is the command-line interface to the Linux operating system. It is built in to all Linux systems, from Android devices to the world's largest supercomputers, including NIH's Biowulf cluster.
 
 In this **six-week series of two-hour workshops**, we will introduce Bash, by far the most popular version of the Linux shell and a useful scripting language for Linux. Instructors will use the Linux terminal and you will follow along on a remote Linux system accessible by all course registrants, allowing you to gain a strong foundation in the fundamentals of and best practices for using Linux.
 
