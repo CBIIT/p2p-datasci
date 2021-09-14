@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Introduction to Linux"
-subtitle: "A Series of Hands-on Software Carpentry Workshops"
+title: "Introduction to the Linux Shell for Data Science"
+subtitle: "A 4-week Series of Hands-on Software Carpentry Workshops"
 cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
+
+**Join the Software Carpentry Series of Hands-on Workshops to learn how to use the Linux Shell for Data Science!**
 
 The Linux "shell" is the command-line interface to the Linux operating system. It is built in to all Linux systems, from Android devices to the world's largest supercomputers, including NIH's Biowulf cluster.
 
@@ -16,12 +18,10 @@ In this **six-week series of two-hour workshops**, we will introduce Bash, by fa
 
 **Dates and Topics:**
 
-* **Week 1, Sept 21, 11 a.m. – 1 p.m. ET:** *Setup, introducing the shell, navigating files and directories*
-* **Week 2, Sept 28, 11 a.m. – 1 p.m. ET:** *Working with files and directories*
-* **Week 3, Oct 5, 11 a.m. – 1 p.m. ET:** *Pipes and filters*
-* **Week 4, Oct 12, 11 a.m. – 1 p.m. ET:** *Loops*
-* **Week 5, Oct 19, 11 a.m. – 1 p.m. ET:** *Shell scripts*
-* **Week 6, Oct 26, 11 a.m. – 1 p.m. ET:** *Finding things*
+* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Setup, introducing the shell, navigating files and directories; Working with files and directories (Part I)* (67.5)
+* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters* (62.5)
+* **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)* (72.5)
+* **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things* (67.5)
 
 **Workshop Recordings and Materials:**
 
