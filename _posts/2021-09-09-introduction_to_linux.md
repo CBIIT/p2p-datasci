@@ -10,18 +10,18 @@ tags: [event-announcement]
 
 The Linux "shell" is the command-line interface to the Linux operating system. It is built in to all Linux systems, from Android devices to the world's largest supercomputers, including NIH's Biowulf cluster.
 
-In this **six-week series of two-hour workshops**, we will introduce Bash, by far the most popular version of the Linux shell and a useful scripting language for Linux. Instructors will use the Linux terminal and you will follow along on a remote Linux system accessible by all course registrants, allowing you to gain a strong foundation in the fundamentals of and best practices for using Linux.
+In this **four-week series of two-hour workshops**, we will introduce Bash, by far the most popular version of the Linux shell and a useful scripting language for Linux. Instructors will use the Linux terminal and you will follow along on a remote Linux system accessible by all course registrants, allowing you to gain a strong foundation in the fundamentals of and best practices for using Linux.
 
-**NOTE:** **This is a six-part course, held weekly for six weeks from 11 am – 1 pm, with a 20-minute lunch break**. When you register, you are registering for all six weeks. Please make sure you have time in your schedule to commit to all six sessions!
+**NOTE:** **This is a four-part course, held weekly for four weeks from 11 am – 1 pm, with a 20-minute lunch break**. When you register, you are registering for all four weeks. Please make sure you have time in your schedule to commit to all four sessions!
 
 **Registration is required**; please register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBmZTSnRbXM9JpWdlqxYLNZxUOUg3VEFaRzMyRDBUTEhETzQxSklERDlXVS4u).
 
 **Dates and Topics:**
 
-* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Setup, introducing the shell, navigating files and directories; Working with files and directories (Part I)* (67.5)
-* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters* (62.5)
-* **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)* (72.5)
-* **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things* (67.5)
+* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Setup, introducing the shell, navigating files and directories; Working with files and directories (Part I)*
+* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters*
+* **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)*
+* **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things*
 
 **Workshop Recordings and Materials:**
 
