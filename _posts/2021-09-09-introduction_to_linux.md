@@ -30,6 +30,6 @@ In this **four-week series of two-hour workshops**, we will introduce Bash, by f
 
 **Before the workshop:** We will use a Linux virtual machine (VM) for this workshop. All registrants will receive access to this VM for the duration of each workshop. Instructions will be sent out for participants to test out logging in to the VM before 9/21 so that we can jump right in to the course material.
 
-**Presenters:** Amy Stonelake, PhD, BTEP Program Manager; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov)); Andrew Weisman, PhD, HPC Analyst, Frederick National Laboratory for Cancer Research ([FNLCR](https://frederick.cancer.gov))
+**Presenters:** Amy Stonelake, PhD, BTEP Program Manager; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, [Frederick National Lab](https://frederick.cancer.gov); Andrew Weisman, PhD, HPC Analyst, [Frederick National Lab](https://frederick.cancer.gov)
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
