@@ -50,7 +50,9 @@ Are you interested in learning how to use artificial intelligence for analysis o
 
 **Date/Time:** Sep 23, 2021, 1 – 2 pm ET
 
-**Meeting Link:** [https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82](https://cbiit.webex.com/cbiit/j.php?MTID=m5fa0e43ae167ed5ea3a77fb25d339a82)
+**Slides:** [here](../attachments/ai-multi-modal-data.pdf])
+
+**Recording:** [here](https://cbiit.webex.com/cbiit/ldr.php?RCID=92945a2966904b533f2f35f05f044cac)
 
 **Presenters:** George Zaki, Bioinformatics Manager, Strategic and Data Science Initiatives (SDSI), Frederick National Laboratory for Cancer Research (FNL), Pinyi Lu, Bioinformatics analyst, SDSI, FNL
 
