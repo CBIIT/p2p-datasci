@@ -6,6 +6,22 @@ cover-img: "/assets/img/zebrafish.jpg"
 tags: [event-announcement]
 ---
 
+***
+
+**Update on 9/29/21:**
+
+Please note that this is an interactive workshop and that we strongly recommend that participants use the provided "virtual machine" (VM), to which all registrants will be granted access. This will ensure that all participants will see the exact same environment, the [course setup procedure](https://swcarpentry.github.io/shell-novice/setup.html) is automatically and correctly completed ahead of time, and we will be able to provide IT support if necessary.
+
+**The VM will only be available on the NIH network.** So if you cannot participate on an NIH campus nor access the virtual private network (VPN), you will need to set up for the workshop yourself, and we will likely be unable to help you with your local environment. However, the setup procedure is not terribly involved, particularly for Mac and Linux users; the steps can be [followed here](https://swcarpentry.github.io/shell-novice/setup.html).
+
+Otherwise, if you will have access to the NIH network, all you need to do to prepare for the workshop is check you are able to SSH into the provided VM (while connected to the network). Please follow the "SSH" subsections in either the "[Connecting from Windows](https://hpc.nih.gov/docs/connect.html#windows)," "[Connecting from Macs](https://hpc.nih.gov/docs/connect.html#macs)," or "[Connecting from Linux](https://hpc.nih.gov/docs/connect.html#linux)" sections at [this link](https://hpc.nih.gov/docs/connect.html), replacing "biowulf.nih.gov" or "helix.nih.gov" with the VM address that will be provided to registrants on or after 9/29/21. You will be notified via email once your account on the VM is ready; simply use your NIH username and password as your credentials for the VM. (For Windows' PuTTY setup instructions, there is no need to change any of the configuration options.)
+
+Regardless, all workshop sessions will be recorded and will be [posted here](https://cbiit.github.io/p2p-datasci/2021-09-09-introduction_to_linux).
+
+Please reach out to [NCIDataScienceLearningExchange@mail.nih.gov](mailto:mailto:NCIDataScienceLearningExchange@mail.nih.gov) if you have any questions or concerns.
+
+***
+
 **Join the Software Carpentry Series of Hands-on Workshops to learn how to use the Linux Shell for Data Science!**
 
 The Linux "shell" is the command-line interface to the Linux operating system. It is built in to all Linux systems, from Android devices to the world's largest supercomputers, including NIH's Biowulf cluster.
