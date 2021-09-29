@@ -34,7 +34,7 @@ In this **four-week series of two-hour workshops**, we will introduce Bash, by f
 
 **Dates and Topics:**
 
-* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Setup, introducing the shell, navigating files and directories; Working with files and directories (Part I)*
+* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Introducing the shell, navigating files and directories; Working with files and directories (Part I)*
 * **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters*
 * **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)*
 * **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things*
