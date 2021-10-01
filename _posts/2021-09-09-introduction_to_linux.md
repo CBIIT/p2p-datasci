@@ -34,10 +34,10 @@ In this **four-week series of two-hour workshops**, we will introduce Bash, by f
 
 **Dates and Topics:**
 
-* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Introducing the shell, navigating files and directories; Working with files and directories (Part I)*
-* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters*
-* **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)*
-* **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things*
+* **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Introducing the shell, navigating files and directories; Working with files and directories (Part I)* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=mb441857250caf7d6b287be4c80791f5f); meeting number: 2316 376 5365, password: October5@11am)
+* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=madc9f83d63106f8cca60844f08294a2e); meeting number: 2305 771 0695, password: October12@11am)
+* **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=m0b9b7194e5f54382eb185e304e68756f); meeting number: 2303 882 4082, password: October19@11am)
+* **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=m06faf0aea8f971e1a827a929ee072036); meeting number: 2317 368 0772, password: October26@11am)
 
 **Workshop Recordings and Materials:**
 
@@ -46,6 +46,6 @@ In this **four-week series of two-hour workshops**, we will introduce Bash, by f
 
 **Before the workshop:** We will use a Linux virtual machine (VM) for this workshop. All registrants will receive access to this VM for the duration of each workshop. Instructions will be sent out for participants to test out logging in to the VM before 9/21 so that we can jump right in to the course material.
 
-**Presenters:** Amy Stonelake, PhD, BTEP Program Manager; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager, [Frederick National Lab](https://frederick.cancer.gov); Andrew Weisman, PhD, HPC Analyst, [Frederick National Lab](https://frederick.cancer.gov)
+**Presenters:** Amy Stonelake, PhD, BTEP Program Manager; [George Zaki, PhD](https://www.linkedin.com/in/george-zaki-361b2131/), Bioinformatics Manager; Andrew Weisman, PhD, HPC Analyst, [Frederick National Lab](https://frederick.cancer.gov)
 
 **Questions?** Contact the [NCI Data Science Learning Exchange](mailto:NCIDataScienceLearningExchange@mail.nih.gov)
