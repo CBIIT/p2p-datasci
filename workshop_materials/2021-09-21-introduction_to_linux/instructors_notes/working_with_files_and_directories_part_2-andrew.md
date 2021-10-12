@@ -38,7 +38,7 @@
 
 ## [Copying files and directories](https://swcarpentry.github.io/shell-novice/03-create/index.html#copying-files-and-directories)
 
-* `cp` works like `mv` except is copies a file instead of moving it
+* `cp` works like `mv` except it copies a file instead of moving it
 * Use it to copy `quotes.txt` to `thesis/quotations.txt`
 * Check using `ls` with both arguments (same exact arguments as `cp` command) to see that the file exists in both places
 * Copy a directory and all its contents using the recursive option `-r`, e.g., to back up a directory: `cp -r thesis thesis_backup`
