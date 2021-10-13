@@ -35,7 +35,7 @@ In this **four-week series of two-hour workshops**, we will introduce Bash, by f
 **Dates, Topics, and Recordings:**
 
 * **Week 1, Oct 5, 11 a.m. – 1 p.m. ET:** *Introducing the shell, navigating files and directories; Working with files and directories (Part I)* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=mb441857250caf7d6b287be4c80791f5f); meeting number: 2316 376 5365, password: October5@11am) ([Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/playback/b1861f7c081b103ab2fc00505681acf4))
-* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=madc9f83d63106f8cca60844f08294a2e); meeting number: 2305 771 0695, password: October12@11am)
+* **Week 2, Oct 12, 11 a.m. – 1 p.m. ET:** *Working with files and directories (Part II); Pipes and filters* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=madc9f83d63106f8cca60844f08294a2e); meeting number: 2305 771 0695, password: October12@11am) ([Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/playback/c30a5c950d9b103abd970050568cfa13))
 * **Week 3, Oct 19, 11 a.m. – 1 p.m. ET:** *Loops; Shell scripts (Part I)* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=m0b9b7194e5f54382eb185e304e68756f); meeting number: 2303 882 4082, password: October19@11am)
 * **Week 4, Oct 26, 11 a.m. – 1 p.m. ET:** *Shell scripts (Part II); Finding things* ([WebEx link](https://cbiit.webex.com/cbiit/j.php?MTID=m06faf0aea8f971e1a827a929ee072036); meeting number: 2317 368 0772, password: October26@11am)
 
