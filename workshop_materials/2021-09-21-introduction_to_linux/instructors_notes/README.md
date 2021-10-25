@@ -4,3 +4,5 @@
 * Session 1: Working with files and directories (Part I) - George Zaki
 * Session 2: [Working with files and directories (Part II)](./working_with_files_and_directories_part_2-andrew.md) - Andrew Weisman
 * Session 2: [Pipes and filters](https://github.com/AmyStonelake/SW-Carpentry-Unix-Shell/wiki/Software-Carpentry-The-Unix-Shell-Supplement#4-pipes-and-filters) - Amy Stonelake
+* Session 3: Loops - George Zaki
+* Session 3: [Shell scripts (Part I)](https://github.com/AmyStonelake/Shell_scripts_notes/wiki/Software-Carpentry,-The-Unix-Shell,-Shell-Scripts) - Amy Stonelake
