@@ -78,38 +78,15 @@ bash sorted.sh
 
 and it would indeed sort all the `.pdb` files by length.
 
-What if you wanted to sort all the files of a different type, e.g., `.txt` files?
-
-One option would be to make the file extension an argument, e.g.,
-
-```bash
-# Contents of sorted.sh:
-
-wc -l *."$1" | sort -n
-```
-
-and run the script like
+What if you wanted to sort an arbitrary set of files given on the command line? E.g.,
 
 ```bash
 # From the command line:
 
-bash sorted.sh txt
+bash sorted.sh *.pdb ../creatures/*.dat
 ```
 
-This is fine, but what if you wanted to sort a truly arbitrary set of files as arguments to the script? E.g.,
-
-```bash
-# From the command line:
-
-bash sorted.sh *.pdb                  # sort all .pdb files
-bash sorted.sh *.txt                  # sort all .txt files
-bash sorted.sh andrew.txt octane.pdb  # sort specific files
-bash sorted.sh *                      # sort all files
-```
-
-Question: How do we get all these cases to work?
-
-Answer: Use the special variable `$@` to refer to "all command-line arguments to the shell script":
+The answer is to use the special variable `$@` to refer to "all command-line arguments to the shell script":
 
 ```bash
 # Contents of sorted.sh:
@@ -118,14 +95,6 @@ wc -l "$@" | sort -n
 ```
 
 Note: `"$@"` is special syntax and is equivalent to `"$1" "$2" "$3" ...`.
-
-Try running it using:
-
-```bash
-# From the command line:
-
-bash sorted.sh *.pdb ../creatures/*.dat
-```
 
 **Homework: [List unique species](https://swcarpentry.github.io/shell-novice/06-script/index.html#list-unique-species)**
 
